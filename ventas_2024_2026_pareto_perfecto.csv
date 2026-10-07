@@ -1,0 +1,1501 @@
+﻿﻿ID_Venta,Fecha,Cliente,Vendedor,Categoria,Producto,Cantidad,Precio_Unitario,Facturacion,Ciudad,Region
+VTA-10912,2024-01-01,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10713,2024-01-01,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10321,2024-01-02,Industria Caribe,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-11093,2024-01-02,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10810,2024-01-03,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10570,2024-01-04,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10877,2024-01-06,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11254,2024-01-07,Supermercados Unidos,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10471,2024-01-08,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11310,2024-01-09,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11465,2024-01-10,Industria Caribe,Luis Sánchez,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10828,2024-01-10,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10131,2024-01-10,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11435,2024-01-11,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10542,2024-01-11,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11219,2024-01-12,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11497,2024-01-12,Industria Caribe,Luis Sánchez,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-10941,2024-01-12,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10037,2024-01-12,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10759,2024-01-13,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10678,2024-01-14,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10065,2024-01-14,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10173,2024-01-15,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11448,2024-01-16,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10894,2024-01-16,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10530,2024-01-16,Logística Express,Patricia Ramos,Tecnología,Monitor Profesional 27'',1,10000.0,10000.0,Bonao,Cibao Central
+VTA-10720,2024-01-17,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11143,2024-01-17,Seguros Nacional,Ana Morales,Tecnología,Laptop ThinkPad T14,4,2500.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10434,2024-01-18,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10438,2024-01-19,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10462,2024-01-19,Hoteles del Este,Patricia Ramos,Tecnología,Access Point WiFi 6,4,2500.0,10000.0,Bonao,Cibao Central
+VTA-10669,2024-01-19,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Punta Cana,Este
+VTA-11369,2024-01-20,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10814,2024-01-21,Industria Caribe,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-11275,2024-01-22,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10241,2024-01-22,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11348,2024-01-23,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11231,2024-01-24,Seguros Nacional,Carlos Díaz,Software & Cloud,Servicio Backup Veeam,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-11057,2024-01-24,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11175,2024-01-25,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10647,2024-01-25,Agropecuaria Central,Roberto Peña,Seguridad,Cámaras CCTV 4K,4,2500.0,10000.0,San Francisco,Cibao Central
+VTA-10121,2024-01-25,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10989,2024-01-26,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10222,2024-01-27,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11008,2024-01-27,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10331,2024-01-27,Industria Caribe,Luis Sánchez,Tecnología,Storage SAN Synology,1,10000.0,10000.0,Punta Cana,Este
+VTA-10581,2024-01-28,Logística Express,Elena Castro,Software & Cloud,Licencia Antivirus Corp,1,10000.0,10000.0,San Cristóbal,Sur
+VTA-10970,2024-01-29,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10811,2024-01-29,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-11090,2024-01-31,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10943,2024-02-01,Hoteles del Este,Javier Vargas,Tecnología,Impresora Multifuncional,4,2500.0,10000.0,Higüey,Este
+VTA-10355,2024-02-01,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10020,2024-02-04,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10115,2024-02-04,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11436,2024-02-04,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10202,2024-02-04,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10075,2024-02-06,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10809,2024-02-08,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10488,2024-02-08,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10538,2024-02-09,Seguros Nacional,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Punta Cana,Este
+VTA-10123,2024-02-11,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10821,2024-02-12,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10609,2024-02-13,Farmacias del Sol,Ana Morales,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Punta Cana,Este
+VTA-10127,2024-02-14,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11410,2024-02-14,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10725,2024-02-14,Constructora Metro,Roberto Peña,Tecnología,Access Point WiFi 6,2,5000.0,10000.0,La Vega,Cibao Central
+VTA-10328,2024-02-14,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11356,2024-02-16,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10980,2024-02-16,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10830,2024-02-18,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10783,2024-02-18,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10631,2024-02-18,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10096,2024-02-19,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11043,2024-02-20,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-11468,2024-02-21,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10014,2024-02-22,Retail Dominicana,Ana Morales,Tecnología,Storage SAN Synology,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-11323,2024-02-22,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11251,2024-02-22,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10311,2024-02-23,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10656,2024-02-24,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10745,2024-02-25,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10268,2024-02-25,Farmacias del Sol,Carlos Díaz,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-11481,2024-02-25,Supermercados Unidos,Carlos Díaz,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10354,2024-02-25,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11500,2024-02-26,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10852,2024-02-27,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10591,2024-02-28,Seguros Nacional,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Punta Cana,Este
+VTA-10973,2024-03-02,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11358,2024-03-02,Agropecuaria Central,Miguel Torres,Tecnología,Monitor Profesional 27'',2,5000.0,10000.0,Higüey,Este
+VTA-10288,2024-03-05,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11487,2024-03-06,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11159,2024-03-06,Farmacias del Sol,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-11218,2024-03-07,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10921,2024-03-08,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10414,2024-03-08,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11085,2024-03-09,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10632,2024-03-09,Seguros Nacional,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10249,2024-03-09,Industria Caribe,Ana Morales,Seguridad,Firewall Fortinet 200F,4,2500.0,10000.0,La Romana,Este
+VTA-10563,2024-03-11,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10437,2024-03-11,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10930,2024-03-13,Retail Dominicana,Luis Sánchez,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-10153,2024-03-13,Farmacias del Sol,Carlos Díaz,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,Punta Cana,Este
+VTA-10864,2024-03-13,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10381,2024-03-13,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10873,2024-03-13,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10364,2024-03-14,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10152,2024-03-14,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10109,2024-03-15,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10192,2024-03-15,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10901,2024-03-15,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10955,2024-03-15,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10561,2024-03-15,Industria Caribe,Carlos Díaz,Tecnología,Switch Cisco Catalyst,4,2500.0,10000.0,La Romana,Este
+VTA-11452,2024-03-17,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10430,2024-03-18,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10193,2024-03-18,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11041,2024-03-19,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11376,2024-03-19,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11132,2024-03-19,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10141,2024-03-19,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10672,2024-03-21,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10463,2024-03-21,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10611,2024-03-24,Logística Express,Miguel Torres,Tecnología,Monitor Profesional 27'',1,10000.0,10000.0,San Francisco,Cibao Central
+VTA-10758,2024-03-24,Constructora Metro,Roberto Peña,Seguridad,Cámaras CCTV 4K,2,5000.0,10000.0,San Francisco,Cibao Central
+VTA-10630,2024-03-25,Seguros Nacional,Carlos Díaz,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Punta Cana,Este
+VTA-10460,2024-03-25,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11351,2024-03-25,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11387,2024-03-26,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10791,2024-03-27,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10160,2024-03-29,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10522,2024-03-30,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11128,2024-03-30,Constructora Metro,Elena Castro,Mobiliario,Silla Ejecutiva Pro,1,10000.0,10000.0,San Cristóbal,Sur
+VTA-10100,2024-03-30,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10778,2024-03-31,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11490,2024-03-31,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10963,2024-04-01,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10391,2024-04-01,Hoteles del Este,Elena Castro,Tecnología,Access Point WiFi 6,2,5000.0,10000.0,La Vega,Cibao Central
+VTA-11343,2024-04-02,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10239,2024-04-03,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11433,2024-04-03,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10374,2024-04-03,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10641,2024-04-04,Retail Dominicana,Ana Morales,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Punta Cana,Este
+VTA-10812,2024-04-06,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10351,2024-04-06,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10557,2024-04-08,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11035,2024-04-08,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10934,2024-04-08,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10996,2024-04-09,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11185,2024-04-09,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11243,2024-04-09,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10815,2024-04-11,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10692,2024-04-12,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10882,2024-04-12,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-11334,2024-04-12,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11162,2024-04-12,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10902,2024-04-12,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11111,2024-04-13,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11276,2024-04-14,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10264,2024-04-14,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10578,2024-04-14,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11016,2024-04-15,Retail Dominicana,Carlos Díaz,Tecnología,Laptop ThinkPad T14,2,5000.0,10000.0,La Romana,Este
+VTA-11028,2024-04-15,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10755,2024-04-16,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10385,2024-04-16,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10525,2024-04-17,Retail Dominicana,Carlos Díaz,Seguridad,Firewall Fortinet 200F,4,2500.0,10000.0,Punta Cana,Este
+VTA-10317,2024-04-17,Retail Dominicana,Ana Morales,Software & Cloud,Servicio Backup Veeam,1,10000.0,10000.0,Punta Cana,Este
+VTA-10919,2024-04-18,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10493,2024-04-19,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10817,2024-04-20,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10960,2024-04-21,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10519,2024-04-21,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10298,2024-04-21,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11406,2024-04-22,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11311,2024-04-22,Seguros Nacional,Ana Morales,Tecnología,Storage SAN Synology,2,5000.0,10000.0,Punta Cana,Este
+VTA-10605,2024-04-23,Retail Dominicana,Luis Sánchez,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,La Romana,Este
+VTA-10949,2024-04-23,Distribuidora RD,Roberto Peña,Tecnología,Access Point WiFi 6,2,5000.0,10000.0,San Francisco,Cibao Central
+VTA-10305,2024-04-23,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11089,2024-04-24,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-11237,2024-04-25,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10215,2024-04-25,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11022,2024-04-26,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10148,2024-04-26,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10767,2024-04-26,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10373,2024-04-26,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10885,2024-04-26,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10057,2024-04-27,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11241,2024-04-27,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11268,2024-04-28,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10368,2024-04-29,Logística Express,Patricia Ramos,Tecnología,Monitor Profesional 27'',1,10000.0,10000.0,La Vega,Cibao Central
+VTA-11051,2024-04-30,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10412,2024-04-30,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11166,2024-04-30,Constructora Metro,Patricia Ramos,Mobiliario,Silla Ejecutiva Pro,1,10000.0,10000.0,San Cristóbal,Sur
+VTA-10024,2024-05-01,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10299,2024-05-01,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10435,2024-05-02,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10261,2024-05-04,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10322,2024-05-04,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10350,2024-05-05,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10295,2024-05-05,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10644,2024-05-06,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11287,2024-05-06,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10627,2024-05-07,Industria Caribe,Luis Sánchez,Software & Cloud,Servicio Backup Veeam,1,10000.0,10000.0,Punta Cana,Este
+VTA-11443,2024-05-07,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10243,2024-05-07,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10286,2024-05-07,Industria Caribe,Ana Morales,Tecnología,Storage SAN Synology,4,2500.0,10000.0,Punta Cana,Este
+VTA-10874,2024-05-08,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10325,2024-05-08,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10154,2024-05-09,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10426,2024-05-09,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10335,2024-05-09,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11342,2024-05-09,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10370,2024-05-09,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10461,2024-05-11,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10715,2024-05-12,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10785,2024-05-12,Seguros Nacional,Ana Morales,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-11050,2024-05-12,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-11391,2024-05-12,Seguros Nacional,Luis Sánchez,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Punta Cana,Este
+VTA-11018,2024-05-12,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10005,2024-05-13,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11178,2024-05-16,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11427,2024-05-17,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10735,2024-05-17,Seguros Nacional,Ana Morales,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,La Romana,Este
+VTA-10417,2024-05-19,Farmacias del Sol,Carlos Díaz,Software & Cloud,Servicio Backup Veeam,4,2500.0,10000.0,La Romana,Este
+VTA-11347,2024-05-19,TecnoGlobal,Elena Castro,Mobiliario,Silla Ejecutiva Pro,2,5000.0,10000.0,San Cristóbal,Sur
+VTA-10975,2024-05-20,Seguros Nacional,Ana Morales,Seguridad,Firewall Fortinet 200F,4,2500.0,10000.0,Punta Cana,Este
+VTA-10442,2024-05-22,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10950,2024-05-22,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11023,2024-05-23,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10548,2024-05-23,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10693,2024-05-25,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10277,2024-05-25,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-11127,2024-05-25,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10063,2024-05-26,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11271,2024-05-26,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10408,2024-05-27,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11207,2024-05-28,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11482,2024-05-28,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10842,2024-05-28,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10590,2024-05-29,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11033,2024-05-29,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10709,2024-05-29,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11209,2024-05-30,Seguros Nacional,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Punta Cana,Este
+VTA-10377,2024-05-31,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10741,2024-05-31,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10189,2024-05-31,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11133,2024-06-01,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11474,2024-06-01,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10390,2024-06-02,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10137,2024-06-02,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10843,2024-06-03,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10439,2024-06-03,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10382,2024-06-05,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10263,2024-06-09,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10510,2024-06-12,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10251,2024-06-13,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10210,2024-06-13,Supermercados Unidos,Ana Morales,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-10366,2024-06-14,Retail Dominicana,Luis Sánchez,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,La Romana,Este
+VTA-10779,2024-06-14,Agropecuaria Central,Elena Castro,Mobiliario,Silla Ejecutiva Pro,2,5000.0,10000.0,San Francisco,Cibao Central
+VTA-10786,2024-06-14,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10584,2024-06-15,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10706,2024-06-15,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10596,2024-06-16,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10077,2024-06-16,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10110,2024-06-16,Constructora Metro,Miguel Torres,Seguridad,Cámaras CCTV 4K,1,10000.0,10000.0,San Francisco,Cibao Central
+VTA-11011,2024-06-17,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10535,2024-06-17,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10271,2024-06-19,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10041,2024-06-19,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10314,2024-06-19,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10635,2024-06-19,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11119,2024-06-20,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10954,2024-06-20,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10764,2024-06-21,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11265,2024-06-21,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11056,2024-06-21,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10365,2024-06-24,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10907,2024-06-24,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11412,2024-06-25,Supermercados Unidos,Luis Sánchez,Tecnología,Storage SAN Synology,2,5000.0,10000.0,Punta Cana,Este
+VTA-10903,2024-06-26,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10536,2024-06-26,Seguros Nacional,Carlos Díaz,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,Punta Cana,Este
+VTA-10010,2024-06-27,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10308,2024-06-27,Farmacias del Sol,Luis Sánchez,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Punta Cana,Este
+VTA-10047,2024-06-27,Hoteles del Este,Elena Castro,Seguridad,Cámaras CCTV 4K,1,10000.0,10000.0,Higüey,Este
+VTA-10752,2024-06-28,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10497,2024-06-28,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10922,2024-06-29,Constructora Metro,Roberto Peña,Mobiliario,Escritorio Ergonómico,1,10000.0,10000.0,La Vega,Cibao Central
+VTA-10920,2024-06-29,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11167,2024-06-30,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11180,2024-06-30,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11383,2024-06-30,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10428,2024-07-01,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11284,2024-07-01,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10195,2024-07-02,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10334,2024-07-03,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11032,2024-07-04,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10929,2024-07-06,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10352,2024-07-09,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11270,2024-07-09,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11064,2024-07-10,Industria Caribe,Carlos Díaz,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10168,2024-07-10,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10433,2024-07-10,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10708,2024-07-12,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10509,2024-07-12,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10028,2024-07-13,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10677,2024-07-14,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10002,2024-07-14,Retail Dominicana,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,La Romana,Este
+VTA-11313,2024-07-15,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11255,2024-07-15,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10159,2024-07-15,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11076,2024-07-16,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10592,2024-07-17,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10360,2024-07-17,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10411,2024-07-17,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10849,2024-07-18,Seguros Nacional,Carlos Díaz,Tecnología,Laptop ThinkPad T14,4,2500.0,10000.0,Punta Cana,Este
+VTA-11112,2024-07-18,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11423,2024-07-18,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10406,2024-07-18,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10564,2024-07-18,Supermercados Unidos,Ana Morales,Tecnología,Switch Cisco Catalyst,4,2500.0,10000.0,Punta Cana,Este
+VTA-11147,2024-07-20,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10813,2024-07-21,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10386,2024-07-23,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10424,2024-07-23,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11239,2024-07-24,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10158,2024-07-24,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10319,2024-07-24,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10301,2024-07-25,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11370,2024-07-26,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11125,2024-07-26,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10841,2024-07-26,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10884,2024-07-27,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10162,2024-07-27,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10513,2024-07-28,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11264,2024-07-28,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11006,2024-07-29,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11206,2024-07-29,Hoteles del Este,Patricia Ramos,Tecnología,Monitor Profesional 27'',2,5000.0,10000.0,San Cristóbal,Sur
+VTA-10687,2024-07-29,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10327,2024-07-29,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10883,2024-07-30,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11113,2024-07-30,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11419,2024-07-31,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11272,2024-07-31,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11192,2024-08-01,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10604,2024-08-01,Retail Dominicana,Carlos Díaz,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Punta Cana,Este
+VTA-10730,2024-08-01,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10780,2024-08-01,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10083,2024-08-01,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11066,2024-08-02,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-11083,2024-08-02,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10260,2024-08-03,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10477,2024-08-03,Industria Caribe,Ana Morales,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-10172,2024-08-03,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11321,2024-08-04,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10833,2024-08-05,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11149,2024-08-05,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10546,2024-08-06,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10643,2024-08-06,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10868,2024-08-07,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10544,2024-08-08,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10869,2024-08-08,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11280,2024-08-08,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-11150,2024-08-09,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11345,2024-08-10,TecnoGlobal,Miguel Torres,Tecnología,Access Point WiFi 6,1,10000.0,10000.0,Higüey,Este
+VTA-10805,2024-08-11,Logística Express,Roberto Peña,Software & Cloud,Licencia Antivirus Corp,2,5000.0,10000.0,Higüey,Este
+VTA-10213,2024-08-11,Industria Caribe,Ana Morales,Seguridad,Firewall Fortinet 200F,4,2500.0,10000.0,Punta Cana,Este
+VTA-11382,2024-08-13,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10653,2024-08-14,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10756,2024-08-14,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10938,2024-08-16,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10502,2024-08-16,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11012,2024-08-16,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11197,2024-08-16,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10827,2024-08-17,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11081,2024-08-18,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11336,2024-08-18,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10179,2024-08-19,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10049,2024-08-19,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11039,2024-08-20,Farmacias del Sol,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,La Romana,Este
+VTA-10409,2024-08-20,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11432,2024-08-21,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11302,2024-08-22,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10965,2024-08-23,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,La Romana,Este
+VTA-10231,2024-08-23,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10545,2024-08-24,Industria Caribe,Luis Sánchez,Tecnología,Storage SAN Synology,1,10000.0,10000.0,La Romana,Este
+VTA-10655,2024-08-24,Distribuidora RD,Miguel Torres,Seguridad,Cámaras CCTV 4K,1,10000.0,10000.0,San Cristóbal,Sur
+VTA-10645,2024-08-25,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-11364,2024-08-25,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10432,2024-08-25,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10595,2024-08-26,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11337,2024-08-27,Agropecuaria Central,Roberto Peña,Seguridad,Cámaras CCTV 4K,1,10000.0,10000.0,San Cristóbal,Sur
+VTA-11258,2024-08-27,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10895,2024-08-30,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10140,2024-09-03,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10594,2024-09-03,Logística Express,Roberto Peña,Mobiliario,Escritorio Ergonómico,2,5000.0,10000.0,Higüey,Este
+VTA-10388,2024-09-03,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10851,2024-09-04,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11082,2024-09-04,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11257,2024-09-06,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10515,2024-09-07,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10257,2024-09-07,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10684,2024-09-08,Retail Dominicana,Ana Morales,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-10722,2024-09-08,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10074,2024-09-09,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11368,2024-09-10,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10425,2024-09-10,Textil Caribe,Roberto Peña,Mobiliario,Escritorio Ergonómico,1,10000.0,10000.0,San Cristóbal,Sur
+VTA-10531,2024-09-10,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10835,2024-09-11,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10549,2024-09-11,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10959,2024-09-11,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10703,2024-09-11,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10553,2024-09-12,Constructora Metro,Miguel Torres,Tecnología,Access Point WiFi 6,2,5000.0,10000.0,San Francisco,Cibao Central
+VTA-11117,2024-09-12,Industria Caribe,Ana Morales,Software & Cloud,Servicio Backup Veeam,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10228,2024-09-12,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11289,2024-09-13,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10838,2024-09-13,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11281,2024-09-14,Hoteles del Este,Roberto Peña,Seguridad,Cámaras CCTV 4K,4,2500.0,10000.0,San Francisco,Cibao Central
+VTA-10826,2024-09-14,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10742,2024-09-15,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10839,2024-09-15,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11161,2024-09-15,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11210,2024-09-16,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11106,2024-09-17,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11226,2024-09-18,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11001,2024-09-20,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10011,2024-09-21,Seguros Nacional,Carlos Díaz,Tecnología,Storage SAN Synology,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10034,2024-09-22,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10485,2024-09-22,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11414,2024-09-23,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11019,2024-09-25,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10175,2024-09-26,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10346,2024-09-26,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10837,2024-09-27,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10445,2024-09-27,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11191,2024-09-27,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10138,2024-09-28,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11171,2024-09-29,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10182,2024-09-29,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10244,2024-09-29,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10663,2024-10-01,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11004,2024-10-01,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10514,2024-10-01,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11003,2024-10-02,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10302,2024-10-04,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11134,2024-10-05,Logística Express,Miguel Torres,Mobiliario,Silla Ejecutiva Pro,1,10000.0,10000.0,Higüey,Este
+VTA-11240,2024-10-06,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11126,2024-10-06,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11228,2024-10-06,Seguros Nacional,Ana Morales,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Punta Cana,Este
+VTA-10572,2024-10-07,Distribuidora RD,Miguel Torres,Tecnología,Monitor Profesional 27'',1,10000.0,10000.0,San Cristóbal,Sur
+VTA-10667,2024-10-09,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11075,2024-10-09,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11158,2024-10-09,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10927,2024-10-11,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10187,2024-10-11,Farmacias del Sol,Ana Morales,Tecnología,Storage SAN Synology,1,10000.0,10000.0,Punta Cana,Este
+VTA-10986,2024-10-12,Supermercados Unidos,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,La Romana,Este
+VTA-10500,2024-10-15,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11362,2024-10-15,Constructora Metro,Patricia Ramos,Software & Cloud,Licencia Antivirus Corp,2,5000.0,10000.0,San Cristóbal,Sur
+VTA-11290,2024-10-15,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10968,2024-10-15,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10819,2024-10-17,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11105,2024-10-17,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11247,2024-10-19,Farmacias del Sol,Ana Morales,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,Punta Cana,Este
+VTA-10484,2024-10-20,Seguros Nacional,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Punta Cana,Este
+VTA-11204,2024-10-21,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11425,2024-10-21,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10746,2024-10-22,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10278,2024-10-22,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11055,2024-10-23,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11453,2024-10-23,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10937,2024-10-23,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10492,2024-10-24,Seguros Nacional,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-11293,2024-10-24,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10208,2024-10-24,Seguros Nacional,Luis Sánchez,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10619,2024-10-26,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11300,2024-10-28,Industria Caribe,Luis Sánchez,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-11303,2024-10-28,Industria Caribe,Ana Morales,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-10401,2024-10-28,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11422,2024-10-29,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11244,2024-10-31,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10565,2024-11-02,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10465,2024-11-02,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10399,2024-11-03,Farmacias del Sol,Luis Sánchez,Tecnología,Laptop ThinkPad T14,2,5000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10507,2024-11-04,Hoteles del Este,Miguel Torres,Mobiliario,Escritorio Ergonómico,1,10000.0,10000.0,Higüey,Este
+VTA-10469,2024-11-04,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10575,2024-11-04,Seguros Nacional,Ana Morales,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-10064,2024-11-04,Logística Express,Miguel Torres,Tecnología,Access Point WiFi 6,2,5000.0,10000.0,Higüey,Este
+VTA-10079,2024-11-05,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10744,2024-11-05,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10914,2024-11-05,Hoteles del Este,Roberto Peña,Tecnología,Impresora Multifuncional,1,10000.0,10000.0,Higüey,Este
+VTA-11129,2024-11-06,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10201,2024-11-07,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10343,2024-11-09,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11392,2024-11-09,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10904,2024-11-10,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11097,2024-11-12,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11402,2024-11-13,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10371,2024-11-13,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10721,2024-11-13,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10171,2024-11-13,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10046,2024-11-14,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11179,2024-11-15,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10957,2024-11-15,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10429,2024-11-17,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11048,2024-11-18,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11101,2024-11-18,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11420,2024-11-18,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10654,2024-11-18,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11459,2024-11-19,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10622,2024-11-20,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10917,2024-11-20,Industria Caribe,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-10878,2024-11-21,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10777,2024-11-21,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11144,2024-11-21,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11225,2024-11-21,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10320,2024-11-22,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10030,2024-11-22,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11245,2024-11-23,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11049,2024-11-24,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10134,2024-11-24,Farmacias del Sol,Luis Sánchez,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,La Romana,Este
+VTA-10144,2024-11-25,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10534,2024-11-25,Industria Caribe,Ana Morales,Tecnología,Laptop ThinkPad T14,2,5000.0,10000.0,La Romana,Este
+VTA-10015,2024-11-25,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10107,2024-11-26,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10888,2024-11-26,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11375,2024-11-27,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10732,2024-11-27,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10338,2024-11-29,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11396,2024-11-29,Seguros Nacional,Carlos Díaz,Tecnología,Storage SAN Synology,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10221,2024-11-30,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10781,2024-11-30,Industria Caribe,Ana Morales,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,La Romana,Este
+VTA-10550,2024-12-01,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10942,2024-12-02,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10383,2024-12-03,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10521,2024-12-04,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11484,2024-12-05,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10087,2024-12-08,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10102,2024-12-08,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10498,2024-12-08,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10367,2024-12-09,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11440,2024-12-09,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10097,2024-12-12,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10753,2024-12-13,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11305,2024-12-13,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10019,2024-12-13,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10022,2024-12-14,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10232,2024-12-14,Retail Dominicana,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10794,2024-12-15,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10806,2024-12-16,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10714,2024-12-16,Retail Dominicana,Luis Sánchez,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,La Romana,Este
+VTA-10491,2024-12-17,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10227,2024-12-17,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10762,2024-12-18,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10750,2024-12-20,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10539,2024-12-20,Retail Dominicana,Ana Morales,Software & Cloud,Servicio Backup Veeam,1,10000.0,10000.0,Punta Cana,Este
+VTA-11058,2024-12-21,Farmacias del Sol,Carlos Díaz,Tecnología,Laptop ThinkPad T14,4,2500.0,10000.0,La Romana,Este
+VTA-10440,2024-12-22,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11417,2024-12-22,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10845,2024-12-23,Retail Dominicana,Luis Sánchez,Software & Cloud,Servicio Backup Veeam,2,5000.0,10000.0,La Romana,Este
+VTA-10626,2024-12-23,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11458,2024-12-24,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10945,2024-12-27,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11457,2024-12-28,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11353,2024-12-28,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11233,2024-12-28,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11190,2024-12-29,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10453,2024-12-29,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11253,2024-12-29,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10600,2025-01-01,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11013,2025-01-01,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10039,2025-01-02,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10659,2025-01-02,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10216,2025-01-02,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10560,2025-01-02,Retail Dominicana,Carlos Díaz,Software & Cloud,Servicio Backup Veeam,2,5000.0,10000.0,Punta Cana,Este
+VTA-11495,2025-01-03,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11318,2025-01-03,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10036,2025-01-03,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10289,2025-01-03,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11212,2025-01-05,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10660,2025-01-05,Industria Caribe,Luis Sánchez,Tecnología,Storage SAN Synology,1,10000.0,10000.0,Punta Cana,Este
+VTA-10436,2025-01-07,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10863,2025-01-07,Retail Dominicana,Luis Sánchez,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-11309,2025-01-08,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10165,2025-01-09,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11340,2025-01-09,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10796,2025-01-09,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10384,2025-01-10,Supermercados Unidos,Luis Sánchez,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-10734,2025-01-10,Distribuidora RD,Roberto Peña,Seguridad,Cámaras CCTV 4K,2,5000.0,10000.0,San Cristóbal,Sur
+VTA-11294,2025-01-10,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10566,2025-01-11,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11091,2025-01-11,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10640,2025-01-12,Farmacias del Sol,Carlos Díaz,Tecnología,Storage SAN Synology,1,10000.0,10000.0,Punta Cana,Este
+VTA-10443,2025-01-12,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11079,2025-01-13,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11395,2025-01-13,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11415,2025-01-13,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11234,2025-01-14,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11000,2025-01-15,Agropecuaria Central,Patricia Ramos,Seguridad,Cámaras CCTV 4K,1,10000.0,10000.0,La Vega,Cibao Central
+VTA-10211,2025-01-17,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10190,2025-01-17,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11325,2025-01-19,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10237,2025-01-20,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10018,2025-01-21,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10652,2025-01-21,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10939,2025-01-22,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10940,2025-01-25,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10330,2025-01-25,Seguros Nacional,Carlos Díaz,Tecnología,Storage SAN Synology,1,10000.0,10000.0,Punta Cana,Este
+VTA-11317,2025-01-26,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10236,2025-01-26,Farmacias del Sol,Ana Morales,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-11385,2025-01-26,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10628,2025-01-26,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11084,2025-01-27,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10977,2025-01-27,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11274,2025-01-28,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11388,2025-01-28,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10757,2025-01-30,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11441,2025-01-30,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10775,2025-01-30,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10459,2025-01-31,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10533,2025-01-31,Retail Dominicana,Carlos Díaz,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10300,2025-02-01,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10567,2025-02-02,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10104,2025-02-04,Retail Dominicana,Carlos Díaz,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,Punta Cana,Este
+VTA-11379,2025-02-05,Constructora Metro,Elena Castro,Software & Cloud,Licencia Antivirus Corp,2,5000.0,10000.0,San Francisco,Cibao Central
+VTA-10616,2025-02-05,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10615,2025-02-06,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11186,2025-02-06,Seguros Nacional,Ana Morales,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,La Romana,Este
+VTA-10447,2025-02-08,Industria Caribe,Luis Sánchez,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,Punta Cana,Este
+VTA-11312,2025-02-08,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10990,2025-02-11,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10402,2025-02-11,Seguros Nacional,Ana Morales,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,La Romana,Este
+VTA-10707,2025-02-12,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11492,2025-02-14,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10287,2025-02-14,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10009,2025-02-15,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11010,2025-02-16,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10520,2025-02-17,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11110,2025-02-18,Seguros Nacional,Ana Morales,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-11187,2025-02-18,Constructora Metro,Patricia Ramos,Tecnología,Access Point WiFi 6,2,5000.0,10000.0,Bonao,Cibao Central
+VTA-10217,2025-02-18,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10729,2025-02-19,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10686,2025-02-22,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10749,2025-02-23,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10617,2025-02-23,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10040,2025-02-23,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11172,2025-02-23,Hoteles del Este,Elena Castro,Tecnología,Monitor Profesional 27'',1,10000.0,10000.0,Higüey,Este
+VTA-10479,2025-02-25,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11357,2025-02-25,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10670,2025-02-26,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11153,2025-02-27,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10673,2025-02-27,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10296,2025-02-28,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10272,2025-03-01,Supermercados Unidos,Ana Morales,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,La Romana,Este
+VTA-10875,2025-03-01,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11381,2025-03-02,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10066,2025-03-03,Industria Caribe,Luis Sánchez,Tecnología,Storage SAN Synology,1,10000.0,10000.0,La Romana,Este
+VTA-10697,2025-03-03,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10620,2025-03-03,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11078,2025-03-04,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10580,2025-03-04,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10290,2025-03-06,Retail Dominicana,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10212,2025-03-07,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11277,2025-03-07,Industria Caribe,Ana Morales,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,Punta Cana,Este
+VTA-11184,2025-03-08,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10689,2025-03-08,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10095,2025-03-10,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10508,2025-03-11,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11296,2025-03-12,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-11071,2025-03-12,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11160,2025-03-12,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10256,2025-03-14,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10915,2025-03-14,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10188,2025-03-14,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10069,2025-03-15,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10269,2025-03-15,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11138,2025-03-15,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10466,2025-03-16,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10489,2025-03-18,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10441,2025-03-18,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11411,2025-03-18,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10081,2025-03-19,Retail Dominicana,Carlos Díaz,Seguridad,Firewall Fortinet 200F,4,2500.0,10000.0,Punta Cana,Este
+VTA-10634,2025-03-20,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10482,2025-03-21,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10589,2025-03-21,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10718,2025-03-25,TecnoGlobal,Miguel Torres,Seguridad,Cámaras CCTV 4K,1,10000.0,10000.0,San Francisco,Cibao Central
+VTA-10393,2025-03-25,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10004,2025-03-25,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10026,2025-03-26,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10803,2025-03-28,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11100,2025-03-29,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10987,2025-03-29,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11037,2025-03-30,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11261,2025-03-30,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11462,2025-03-30,Seguros Nacional,Ana Morales,Tecnología,Switch Cisco Catalyst,4,2500.0,10000.0,Punta Cana,Este
+VTA-11242,2025-03-31,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10423,2025-04-01,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11338,2025-04-01,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10415,2025-04-03,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10547,2025-04-05,Agropecuaria Central,Patricia Ramos,Tecnología,Monitor Profesional 27'',1,10000.0,10000.0,San Cristóbal,Sur
+VTA-10712,2025-04-07,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11165,2025-04-07,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10266,2025-04-08,Seguros Nacional,Ana Morales,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-10405,2025-04-08,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10923,2025-04-08,Distribuidora RD,Roberto Peña,Seguridad,Cámaras CCTV 4K,2,5000.0,10000.0,Bonao,Cibao Central
+VTA-10795,2025-04-08,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10170,2025-04-11,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11181,2025-04-11,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11480,2025-04-12,Retail Dominicana,Ana Morales,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,Punta Cana,Este
+VTA-10470,2025-04-13,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11236,2025-04-14,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11486,2025-04-17,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11130,2025-04-18,Industria Caribe,Carlos Díaz,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,La Romana,Este
+VTA-10754,2025-04-18,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10599,2025-04-18,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11470,2025-04-19,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11250,2025-04-20,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11498,2025-04-21,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10886,2025-04-22,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10476,2025-04-22,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10788,2025-04-23,Supermercados Unidos,Carlos Díaz,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,Punta Cana,Este
+VTA-10698,2025-04-23,Industria Caribe,Luis Sánchez,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,Punta Cana,Este
+VTA-10392,2025-04-24,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11466,2025-04-25,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10191,2025-04-26,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10900,2025-04-27,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11200,2025-04-27,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10893,2025-04-28,Retail Dominicana,Ana Morales,Tecnología,Switch Cisco Catalyst,4,2500.0,10000.0,La Romana,Este
+VTA-10636,2025-04-28,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11478,2025-04-29,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10149,2025-04-29,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10085,2025-05-03,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10118,2025-05-05,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10824,2025-05-06,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10310,2025-05-06,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10280,2025-05-08,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11173,2025-05-10,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10146,2025-05-10,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10379,2025-05-10,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10661,2025-05-11,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10358,2025-05-12,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10853,2025-05-12,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10106,2025-05-12,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10910,2025-05-12,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11120,2025-05-12,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11114,2025-05-12,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11421,2025-05-13,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10122,2025-05-13,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10274,2025-05-13,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10181,2025-05-14,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10326,2025-05-15,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10220,2025-05-16,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10233,2025-05-16,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10245,2025-05-17,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10006,2025-05-17,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10606,2025-05-17,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11195,2025-05-18,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-11371,2025-05-18,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11069,2025-05-20,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10279,2025-05-20,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11122,2025-05-21,Seguros Nacional,Carlos Díaz,Tecnología,Switch Cisco Catalyst,4,2500.0,10000.0,Punta Cana,Este
+VTA-10621,2025-05-21,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-11366,2025-05-22,Seguros Nacional,Carlos Díaz,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,Punta Cana,Este
+VTA-10700,2025-05-22,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10701,2025-05-25,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10135,2025-05-30,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11380,2025-06-01,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-11217,2025-06-01,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10347,2025-06-01,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10204,2025-06-02,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10801,2025-06-02,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11485,2025-06-03,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10964,2025-06-03,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10283,2025-06-04,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11263,2025-06-04,Constructora Metro,Roberto Peña,Tecnología,Impresora Multifuncional,2,5000.0,10000.0,San Francisco,Cibao Central
+VTA-10136,2025-06-04,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10569,2025-06-05,Seguros Nacional,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-10690,2025-06-05,Industria Caribe,Luis Sánchez,Tecnología,Storage SAN Synology,1,10000.0,10000.0,Punta Cana,Este
+VTA-10184,2025-06-05,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11148,2025-06-06,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10994,2025-06-06,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10766,2025-06-06,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11015,2025-06-07,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10761,2025-06-08,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10511,2025-06-08,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10451,2025-06-09,Industria Caribe,Ana Morales,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-10473,2025-06-09,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11123,2025-06-10,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11445,2025-06-10,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10250,2025-06-11,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10736,2025-06-12,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10043,2025-06-13,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10501,2025-06-13,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11141,2025-06-13,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10695,2025-06-13,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10258,2025-06-13,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10773,2025-06-15,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11094,2025-06-16,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10918,2025-06-17,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10294,2025-06-17,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10924,2025-06-17,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10329,2025-06-18,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10891,2025-06-19,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10740,2025-06-19,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10404,2025-06-20,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11431,2025-06-20,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10906,2025-06-21,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11455,2025-06-21,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11034,2025-06-21,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11269,2025-06-22,Farmacias del Sol,Ana Morales,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10601,2025-06-22,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10080,2025-06-23,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10073,2025-06-23,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10177,2025-06-25,Retail Dominicana,Carlos Díaz,Tecnología,Storage SAN Synology,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10969,2025-06-25,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11067,2025-06-26,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11444,2025-06-26,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10532,2025-06-27,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11346,2025-06-28,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11446,2025-06-29,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10517,2025-06-29,Seguros Nacional,Luis Sánchez,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-10454,2025-06-29,Retail Dominicana,Carlos Díaz,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,Punta Cana,Este
+VTA-10230,2025-06-29,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10126,2025-06-29,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10339,2025-06-30,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10892,2025-06-30,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10913,2025-06-30,Industria Caribe,Luis Sánchez,Tecnología,Storage SAN Synology,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-11359,2025-07-02,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11372,2025-07-03,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10108,2025-07-03,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10130,2025-07-04,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11116,2025-07-04,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11007,2025-07-05,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10207,2025-07-06,Distribuidora RD,Javier Vargas,Seguridad,Cámaras CCTV 4K,2,5000.0,10000.0,San Francisco,Cibao Central
+VTA-11062,2025-07-07,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10665,2025-07-07,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11216,2025-07-08,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10639,2025-07-08,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10044,2025-07-08,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10481,2025-07-09,Farmacias del Sol,Luis Sánchez,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,La Romana,Este
+VTA-11232,2025-07-09,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11077,2025-07-09,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10380,2025-07-10,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10997,2025-07-11,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11027,2025-07-11,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10225,2025-07-12,Retail Dominicana,Ana Morales,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,La Romana,Este
+VTA-11496,2025-07-13,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10931,2025-07-14,Industria Caribe,Luis Sánchez,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Punta Cana,Este
+VTA-10593,2025-07-14,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11198,2025-07-15,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10731,2025-07-16,Distribuidora RD,Elena Castro,Tecnología,Monitor Profesional 27'',1,10000.0,10000.0,La Vega,Cibao Central
+VTA-11036,2025-07-16,Industria Caribe,Ana Morales,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,La Romana,Este
+VTA-10802,2025-07-18,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10333,2025-07-20,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10007,2025-07-20,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11333,2025-07-23,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10155,2025-07-25,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11461,2025-07-26,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10633,2025-07-27,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10293,2025-07-27,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10413,2025-07-28,Seguros Nacional,Ana Morales,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10668,2025-07-28,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10979,2025-07-29,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10499,2025-07-29,TecnoGlobal,Elena Castro,Seguridad,Cámaras CCTV 4K,1,10000.0,10000.0,Higüey,Este
+VTA-10807,2025-07-29,Industria Caribe,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-10769,2025-08-01,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10974,2025-08-02,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10899,2025-08-02,Seguros Nacional,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Punta Cana,Este
+VTA-10001,2025-08-02,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10966,2025-08-03,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10982,2025-08-03,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,La Romana,Este
+VTA-11390,2025-08-04,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10348,2025-08-05,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10836,2025-08-06,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10167,2025-08-09,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10770,2025-08-09,Seguros Nacional,Luis Sánchez,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,La Romana,Este
+VTA-10582,2025-08-10,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10607,2025-08-10,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10524,2025-08-10,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10526,2025-08-11,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10089,2025-08-11,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10224,2025-08-13,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10789,2025-08-13,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11151,2025-08-14,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10704,2025-08-16,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10344,2025-08-16,Farmacias del Sol,Luis Sánchez,Tecnología,Storage SAN Synology,4,2500.0,10000.0,La Romana,Este
+VTA-10568,2025-08-17,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10246,2025-08-19,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10240,2025-08-19,Logística Express,Roberto Peña,Software & Cloud,Licencia Antivirus Corp,1,10000.0,10000.0,San Cristóbal,Sur
+VTA-10928,2025-08-19,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11360,2025-08-20,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10880,2025-08-21,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10133,2025-08-22,Industria Caribe,Ana Morales,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-10361,2025-08-23,Seguros Nacional,Ana Morales,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-11038,2025-08-23,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10866,2025-08-24,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10865,2025-08-25,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10816,2025-08-25,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11053,2025-08-26,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10003,2025-08-27,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10650,2025-08-27,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11136,2025-08-27,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10055,2025-08-28,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10855,2025-08-28,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11088,2025-08-28,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11378,2025-08-30,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10341,2025-08-31,Textil Caribe,Miguel Torres,Tecnología,Access Point WiFi 6,4,2500.0,10000.0,San Francisco,Cibao Central
+VTA-10638,2025-08-31,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10847,2025-08-31,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10336,2025-08-31,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10573,2025-09-01,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10793,2025-09-01,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10076,2025-09-01,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10682,2025-09-02,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10313,2025-09-03,Constructora Metro,Elena Castro,Tecnología,Impresora Multifuncional,4,2500.0,10000.0,San Francisco,Cibao Central
+VTA-10925,2025-09-03,Retail Dominicana,Carlos Díaz,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,La Romana,Este
+VTA-10254,2025-09-03,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11145,2025-09-04,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10031,2025-09-05,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10861,2025-09-05,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10926,2025-09-06,Seguros Nacional,Ana Morales,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-10820,2025-09-06,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10559,2025-09-06,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11456,2025-09-06,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10345,2025-09-08,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10145,2025-09-08,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11373,2025-09-08,Distribuidora RD,Elena Castro,Mobiliario,Silla Ejecutiva Pro,2,5000.0,10000.0,Bonao,Cibao Central
+VTA-11092,2025-09-08,Supermercados Unidos,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-11020,2025-09-10,Retail Dominicana,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,La Romana,Este
+VTA-10416,2025-09-11,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10035,2025-09-13,Farmacias del Sol,Carlos Díaz,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,La Romana,Este
+VTA-10021,2025-09-14,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11286,2025-09-14,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11460,2025-09-16,Textil Caribe,Patricia Ramos,Tecnología,Access Point WiFi 6,1,10000.0,10000.0,San Cristóbal,Sur
+VTA-11189,2025-09-17,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10999,2025-09-17,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10956,2025-09-17,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11464,2025-09-18,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11176,2025-09-19,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11430,2025-09-19,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10400,2025-09-21,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11322,2025-09-21,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10648,2025-09-23,Constructora Metro,Elena Castro,Seguridad,Cámaras CCTV 4K,1,10000.0,10000.0,San Cristóbal,Sur
+VTA-10577,2025-09-24,Industria Caribe,Ana Morales,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-11099,2025-09-24,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10128,2025-09-25,Industria Caribe,Carlos Díaz,Software & Cloud,Servicio Backup Veeam,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10455,2025-09-25,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11488,2025-09-27,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10808,2025-09-28,Retail Dominicana,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10359,2025-09-30,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11248,2025-09-30,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11335,2025-10-01,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10683,2025-10-02,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11252,2025-10-05,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11014,2025-10-08,Industria Caribe,Ana Morales,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-11331,2025-10-08,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10870,2025-10-08,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11222,2025-10-08,Textil Caribe,Roberto Peña,Tecnología,Monitor Profesional 27'',1,10000.0,10000.0,La Vega,Cibao Central
+VTA-11196,2025-10-09,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10967,2025-10-10,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10098,2025-10-10,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10323,2025-10-13,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10151,2025-10-14,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11315,2025-10-14,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11354,2025-10-14,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10637,2025-10-14,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11438,2025-10-14,Seguros Nacional,Ana Morales,Software & Cloud,Servicio Backup Veeam,2,5000.0,10000.0,La Romana,Este
+VTA-11223,2025-10-15,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11061,2025-10-16,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10483,2025-10-18,Constructora Metro,Javier Vargas,Mobiliario,Escritorio Ergonómico,2,5000.0,10000.0,La Vega,Cibao Central
+VTA-10776,2025-10-18,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11473,2025-10-18,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10733,2025-10-18,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10045,2025-10-19,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10273,2025-10-19,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10947,2025-10-19,Retail Dominicana,Luis Sánchez,Tecnología,Storage SAN Synology,1,10000.0,10000.0,Punta Cana,Este
+VTA-10688,2025-10-21,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11213,2025-10-22,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11477,2025-10-22,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10475,2025-10-22,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10012,2025-10-23,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10881,2025-10-23,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11489,2025-10-23,Industria Caribe,Carlos Díaz,Software & Cloud,Servicio Backup Veeam,1,10000.0,10000.0,La Romana,Este
+VTA-10219,2025-10-24,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11139,2025-10-24,Seguros Nacional,Luis Sánchez,Tecnología,Storage SAN Synology,1,10000.0,10000.0,La Romana,Este
+VTA-11131,2025-10-24,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10342,2025-10-24,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10086,2025-10-24,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10112,2025-10-25,Seguros Nacional,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Punta Cana,Este
+VTA-11341,2025-10-25,Industria Caribe,Ana Morales,Tecnología,Switch Cisco Catalyst,4,2500.0,10000.0,Punta Cana,Este
+VTA-11350,2025-10-26,Logística Express,Elena Castro,Tecnología,Monitor Profesional 27'',1,10000.0,10000.0,San Francisco,Cibao Central
+VTA-10163,2025-10-26,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10410,2025-10-27,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10398,2025-10-27,Hoteles del Este,Javier Vargas,Mobiliario,Silla Ejecutiva Pro,1,10000.0,10000.0,San Cristóbal,Sur
+VTA-11479,2025-10-27,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10356,2025-10-28,Industria Caribe,Carlos Díaz,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,Punta Cana,Este
+VTA-10748,2025-10-28,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10612,2025-10-29,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10200,2025-10-30,Industria Caribe,Ana Morales,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Punta Cana,Este
+VTA-10349,2025-10-31,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10675,2025-10-31,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10048,2025-11-02,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10431,2025-11-04,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10976,2025-11-05,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11476,2025-11-06,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-11429,2025-11-06,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10829,2025-11-06,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11188,2025-11-07,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10862,2025-11-08,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-10711,2025-11-08,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11229,2025-11-10,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10951,2025-11-12,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10262,2025-11-13,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10657,2025-11-14,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10587,2025-11-16,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11416,2025-11-17,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10214,2025-11-17,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11108,2025-11-17,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11246,2025-11-17,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11308,2025-11-17,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10194,2025-11-18,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10790,2025-11-18,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11301,2025-11-18,Retail Dominicana,Ana Morales,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,Punta Cana,Este
+VTA-10209,2025-11-20,Farmacias del Sol,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,La Romana,Este
+VTA-11121,2025-11-20,Industria Caribe,Carlos Díaz,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,Punta Cana,Este
+VTA-11155,2025-11-20,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11397,2025-11-20,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10728,2025-11-20,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11424,2025-11-22,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11095,2025-11-22,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11202,2025-11-23,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10760,2025-11-23,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10444,2025-11-23,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10998,2025-11-23,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10556,2025-11-24,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10876,2025-11-24,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11040,2025-11-25,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10396,2025-11-26,Textil Caribe,Elena Castro,Seguridad,Cámaras CCTV 4K,1,10000.0,10000.0,San Francisco,Cibao Central
+VTA-10285,2025-11-26,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10971,2025-11-27,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10948,2025-11-27,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10844,2025-11-28,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10166,2025-11-28,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10523,2025-11-28,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10072,2025-11-29,Retail Dominicana,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10315,2025-11-29,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10427,2025-11-29,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10265,2025-11-30,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10038,2025-11-30,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-10480,2025-12-01,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11174,2025-12-03,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11047,2025-12-04,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10067,2025-12-05,Farmacias del Sol,Luis Sánchez,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,La Romana,Este
+VTA-10818,2025-12-05,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11330,2025-12-08,Supermercados Unidos,Carlos Díaz,Tecnología,Storage SAN Synology,2,5000.0,10000.0,La Romana,Este
+VTA-10056,2025-12-09,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10252,2025-12-09,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10724,2025-12-10,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10541,2025-12-10,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10307,2025-12-10,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10702,2025-12-13,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11199,2025-12-14,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11283,2025-12-14,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10375,2025-12-15,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11230,2025-12-15,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10905,2025-12-16,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10739,2025-12-17,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11115,2025-12-17,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Punta Cana,Este
+VTA-11273,2025-12-18,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11005,2025-12-19,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11063,2025-12-20,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11054,2025-12-22,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10180,2025-12-22,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10737,2025-12-23,Farmacias del Sol,Ana Morales,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,La Romana,Este
+VTA-10169,2025-12-26,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10198,2025-12-26,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10255,2025-12-26,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10013,2025-12-27,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10419,2025-12-28,Seguros Nacional,Carlos Díaz,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Punta Cana,Este
+VTA-10369,2025-12-28,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10676,2025-12-28,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11118,2025-12-28,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10598,2025-12-28,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10205,2025-12-31,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10490,2026-01-01,Seguros Nacional,Ana Morales,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,La Romana,Este
+VTA-10071,2026-01-01,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10554,2026-01-01,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10050,2026-01-01,Retail Dominicana,Luis Sánchez,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-10705,2026-01-01,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11256,2026-01-04,Supermercados Unidos,Ana Morales,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Punta Cana,Este
+VTA-11463,2026-01-06,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10804,2026-01-07,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-11152,2026-01-08,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11437,2026-01-09,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11352,2026-01-10,Retail Dominicana,Carlos Díaz,Tecnología,Laptop ThinkPad T14,4,2500.0,10000.0,La Romana,Este
+VTA-10797,2026-01-12,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10084,2026-01-13,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10860,2026-01-13,Retail Dominicana,Luis Sánchez,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Punta Cana,Este
+VTA-11021,2026-01-16,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10420,2026-01-17,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11483,2026-01-19,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11494,2026-01-20,Industria Caribe,Luis Sánchez,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Punta Cana,Este
+VTA-10540,2026-01-21,Constructora Metro,Patricia Ramos,Software & Cloud,Licencia Antivirus Corp,1,10000.0,10000.0,Bonao,Cibao Central
+VTA-11365,2026-01-21,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11215,2026-01-22,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10229,2026-01-22,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11295,2026-01-23,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10474,2026-01-23,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10953,2026-01-23,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11297,2026-01-23,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11065,2026-01-24,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10932,2026-01-25,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10132,2026-01-25,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11080,2026-01-25,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10978,2026-01-27,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11285,2026-01-27,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10671,2026-01-27,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10103,2026-01-27,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10203,2026-01-27,Industria Caribe,Luis Sánchez,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10504,2026-01-27,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11031,2026-01-28,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10537,2026-01-29,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-11314,2026-01-29,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10062,2026-01-30,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11074,2026-01-30,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10468,2026-01-31,Logística Express,Elena Castro,Tecnología,Monitor Profesional 27'',1,10000.0,10000.0,San Cristóbal,Sur
+VTA-11279,2026-02-01,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11298,2026-02-02,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10505,2026-02-04,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11168,2026-02-05,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10147,2026-02-06,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11163,2026-02-07,Seguros Nacional,Carlos Díaz,Seguridad,Firewall Fortinet 200F,4,2500.0,10000.0,La Romana,Este
+VTA-10751,2026-02-08,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10142,2026-02-08,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11220,2026-02-08,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11282,2026-02-08,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10887,2026-02-09,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10143,2026-02-10,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10464,2026-02-12,Industria Caribe,Carlos Díaz,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,La Romana,Este
+VTA-11260,2026-02-13,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10452,2026-02-16,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-11327,2026-02-18,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10680,2026-02-18,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10727,2026-02-21,Industria Caribe,Carlos Díaz,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10387,2026-02-21,Seguros Nacional,Ana Morales,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,La Romana,Este
+VTA-10242,2026-02-22,Seguros Nacional,Luis Sánchez,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,La Romana,Este
+VTA-10585,2026-02-23,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11137,2026-02-25,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10394,2026-02-25,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10161,2026-02-26,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10666,2026-02-26,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10197,2026-02-26,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10309,2026-02-27,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10032,2026-02-28,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10362,2026-02-28,Logística Express,Roberto Peña,Software & Cloud,Licencia Antivirus Corp,1,10000.0,10000.0,Higüey,Este
+VTA-10784,2026-02-28,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11394,2026-02-28,Distribuidora RD,Roberto Peña,Mobiliario,Escritorio Ergonómico,1,10000.0,10000.0,La Vega,Cibao Central
+VTA-11193,2026-03-01,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10496,2026-03-01,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10054,2026-03-02,Logística Express,Miguel Torres,Tecnología,Monitor Profesional 27'',1,10000.0,10000.0,Bonao,Cibao Central
+VTA-10798,2026-03-02,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11267,2026-03-03,Industria Caribe,Ana Morales,Software & Cloud,Servicio Backup Veeam,1,10000.0,10000.0,Punta Cana,Este
+VTA-11070,2026-03-03,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10495,2026-03-04,Hoteles del Este,Javier Vargas,Mobiliario,Escritorio Ergonómico,1,10000.0,10000.0,San Cristóbal,Sur
+VTA-11068,2026-03-04,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11238,2026-03-06,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11170,2026-03-07,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10856,2026-03-07,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10681,2026-03-08,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11399,2026-03-09,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-11291,2026-03-10,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10911,2026-03-10,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10324,2026-03-10,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11140,2026-03-11,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11154,2026-03-13,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11044,2026-03-13,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10503,2026-03-13,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10223,2026-03-14,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10857,2026-03-14,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10787,2026-03-15,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11449,2026-03-15,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10337,2026-03-16,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11073,2026-03-16,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11499,2026-03-18,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10156,2026-03-18,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11157,2026-03-19,Retail Dominicana,Luis Sánchez,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10772,2026-03-19,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11363,2026-03-20,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10716,2026-03-20,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10991,2026-03-21,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10597,2026-03-21,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10983,2026-03-22,Supermercados Unidos,Ana Morales,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-11164,2026-03-23,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10101,2026-03-23,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10059,2026-03-23,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10872,2026-03-24,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10747,2026-03-24,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10318,2026-03-24,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10051,2026-03-24,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10710,2026-03-26,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10992,2026-03-27,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10867,2026-03-27,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11102,2026-03-29,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Punta Cana,Este
+VTA-10353,2026-03-29,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10618,2026-03-30,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10306,2026-03-30,Seguros Nacional,Carlos Díaz,Tecnología,Storage SAN Synology,2,5000.0,10000.0,Punta Cana,Este
+VTA-11304,2026-04-01,Seguros Nacional,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Punta Cana,Este
+VTA-11278,2026-04-01,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10792,2026-04-01,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11428,2026-04-02,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10984,2026-04-03,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10608,2026-04-03,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11403,2026-04-03,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10099,2026-04-04,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11316,2026-04-04,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11059,2026-04-05,Retail Dominicana,Ana Morales,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-10879,2026-04-05,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10916,2026-04-05,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10196,2026-04-06,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11408,2026-04-06,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10691,2026-04-06,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10029,2026-04-07,Seguros Nacional,Ana Morales,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-10403,2026-04-09,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11124,2026-04-10,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10060,2026-04-10,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10848,2026-04-11,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10357,2026-04-11,Farmacias del Sol,Luis Sánchez,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-10516,2026-04-12,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10253,2026-04-13,Hoteles del Este,Roberto Peña,Tecnología,Access Point WiFi 6,1,10000.0,10000.0,Higüey,Este
+VTA-10988,2026-04-14,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10276,2026-04-14,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10562,2026-04-15,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10372,2026-04-15,Farmacias del Sol,Carlos Díaz,Seguridad,Firewall Fortinet 200F,4,2500.0,10000.0,Punta Cana,Este
+VTA-10512,2026-04-15,Farmacias del Sol,Luis Sánchez,Tecnología,Storage SAN Synology,2,5000.0,10000.0,La Romana,Este
+VTA-10555,2026-04-16,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11046,2026-04-17,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10859,2026-04-18,Industria Caribe,Ana Morales,Tecnología,Storage SAN Synology,1,10000.0,10000.0,Punta Cana,Este
+VTA-10699,2026-04-18,Seguros Nacional,Luis Sánchez,Tecnología,Storage SAN Synology,1,10000.0,10000.0,Punta Cana,Este
+VTA-10082,2026-04-19,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10449,2026-04-19,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet 200F,4,2500.0,10000.0,Punta Cana,Este
+VTA-10467,2026-04-20,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11332,2026-04-22,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11447,2026-04-22,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11442,2026-04-22,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11389,2026-04-23,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10284,2026-04-23,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10078,2026-04-24,Seguros Nacional,Ana Morales,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Punta Cana,Este
+VTA-11328,2026-04-24,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11493,2026-04-25,Seguros Nacional,Carlos Díaz,Software & Cloud,Servicio Backup Veeam,1,10000.0,10000.0,La Romana,Este
+VTA-10898,2026-04-26,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10571,2026-04-27,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10312,2026-04-27,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10944,2026-04-28,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10662,2026-04-28,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10070,2026-04-29,Farmacias del Sol,Carlos Díaz,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,La Romana,Este
+VTA-10058,2026-04-29,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11409,2026-05-01,Seguros Nacional,Carlos Díaz,Tecnología,Laptop ThinkPad T14,2,5000.0,10000.0,Punta Cana,Este
+VTA-10487,2026-05-02,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10157,2026-05-02,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet 200F,4,2500.0,10000.0,La Romana,Este
+VTA-11475,2026-05-03,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10090,2026-05-04,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10027,2026-05-04,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10340,2026-05-04,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10610,2026-05-04,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11227,2026-05-05,Retail Dominicana,Ana Morales,Tecnología,Storage SAN Synology,2,5000.0,10000.0,Punta Cana,Este
+VTA-11355,2026-05-06,Farmacias del Sol,Carlos Díaz,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,Punta Cana,Este
+VTA-11072,2026-05-07,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10586,2026-05-08,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11182,2026-05-09,TecnoGlobal,Elena Castro,Tecnología,Monitor Profesional 27'',1,10000.0,10000.0,San Francisco,Cibao Central
+VTA-10407,2026-05-09,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10579,2026-05-10,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10782,2026-05-10,Constructora Metro,Javier Vargas,Mobiliario,Escritorio Ergonómico,1,10000.0,10000.0,San Francisco,Cibao Central
+VTA-10952,2026-05-10,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11096,2026-05-10,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10799,2026-05-11,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10247,2026-05-11,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10008,2026-05-12,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10840,2026-05-12,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11306,2026-05-13,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10651,2026-05-14,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11214,2026-05-14,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10275,2026-05-15,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10226,2026-05-15,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10583,2026-05-15,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10743,2026-05-18,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11467,2026-05-18,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10176,2026-05-19,Retail Dominicana,Ana Morales,Tecnología,Storage SAN Synology,2,5000.0,10000.0,La Romana,Este
+VTA-11329,2026-05-19,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10164,2026-05-20,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11107,2026-05-20,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10458,2026-05-20,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10125,2026-05-21,Seguros Nacional,Ana Morales,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-11259,2026-05-21,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11418,2026-05-21,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10129,2026-05-22,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10871,2026-05-22,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10551,2026-05-23,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10958,2026-05-23,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10472,2026-05-23,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11262,2026-05-23,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10768,2026-05-23,Industria Caribe,Luis Sánchez,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,La Romana,Este
+VTA-10397,2026-05-24,Seguros Nacional,Ana Morales,Tecnología,Laptop ThinkPad T14,2,5000.0,10000.0,Punta Cana,Este
+VTA-11407,2026-05-25,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11201,2026-05-25,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10558,2026-05-27,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11471,2026-05-27,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11002,2026-05-28,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11349,2026-05-29,Seguros Nacional,Ana Morales,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,La Romana,Este
+VTA-10629,2026-05-30,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11367,2026-05-30,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11426,2026-05-30,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10267,2026-05-31,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10281,2026-05-31,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11194,2026-06-01,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10094,2026-06-01,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10457,2026-06-01,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11266,2026-06-02,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10111,2026-06-03,Seguros Nacional,Ana Morales,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Punta Cana,Este
+VTA-11398,2026-06-04,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10858,2026-06-04,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10763,2026-06-04,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10962,2026-06-05,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10068,2026-06-05,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10303,2026-06-05,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10765,2026-06-06,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10448,2026-06-07,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10139,2026-06-07,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10625,2026-06-08,Seguros Nacional,Ana Morales,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-10016,2026-06-08,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10218,2026-06-10,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Punta Cana,Este
+VTA-11109,2026-06-10,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10450,2026-06-11,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10506,2026-06-11,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10114,2026-06-11,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11292,2026-06-12,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11386,2026-06-12,Industria Caribe,Carlos Díaz,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,Punta Cana,Este
+VTA-10726,2026-06-12,Textil Caribe,Roberto Peña,Seguridad,Cámaras CCTV 4K,1,10000.0,10000.0,San Cristóbal,Sur
+VTA-11307,2026-06-13,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10259,2026-06-13,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11009,2026-06-14,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10642,2026-06-15,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10823,2026-06-16,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11026,2026-06-16,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10025,2026-06-18,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11326,2026-06-18,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11491,2026-06-19,Agropecuaria Central,Roberto Peña,Seguridad,Cámaras CCTV 4K,1,10000.0,10000.0,Higüey,Este
+VTA-10664,2026-06-21,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10023,2026-06-22,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10053,2026-06-22,Industria Caribe,Luis Sánchez,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10518,2026-06-22,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10972,2026-06-23,Retail Dominicana,Carlos Díaz,Tecnología,Storage SAN Synology,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10199,2026-06-23,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10478,2026-06-23,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11205,2026-06-24,Industria Caribe,Ana Morales,Seguridad,Firewall Fortinet 200F,2,5000.0,10000.0,Punta Cana,Este
+VTA-10846,2026-06-25,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11319,2026-06-25,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10552,2026-06-26,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10717,2026-06-26,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10150,2026-06-27,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10933,2026-06-28,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10119,2026-06-30,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10896,2026-06-30,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10378,2026-07-01,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10186,2026-07-02,Seguros Nacional,Ana Morales,Software & Cloud,Servicio Backup Veeam,4,2500.0,10000.0,Punta Cana,Este
+VTA-11177,2026-07-02,Industria Caribe,Ana Morales,Tecnología,Laptop ThinkPad T14,4,2500.0,10000.0,La Romana,Este
+VTA-10376,2026-07-02,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10120,2026-07-03,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11288,2026-07-03,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11103,2026-07-03,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10646,2026-07-04,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10282,2026-07-05,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10486,2026-07-05,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10613,2026-07-05,Industria Caribe,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10091,2026-07-05,Altia Telecom,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10088,2026-07-07,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10092,2026-07-07,Logística Express,Miguel Torres,Mobiliario,Escritorio Ergonómico,1,10000.0,10000.0,La Vega,Cibao Central
+VTA-10235,2026-07-09,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11320,2026-07-09,Constructora Metro,Elena Castro,Mobiliario,Silla Ejecutiva Pro,1,10000.0,10000.0,San Cristóbal,Sur
+VTA-11104,2026-07-09,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11042,2026-07-09,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11146,2026-07-09,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10185,2026-07-09,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10890,2026-07-10,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11029,2026-07-11,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10800,2026-07-11,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10421,2026-07-12,Retail Dominicana,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10685,2026-07-12,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-11221,2026-07-13,Industria Caribe,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-10017,2026-07-13,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10603,2026-07-14,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10234,2026-07-15,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11087,2026-07-15,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11374,2026-07-15,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10694,2026-07-16,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10909,2026-07-16,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11142,2026-07-16,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10946,2026-07-17,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11024,2026-07-17,Seguros Nacional,Carlos Díaz,Tecnología,Storage SAN Synology,1,10000.0,10000.0,Punta Cana,Este
+VTA-10395,2026-07-17,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10418,2026-07-17,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10124,2026-07-18,Industria Caribe,Ana Morales,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,Punta Cana,Este
+VTA-10576,2026-07-19,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11060,2026-07-19,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11405,2026-07-22,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11249,2026-07-23,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10588,2026-07-23,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10422,2026-07-24,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11377,2026-07-26,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10494,2026-07-26,Retail Dominicana,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-10679,2026-07-26,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11450,2026-07-28,Seguros Nacional,Luis Sánchez,Tecnología,Laptop ThinkPad T14,2,5000.0,10000.0,Punta Cana,Este
+VTA-10316,2026-07-28,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10093,2026-07-28,Industria Caribe,Carlos Díaz,Tecnología,Storage SAN Synology,1,10000.0,10000.0,Punta Cana,Este
+VTA-10304,2026-07-28,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11400,2026-07-28,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11299,2026-07-30,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10649,2026-07-31,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10696,2026-08-02,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10117,2026-08-02,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10774,2026-08-03,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10389,2026-08-05,Farmacias del Sol,Ana Morales,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-10174,2026-08-08,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10292,2026-08-08,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11203,2026-08-09,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10935,2026-08-11,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11344,2026-08-13,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10543,2026-08-14,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10850,2026-08-16,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11183,2026-08-16,Logística Express,Roberto Peña,Seguridad,Cámaras CCTV 4K,2,5000.0,10000.0,La Vega,Cibao Central
+VTA-10113,2026-08-17,Textil Caribe,Elena Castro,Tecnología,Impresora Multifuncional,1,10000.0,10000.0,San Cristóbal,Sur
+VTA-10602,2026-08-17,Retail Dominicana,Carlos Díaz,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,Punta Cana,Este
+VTA-10889,2026-08-17,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11025,2026-08-18,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10297,2026-08-18,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10105,2026-08-19,Grupo Comercial,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10456,2026-08-20,Farmacias del Sol,Ana Morales,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,La Romana,Este
+VTA-10822,2026-08-20,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10574,2026-08-20,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11384,2026-08-22,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11017,2026-08-22,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10042,2026-08-22,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet 200F,4,2500.0,10000.0,Punta Cana,Este
+VTA-11052,2026-08-22,Textil Caribe,Elena Castro,Mobiliario,Escritorio Ergonómico,4,2500.0,10000.0,San Cristóbal,Sur
+VTA-10446,2026-08-23,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11434,2026-08-24,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11401,2026-08-24,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10206,2026-08-24,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11451,2026-08-24,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11211,2026-08-25,Supermercados Unidos,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,La Romana,Este
+VTA-10738,2026-08-27,Farmacias del Sol,Ana Morales,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,La Romana,Este
+VTA-10832,2026-08-27,Supermercados Unidos,Ana Morales,Software & Cloud,Servicio Backup Veeam,2,5000.0,10000.0,Punta Cana,Este
+VTA-10825,2026-08-27,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10527,2026-08-29,Banco Capital,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10270,2026-08-30,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10061,2026-08-30,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10183,2026-08-30,Farmacias del Sol,Carlos Díaz,Tecnología,Storage SAN Synology,2,5000.0,10000.0,Punta Cana,Este
+VTA-10624,2026-08-30,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10238,2026-08-31,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10332,2026-09-01,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-11393,2026-09-02,Seguros Nacional,Carlos Díaz,Tecnología,Switch Cisco Catalyst,2,5000.0,10000.0,La Romana,Este
+VTA-11361,2026-09-03,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11224,2026-09-03,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11135,2026-09-03,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10981,2026-09-04,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10936,2026-09-06,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10658,2026-09-07,Distribuidora RD,Miguel Torres,Tecnología,Monitor Profesional 27'',1,10000.0,10000.0,San Francisco,Cibao Central
+VTA-11235,2026-09-07,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10291,2026-09-08,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11413,2026-09-09,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11169,2026-09-10,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11454,2026-09-10,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11404,2026-09-11,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10985,2026-09-11,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10178,2026-09-11,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-10529,2026-09-12,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10995,2026-09-12,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10363,2026-09-12,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11030,2026-09-14,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10719,2026-09-16,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10623,2026-09-18,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10897,2026-09-20,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10116,2026-09-22,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10528,2026-09-23,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10033,2026-09-23,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11472,2026-09-23,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santiago,Cibao Norte
+VTA-10961,2026-09-24,Grupo Comercial,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10674,2026-09-24,Industria Caribe,Ana Morales,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Puerto Plata,Cibao Norte
+VTA-11324,2026-09-25,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10723,2026-09-25,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10248,2026-09-25,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11469,2026-09-27,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10908,2026-09-27,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11045,2026-09-28,Banco Capital,Juan Pérez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11439,2026-09-28,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,2500.0,10000.0,Santo Domingo,Metropolitana
+VTA-11208,2026-09-30,Retail Dominicana,Carlos Díaz,Tecnología,Switch Cisco Catalyst,1,10000.0,10000.0,Punta Cana,Este
+VTA-10834,2026-10-01,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santo Domingo,Metropolitana
+VTA-11339,2026-10-01,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-10771,2026-10-01,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10831,2026-10-04,Industria Caribe,Carlos Díaz,Tecnología,Laptop ThinkPad T14,1,10000.0,10000.0,Punta Cana,Este
+VTA-11156,2026-10-04,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,10000.0,10000.0,Santo Domingo,Metropolitana
+VTA-10854,2026-10-04,Constructora Metro,Javier Vargas,Tecnología,Access Point WiFi 6,1,10000.0,10000.0,San Francisco,Cibao Central
+VTA-10052,2026-10-04,Altia Telecom,María Gómez,Software & Cloud,Infraestructura Cloud Azure,4,2500.0,10000.0,Santiago,Cibao Norte
+VTA-10993,2026-10-05,Industria Caribe,Carlos Díaz,Tecnología,Laptop ThinkPad T14,2,5000.0,10000.0,Punta Cana,Este
+VTA-11086,2026-10-05,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,10000.0,10000.0,Santiago,Cibao Norte
+VTA-11098,2026-10-06,Retail Dominicana,Carlos Díaz,Seguridad,Firewall Fortinet 200F,1,10000.0,10000.0,Punta Cana,Este
+VTA-10614,2026-10-06,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,5000.0,10000.0,Santiago,Cibao Norte
