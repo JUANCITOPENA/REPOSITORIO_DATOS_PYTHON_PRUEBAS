@@ -1,0 +1,1501 @@
+﻿﻿ID_Venta,Fecha,Cliente,Vendedor,Categoria,Producto,Cantidad,Precio_Unitario,Facturacion,Ciudad,Region
+VTA-10253,2024-01-01,Banco Capital,Luis Sánchez,Mobiliario,Silla Ergonómica,3,211.35,634.05,Puerto Plata,Cibao Norte
+VTA-10937,2024-01-01,Seguros Nacional,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,1,459.5,459.5,Santiago,Cibao Norte
+VTA-10009,2024-01-02,Grupo Comercial,María Gómez,Software & Cloud,Servicio Backup Dedicado,4,1048.44,4193.76,La Romana,Este
+VTA-10026,2024-01-02,Altia Telecom,Luis Sánchez,Tecnología,Laptop ThinkPad,1,1168.75,1168.75,Santo Domingo,Metropolitana
+VTA-10808,2024-01-03,Industria Caribe,Carlos Díaz,Tecnología,Laptop ThinkPad,1,1176.51,1176.51,La Romana,Este
+VTA-10935,2024-01-04,Retail Dominicana,Juan Pérez,Tecnología,Monitor 27'',3,280.73,842.19,La Romana,Este
+VTA-10703,2024-01-04,Altia Telecom,María Gómez,Tecnología,Laptop ThinkPad,10,1246.79,12467.9,La Romana,Este
+VTA-10668,2024-01-05,Grupo Comercial,Carlos Díaz,Tecnología,Monitor 27'',5,275.3,1376.5,Santiago,Cibao Norte
+VTA-10628,2024-01-06,Grupo Comercial,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,1,4677.29,4677.29,Santiago,Cibao Norte
+VTA-10912,2024-01-07,Banco Capital,Luis Sánchez,Tecnología,Monitor 27'',1,288.98,288.98,La Romana,Este
+VTA-10874,2024-01-08,Seguros Nacional,María Gómez,Software & Cloud,Servicio Backup Dedicado,4,1127.49,4509.96,La Romana,Este
+VTA-11460,2024-01-08,Seguros Nacional,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,10,1133.39,11333.9,Santo Domingo,Metropolitana
+VTA-11168,2024-01-09,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,4545.82,4545.82,Santo Domingo,Metropolitana
+VTA-10309,2024-01-10,Supermercados Unidos,Ana Morales,Seguridad,Firewall Fortinet,4,3250.99,13003.96,Puerto Plata,Cibao Norte
+VTA-10122,2024-01-10,Altia Telecom,María Gómez,Tecnología,Monitor 27'',4,275.03,1100.12,La Romana,Este
+VTA-11217,2024-01-11,Industria Caribe,María Gómez,Mobiliario,Silla Ergonómica,3,224.14,672.42,San Cristóbal,Sur
+VTA-11123,2024-01-11,Banco Capital,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,1,2514.9,2514.9,La Romana,Este
+VTA-10289,2024-01-12,Supermercados Unidos,María Gómez,Tecnología,Monitor 27'',3,283.58,850.74,San Cristóbal,Sur
+VTA-11389,2024-01-12,Banco Capital,Juan Pérez,Tecnología,Monitor 27'',1,290.86,290.86,Santiago,Cibao Norte
+VTA-10229,2024-01-12,Banco Capital,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,8,4373.65,34989.2,Santo Domingo,Metropolitana
+VTA-11039,2024-01-13,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,3,4564.38,13693.14,Santo Domingo,Metropolitana
+VTA-10447,2024-01-13,Industria Caribe,Ana Morales,Seguridad,Firewall Fortinet,1,3168.42,3168.42,Santiago,Cibao Norte
+VTA-10007,2024-01-14,Seguros Nacional,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,1,437.89,437.89,Santiago,Cibao Norte
+VTA-11218,2024-01-14,Banco Capital,Juan Pérez,Seguridad,Cámaras CCTV Kit,1,878.0,878.0,Punta Cana,Este
+VTA-10331,2024-01-14,Seguros Nacional,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2456.73,2456.73,Santo Domingo,Metropolitana
+VTA-11065,2024-01-15,Banco Capital,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2450.29,2450.29,La Romana,Este
+VTA-10482,2024-01-15,Grupo Comercial,María Gómez,Software & Cloud,Suscripción Antivirus Corp,5,455.44,2277.2,Puerto Plata,Cibao Norte
+VTA-10759,2024-01-16,Altia Telecom,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,1,429.69,429.69,La Romana,Este
+VTA-10061,2024-01-16,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,2518.87,2518.87,Santo Domingo,Metropolitana
+VTA-10308,2024-01-17,Industria Caribe,Juan Pérez,Tecnología,Monitor 27'',1,278.25,278.25,Santo Domingo,Metropolitana
+VTA-11225,2024-01-17,Banco Capital,María Gómez,Tecnología,Monitor 27'',1,284.32,284.32,Puerto Plata,Cibao Norte
+VTA-10939,2024-01-17,Banco Capital,Juan Pérez,Seguridad,Firewall Fortinet,1,3198.73,3198.73,Punta Cana,Este
+VTA-11049,2024-01-17,Farmacias del Sol,Carlos Díaz,Tecnología,Monitor 27'',1,275.35,275.35,Puerto Plata,Cibao Norte
+VTA-10206,2024-01-17,Seguros Nacional,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,2,1083.05,2166.1,Santiago,Cibao Norte
+VTA-11017,2024-01-18,Banco Capital,María Gómez,Seguridad,Firewall Fortinet,2,3202.36,6404.72,Puerto Plata,Cibao Norte
+VTA-11402,2024-01-19,Seguros Nacional,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,4352.27,8704.54,La Romana,Este
+VTA-11498,2024-01-20,Logística Express,Carlos Díaz,Tecnología,Laptop ThinkPad,2,1180.43,2360.86,Punta Cana,Este
+VTA-11393,2024-01-21,Constructora Metro,Juan Pérez,Seguridad,Firewall Fortinet,2,3146.68,6293.36,Santiago,Cibao Norte
+VTA-10263,2024-01-21,Banco Capital,Luis Sánchez,Mobiliario,Silla Ergonómica,1,223.4,223.4,La Romana,Este
+VTA-11052,2024-01-21,Constructora Metro,Ana Morales,Mobiliario,Silla Ergonómica,1,219.95,219.95,Santo Domingo,Metropolitana
+VTA-10228,2024-01-22,Altia Telecom,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,3,477.05,1431.15,Santo Domingo,Metropolitana
+VTA-10137,2024-01-23,Altia Telecom,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,2,484.14,968.28,La Romana,Este
+VTA-11277,2024-01-23,Altia Telecom,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,2,2503.29,5006.58,Punta Cana,Este
+VTA-11282,2024-01-23,Grupo Comercial,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,1,466.1,466.1,Puerto Plata,Cibao Norte
+VTA-11348,2024-01-24,Altia Telecom,María Gómez,Software & Cloud,Suscripción Antivirus Corp,3,432.31,1296.93,Puerto Plata,Cibao Norte
+VTA-11472,2024-01-25,Farmacias del Sol,Luis Sánchez,Tecnología,Laptop ThinkPad,2,1188.79,2377.58,Punta Cana,Este
+VTA-10172,2024-01-25,Banco Capital,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,8,427.61,3420.88,Santiago,Cibao Norte
+VTA-11257,2024-01-25,Banco Capital,Carlos Díaz,Tecnología,Laptop ThinkPad,4,1203.3,4813.2,La Romana,Este
+VTA-10538,2024-01-25,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,2609.07,5218.14,Santo Domingo,Metropolitana
+VTA-10784,2024-01-25,Seguros Nacional,Carlos Díaz,Tecnología,Laptop ThinkPad,1,1179.29,1179.29,Santo Domingo,Metropolitana
+VTA-10729,2024-01-26,Grupo Comercial,Luis Sánchez,Mobiliario,Silla Ergonómica,1,210.89,210.89,La Romana,Este
+VTA-10893,2024-01-26,Supermercados Unidos,Luis Sánchez,Tecnología,Laptop ThinkPad,1,1258.16,1258.16,Puerto Plata,Cibao Norte
+VTA-11471,2024-01-26,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,2472.92,4945.84,Punta Cana,Este
+VTA-10988,2024-01-28,Altia Telecom,Ana Morales,Software & Cloud,Servicio Backup Dedicado,2,1081.93,2163.86,Punta Cana,Este
+VTA-10903,2024-01-28,Banco Capital,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,1,440.52,440.52,La Romana,Este
+VTA-10644,2024-01-28,Retail Dominicana,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2559.77,2559.77,Punta Cana,Este
+VTA-11371,2024-01-29,Logística Express,María Gómez,Mobiliario,Silla Ergonómica,1,213.61,213.61,San Cristóbal,Sur
+VTA-10660,2024-01-30,Retail Dominicana,Ana Morales,Seguridad,Firewall Fortinet,2,3095.21,6190.42,La Romana,Este
+VTA-10452,2024-01-30,Altia Telecom,Luis Sánchez,Seguridad,Firewall Fortinet,2,3270.61,6541.22,Punta Cana,Este
+VTA-11306,2024-01-31,Altia Telecom,Ana Morales,Seguridad,Cámaras CCTV Kit,1,878.24,878.24,Punta Cana,Este
+VTA-11227,2024-01-31,Altia Telecom,Juan Pérez,Mobiliario,Escritorio Ejecutivo,2,498.31,996.62,Santiago,Cibao Norte
+VTA-10015,2024-02-02,Banco Capital,Luis Sánchez,Seguridad,Cámaras CCTV Kit,2,830.85,1661.7,Punta Cana,Este
+VTA-11023,2024-02-03,Banco Capital,Carlos Díaz,Seguridad,Cámaras CCTV Kit,1,880.19,880.19,Santiago,Cibao Norte
+VTA-10696,2024-02-03,Banco Capital,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,1,1082.1,1082.1,La Romana,Este
+VTA-10042,2024-02-06,Farmacias del Sol,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,10,453.25,4532.5,San Cristóbal,Sur
+VTA-11164,2024-02-06,Altia Telecom,Juan Pérez,Tecnología,Monitor 27'',2,290.88,581.76,Puerto Plata,Cibao Norte
+VTA-10553,2024-02-07,Banco Capital,Luis Sánchez,Tecnología,Laptop ThinkPad,3,1162.28,3486.84,Puerto Plata,Cibao Norte
+VTA-10508,2024-02-07,Seguros Nacional,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,2,461.66,923.32,Santo Domingo,Metropolitana
+VTA-10183,2024-02-08,Banco Capital,Luis Sánchez,Tecnología,Laptop ThinkPad,2,1188.23,2376.46,San Cristóbal,Sur
+VTA-10558,2024-02-08,Banco Capital,Luis Sánchez,Seguridad,Firewall Fortinet,4,3308.13,13232.52,Santiago,Cibao Norte
+VTA-10543,2024-02-08,Banco Capital,Ana Morales,Mobiliario,Silla Ergonómica,1,209.35,209.35,Santo Domingo,Metropolitana
+VTA-10248,2024-02-08,Altia Telecom,Carlos Díaz,Seguridad,Firewall Fortinet,1,3253.4,3253.4,Santiago,Cibao Norte
+VTA-11212,2024-02-10,Grupo Comercial,María Gómez,Software & Cloud,Suscripción Antivirus Corp,5,429.14,2145.7,Punta Cana,Este
+VTA-10163,2024-02-10,Grupo Comercial,Juan Pérez,Mobiliario,Silla Ergonómica,3,219.94,659.82,Puerto Plata,Cibao Norte
+VTA-11073,2024-02-11,Grupo Comercial,María Gómez,Tecnología,Monitor 27'',3,288.09,864.27,San Cristóbal,Sur
+VTA-10128,2024-02-11,Grupo Comercial,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,2,1104.38,2208.76,Puerto Plata,Cibao Norte
+VTA-10580,2024-02-13,Seguros Nacional,Ana Morales,Software & Cloud,Servicio Backup Dedicado,5,1127.5,5637.5,Santo Domingo,Metropolitana
+VTA-11458,2024-02-13,Industria Caribe,Juan Pérez,Seguridad,Firewall Fortinet,2,3326.87,6653.74,Santiago,Cibao Norte
+VTA-10638,2024-02-13,Banco Capital,María Gómez,Tecnología,Laptop ThinkPad,5,1232.81,6164.05,Santo Domingo,Metropolitana
+VTA-11071,2024-02-16,Banco Capital,Juan Pérez,Mobiliario,Silla Ergonómica,2,230.01,460.02,Santiago,Cibao Norte
+VTA-11187,2024-02-16,Grupo Comercial,María Gómez,Mobiliario,Silla Ergonómica,2,230.08,460.16,Santiago,Cibao Norte
+VTA-10598,2024-02-17,Altia Telecom,Carlos Díaz,Tecnología,Monitor 27'',2,275.57,551.14,San Cristóbal,Sur
+VTA-10344,2024-02-18,Grupo Comercial,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,1,1114.43,1114.43,La Romana,Este
+VTA-10146,2024-02-18,Banco Capital,Ana Morales,Tecnología,Laptop ThinkPad,4,1206.88,4827.52,Santo Domingo,Metropolitana
+VTA-10877,2024-02-20,Seguros Nacional,Carlos Díaz,Seguridad,Cámaras CCTV Kit,2,890.16,1780.32,Santiago,Cibao Norte
+VTA-11214,2024-02-20,Seguros Nacional,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2470.87,2470.87,Punta Cana,Este
+VTA-11289,2024-02-24,Retail Dominicana,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,4,429.23,1716.92,Santo Domingo,Metropolitana
+VTA-11149,2024-02-26,Retail Dominicana,María Gómez,Software & Cloud,Licencia ERP Cloud,2,2477.19,4954.38,Santiago,Cibao Norte
+VTA-10973,2024-02-27,Altia Telecom,María Gómez,Mobiliario,Silla Ergonómica,3,211.01,633.03,Santo Domingo,Metropolitana
+VTA-10978,2024-02-27,Banco Capital,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,1,455.39,455.39,Santo Domingo,Metropolitana
+VTA-10994,2024-02-28,Industria Caribe,María Gómez,Tecnología,Servidor Dell PowerEdge,1,4634.35,4634.35,Santiago,Cibao Norte
+VTA-10576,2024-02-28,Industria Caribe,Ana Morales,Software & Cloud,Licencia ERP Cloud,1,2386.33,2386.33,Punta Cana,Este
+VTA-10667,2024-02-29,Banco Capital,María Gómez,Seguridad,Firewall Fortinet,1,3210.1,3210.1,Santo Domingo,Metropolitana
+VTA-10643,2024-03-03,Banco Capital,Ana Morales,Tecnología,Laptop ThinkPad,1,1218.41,1218.41,Punta Cana,Este
+VTA-10147,2024-03-03,Logística Express,Juan Pérez,Seguridad,Firewall Fortinet,3,3176.57,9529.71,Santo Domingo,Metropolitana
+VTA-11205,2024-03-04,Banco Capital,Juan Pérez,Mobiliario,Silla Ergonómica,1,216.78,216.78,San Cristóbal,Sur
+VTA-10775,2024-03-04,Seguros Nacional,Carlos Díaz,Tecnología,Monitor 27'',1,282.12,282.12,San Cristóbal,Sur
+VTA-10304,2024-03-05,Grupo Comercial,María Gómez,Software & Cloud,Suscripción Antivirus Corp,1,436.45,436.45,Santiago,Cibao Norte
+VTA-11174,2024-03-05,Banco Capital,Luis Sánchez,Seguridad,Firewall Fortinet,1,3140.11,3140.11,Santo Domingo,Metropolitana
+VTA-10442,2024-03-05,Grupo Comercial,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,5,427.75,2138.75,Santo Domingo,Metropolitana
+VTA-10834,2024-03-05,Retail Dominicana,Carlos Díaz,Mobiliario,Silla Ergonómica,10,226.67,2266.7,Santo Domingo,Metropolitana
+VTA-10746,2024-03-06,Industria Caribe,Ana Morales,Mobiliario,Escritorio Ejecutivo,5,469.3,2346.5,Santiago,Cibao Norte
+VTA-11369,2024-03-07,Retail Dominicana,Carlos Díaz,Seguridad,Cámaras CCTV Kit,4,821.85,3287.4,Puerto Plata,Cibao Norte
+VTA-11293,2024-03-07,Retail Dominicana,Luis Sánchez,Seguridad,Firewall Fortinet,4,3222.23,12888.92,Puerto Plata,Cibao Norte
+VTA-10765,2024-03-08,Banco Capital,María Gómez,Mobiliario,Escritorio Ejecutivo,3,484.77,1454.31,Punta Cana,Este
+VTA-11324,2024-03-09,Altia Telecom,Juan Pérez,Mobiliario,Silla Ergonómica,3,209.69,629.07,San Cristóbal,Sur
+VTA-10817,2024-03-09,Farmacias del Sol,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,2,436.69,873.38,Santo Domingo,Metropolitana
+VTA-11034,2024-03-09,Grupo Comercial,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,1,4530.35,4530.35,Puerto Plata,Cibao Norte
+VTA-11020,2024-03-10,Retail Dominicana,María Gómez,Tecnología,Servidor Dell PowerEdge,4,4561.69,18246.76,La Romana,Este
+VTA-10589,2024-03-10,Grupo Comercial,Carlos Díaz,Seguridad,Cámaras CCTV Kit,3,880.44,2641.32,Puerto Plata,Cibao Norte
+VTA-10332,2024-03-10,Retail Dominicana,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,2,2471.34,4942.68,Santiago,Cibao Norte
+VTA-10567,2024-03-11,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,4366.94,8733.88,Santo Domingo,Metropolitana
+VTA-10898,2024-03-11,Industria Caribe,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,457.56,457.56,Punta Cana,Este
+VTA-10613,2024-03-11,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,5,2388.81,11944.05,Punta Cana,Este
+VTA-11221,2024-03-12,Altia Telecom,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,1,4509.78,4509.78,Santiago,Cibao Norte
+VTA-10666,2024-03-12,Seguros Nacional,Luis Sánchez,Tecnología,Laptop ThinkPad,1,1173.09,1173.09,Punta Cana,Este
+VTA-11248,2024-03-13,Altia Telecom,Juan Pérez,Seguridad,Cámaras CCTV Kit,1,843.49,843.49,San Cristóbal,Sur
+VTA-10171,2024-03-13,Banco Capital,Juan Pérez,Mobiliario,Silla Ergonómica,2,224.51,449.02,Santo Domingo,Metropolitana
+VTA-10610,2024-03-13,Logística Express,Ana Morales,Mobiliario,Escritorio Ejecutivo,2,489.18,978.36,Puerto Plata,Cibao Norte
+VTA-10226,2024-03-13,Banco Capital,Juan Pérez,Seguridad,Cámaras CCTV Kit,2,888.02,1776.04,Santiago,Cibao Norte
+VTA-10967,2024-03-16,Grupo Comercial,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,10,1145.53,11455.3,Santo Domingo,Metropolitana
+VTA-10692,2024-03-16,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,2498.13,4996.26,Puerto Plata,Cibao Norte
+VTA-11199,2024-03-17,Grupo Comercial,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,492.35,492.35,Santiago,Cibao Norte
+VTA-10094,2024-03-18,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,3,2432.16,7296.48,Punta Cana,Este
+VTA-10519,2024-03-18,Industria Caribe,María Gómez,Seguridad,Firewall Fortinet,3,3115.19,9345.57,Puerto Plata,Cibao Norte
+VTA-10537,2024-03-19,Banco Capital,Carlos Díaz,Seguridad,Cámaras CCTV Kit,3,857.44,2572.32,Puerto Plata,Cibao Norte
+VTA-10872,2024-03-21,Industria Caribe,Luis Sánchez,Mobiliario,Silla Ergonómica,2,222.25,444.5,Punta Cana,Este
+VTA-10175,2024-03-21,Industria Caribe,Juan Pérez,Mobiliario,Silla Ergonómica,3,223.23,669.69,Santiago,Cibao Norte
+VTA-10851,2024-03-22,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,3,2613.02,7839.06,Puerto Plata,Cibao Norte
+VTA-11120,2024-03-23,Constructora Metro,María Gómez,Seguridad,Firewall Fortinet,1,3092.38,3092.38,La Romana,Este
+VTA-11014,2024-03-23,Altia Telecom,María Gómez,Seguridad,Firewall Fortinet,1,3278.85,3278.85,Puerto Plata,Cibao Norte
+VTA-10539,2024-03-23,Supermercados Unidos,Ana Morales,Mobiliario,Escritorio Ejecutivo,1,491.49,491.49,Santo Domingo,Metropolitana
+VTA-10268,2024-03-24,Altia Telecom,Juan Pérez,Seguridad,Cámaras CCTV Kit,1,852.25,852.25,La Romana,Este
+VTA-11150,2024-03-24,Grupo Comercial,María Gómez,Mobiliario,Escritorio Ejecutivo,2,491.01,982.02,San Cristóbal,Sur
+VTA-10227,2024-03-24,Grupo Comercial,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,2,2513.25,5026.5,Punta Cana,Este
+VTA-10211,2024-03-24,Industria Caribe,Carlos Díaz,Tecnología,Laptop ThinkPad,1,1255.59,1255.59,Punta Cana,Este
+VTA-10774,2024-03-25,Grupo Comercial,Luis Sánchez,Mobiliario,Silla Ergonómica,1,213.58,213.58,Santo Domingo,Metropolitana
+VTA-11431,2024-03-25,Constructora Metro,María Gómez,Seguridad,Cámaras CCTV Kit,3,823.6,2470.8,La Romana,Este
+VTA-10507,2024-03-25,Grupo Comercial,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,8,1125.23,9001.84,Punta Cana,Este
+VTA-11336,2024-03-26,Banco Capital,Juan Pérez,Tecnología,Monitor 27'',2,268.45,536.9,Santiago,Cibao Norte
+VTA-10112,2024-03-26,Grupo Comercial,Ana Morales,Tecnología,Laptop ThinkPad,2,1181.15,2362.3,Santo Domingo,Metropolitana
+VTA-10423,2024-03-27,Grupo Comercial,María Gómez,Mobiliario,Silla Ergonómica,1,230.65,230.65,La Romana,Este
+VTA-11496,2024-03-27,Grupo Comercial,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,2,462.52,925.04,La Romana,Este
+VTA-11395,2024-03-27,Grupo Comercial,María Gómez,Mobiliario,Escritorio Ejecutivo,2,473.75,947.5,Santiago,Cibao Norte
+VTA-10620,2024-03-29,Altia Telecom,Carlos Díaz,Seguridad,Cámaras CCTV Kit,1,863.96,863.96,La Romana,Este
+VTA-11489,2024-03-29,Retail Dominicana,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,1,466.63,466.63,San Cristóbal,Sur
+VTA-10086,2024-03-30,Grupo Comercial,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,10,471.35,4713.5,Santiago,Cibao Norte
+VTA-10764,2024-04-01,Industria Caribe,Carlos Díaz,Seguridad,Cámaras CCTV Kit,2,863.0,1726.0,Santo Domingo,Metropolitana
+VTA-11076,2024-04-01,Seguros Nacional,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,10,432.96,4329.6,San Cristóbal,Sur
+VTA-11131,2024-04-01,Seguros Nacional,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,1,453.85,453.85,Puerto Plata,Cibao Norte
+VTA-10959,2024-04-01,Retail Dominicana,Luis Sánchez,Seguridad,Cámaras CCTV Kit,1,862.16,862.16,La Romana,Este
+VTA-10606,2024-04-03,Retail Dominicana,María Gómez,Tecnología,Laptop ThinkPad,5,1173.24,5866.2,Puerto Plata,Cibao Norte
+VTA-11323,2024-04-04,Altia Telecom,Carlos Díaz,Seguridad,Firewall Fortinet,4,3272.38,13089.52,San Cristóbal,Sur
+VTA-11380,2024-04-04,Industria Caribe,Luis Sánchez,Tecnología,Monitor 27'',8,281.68,2253.44,La Romana,Este
+VTA-11374,2024-04-04,Retail Dominicana,Carlos Díaz,Seguridad,Firewall Fortinet,1,3227.67,3227.67,Santiago,Cibao Norte
+VTA-10577,2024-04-05,Banco Capital,Carlos Díaz,Tecnología,Laptop ThinkPad,2,1184.79,2369.58,Santiago,Cibao Norte
+VTA-10839,2024-04-06,Banco Capital,Luis Sánchez,Mobiliario,Silla Ergonómica,2,224.53,449.06,Punta Cana,Este
+VTA-10820,2024-04-06,Industria Caribe,Ana Morales,Tecnología,Monitor 27'',3,268.04,804.12,La Romana,Este
+VTA-10357,2024-04-07,Retail Dominicana,Carlos Díaz,Seguridad,Firewall Fortinet,1,3214.54,3214.54,Puerto Plata,Cibao Norte
+VTA-10686,2024-04-08,Banco Capital,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,1,1152.22,1152.22,Puerto Plata,Cibao Norte
+VTA-11027,2024-04-08,Altia Telecom,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,1,4560.87,4560.87,Santiago,Cibao Norte
+VTA-10796,2024-04-08,Grupo Comercial,Ana Morales,Tecnología,Servidor Dell PowerEdge,1,4454.23,4454.23,Puerto Plata,Cibao Norte
+VTA-10072,2024-04-08,Altia Telecom,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,3,461.36,1384.08,Punta Cana,Este
+VTA-10300,2024-04-10,Industria Caribe,Ana Morales,Software & Cloud,Licencia ERP Cloud,4,2538.93,10155.72,Puerto Plata,Cibao Norte
+VTA-11067,2024-04-10,Industria Caribe,María Gómez,Seguridad,Cámaras CCTV Kit,1,860.7,860.7,Santo Domingo,Metropolitana
+VTA-10173,2024-04-11,Altia Telecom,Carlos Díaz,Tecnología,Laptop ThinkPad,8,1156.42,9251.36,Puerto Plata,Cibao Norte
+VTA-10468,2024-04-11,Grupo Comercial,Juan Pérez,Mobiliario,Escritorio Ejecutivo,3,457.51,1372.53,La Romana,Este
+VTA-10001,2024-04-12,Seguros Nacional,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,1,434.52,434.52,Puerto Plata,Cibao Norte
+VTA-11098,2024-04-12,Altia Telecom,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,2,481.95,963.9,Santiago,Cibao Norte
+VTA-10224,2024-04-12,Banco Capital,María Gómez,Mobiliario,Escritorio Ejecutivo,1,494.43,494.43,San Cristóbal,Sur
+VTA-11086,2024-04-13,Seguros Nacional,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,2,2426.88,4853.76,Santo Domingo,Metropolitana
+VTA-11083,2024-04-14,Altia Telecom,María Gómez,Software & Cloud,Servicio Backup Dedicado,1,1139.99,1139.99,La Romana,Este
+VTA-10982,2024-04-14,Banco Capital,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,1,479.21,479.21,San Cristóbal,Sur
+VTA-10871,2024-04-15,Industria Caribe,Juan Pérez,Tecnología,Monitor 27'',5,286.37,1431.85,La Romana,Este
+VTA-11158,2024-04-15,Grupo Comercial,Ana Morales,Mobiliario,Silla Ergonómica,4,217.94,871.76,Punta Cana,Este
+VTA-11351,2024-04-16,Industria Caribe,María Gómez,Tecnología,Monitor 27'',3,277.53,832.59,Santo Domingo,Metropolitana
+VTA-10190,2024-04-16,Banco Capital,María Gómez,Tecnología,Laptop ThinkPad,4,1254.87,5019.48,Santo Domingo,Metropolitana
+VTA-11236,2024-04-16,Grupo Comercial,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,1,460.67,460.67,Santo Domingo,Metropolitana
+VTA-10705,2024-04-17,Banco Capital,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,3,4420.95,13262.85,Santiago,Cibao Norte
+VTA-10719,2024-04-18,Farmacias del Sol,Carlos Díaz,Tecnología,Laptop ThinkPad,1,1141.64,1141.64,San Cristóbal,Sur
+VTA-10724,2024-04-20,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,2545.55,2545.55,Puerto Plata,Cibao Norte
+VTA-11241,2024-04-20,Banco Capital,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,2,1111.56,2223.12,Santo Domingo,Metropolitana
+VTA-11267,2024-04-21,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,4479.73,8959.46,Puerto Plata,Cibao Norte
+VTA-11116,2024-04-22,Grupo Comercial,Ana Morales,Tecnología,Laptop ThinkPad,2,1253.78,2507.56,San Cristóbal,Sur
+VTA-10998,2024-04-23,Industria Caribe,María Gómez,Software & Cloud,Licencia ERP Cloud,1,2531.69,2531.69,Puerto Plata,Cibao Norte
+VTA-10497,2024-04-23,Farmacias del Sol,María Gómez,Software & Cloud,Licencia ERP Cloud,2,2400.45,4800.9,Puerto Plata,Cibao Norte
+VTA-10198,2024-04-24,Retail Dominicana,María Gómez,Tecnología,Laptop ThinkPad,3,1245.44,3736.32,Punta Cana,Este
+VTA-10043,2024-04-25,Grupo Comercial,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,2,4351.27,8702.54,Santo Domingo,Metropolitana
+VTA-10437,2024-04-25,Banco Capital,Juan Pérez,Tecnología,Laptop ThinkPad,1,1247.17,1247.17,Santo Domingo,Metropolitana
+VTA-10847,2024-04-26,Grupo Comercial,Luis Sánchez,Seguridad,Cámaras CCTV Kit,1,853.74,853.74,San Cristóbal,Sur
+VTA-10849,2024-04-26,Altia Telecom,María Gómez,Software & Cloud,Suscripción Antivirus Corp,4,452.1,1808.4,Punta Cana,Este
+VTA-10431,2024-04-26,Altia Telecom,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,3,1059.37,3178.11,La Romana,Este
+VTA-10054,2024-04-26,Banco Capital,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,5,430.12,2150.6,La Romana,Este
+VTA-11074,2024-04-27,Banco Capital,Ana Morales,Software & Cloud,Licencia ERP Cloud,4,2568.21,10272.84,Punta Cana,Este
+VTA-11096,2024-04-27,Altia Telecom,Ana Morales,Software & Cloud,Licencia ERP Cloud,4,2537.74,10150.96,Punta Cana,Este
+VTA-10154,2024-04-29,Seguros Nacional,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,2,433.85,867.7,La Romana,Este
+VTA-11055,2024-04-30,Banco Capital,María Gómez,Mobiliario,Escritorio Ejecutivo,2,468.84,937.68,Punta Cana,Este
+VTA-10859,2024-04-30,Altia Telecom,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,8,2553.78,20430.24,La Romana,Este
+VTA-11422,2024-04-30,Grupo Comercial,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,1,432.08,432.08,Punta Cana,Este
+VTA-11377,2024-05-01,Altia Telecom,Luis Sánchez,Mobiliario,Silla Ergonómica,1,218.04,218.04,Santo Domingo,Metropolitana
+VTA-10758,2024-05-01,Banco Capital,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,2,428.66,857.32,Punta Cana,Este
+VTA-11276,2024-05-02,Banco Capital,Carlos Díaz,Mobiliario,Silla Ergonómica,3,210.44,631.32,Santo Domingo,Metropolitana
+VTA-11144,2024-05-04,Grupo Comercial,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,2,1098.36,2196.72,San Cristóbal,Sur
+VTA-10683,2024-05-04,Banco Capital,Ana Morales,Mobiliario,Silla Ergonómica,1,212.52,212.52,San Cristóbal,Sur
+VTA-10772,2024-05-06,Grupo Comercial,Luis Sánchez,Seguridad,Firewall Fortinet,1,3221.94,3221.94,San Cristóbal,Sur
+VTA-11490,2024-05-07,Constructora Metro,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,2,4701.17,9402.34,Punta Cana,Este
+VTA-11125,2024-05-07,Industria Caribe,María Gómez,Tecnología,Monitor 27'',1,272.32,272.32,Santo Domingo,Metropolitana
+VTA-10618,2024-05-07,Banco Capital,Carlos Díaz,Seguridad,Firewall Fortinet,2,3066.33,6132.66,La Romana,Este
+VTA-10295,2024-05-07,Grupo Comercial,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2484.88,2484.88,San Cristóbal,Sur
+VTA-10013,2024-05-08,Banco Capital,Carlos Díaz,Tecnología,Laptop ThinkPad,3,1225.36,3676.08,Punta Cana,Este
+VTA-10795,2024-05-09,Constructora Metro,María Gómez,Mobiliario,Escritorio Ejecutivo,1,490.85,490.85,La Romana,Este
+VTA-11454,2024-05-10,Grupo Comercial,Ana Morales,Mobiliario,Escritorio Ejecutivo,1,456.55,456.55,San Cristóbal,Sur
+VTA-11327,2024-05-10,Banco Capital,Ana Morales,Seguridad,Cámaras CCTV Kit,2,870.37,1740.74,Punta Cana,Este
+VTA-11190,2024-05-11,Altia Telecom,María Gómez,Software & Cloud,Servicio Backup Dedicado,4,1056.69,4226.76,Punta Cana,Este
+VTA-10816,2024-05-11,Altia Telecom,María Gómez,Software & Cloud,Servicio Backup Dedicado,4,1079.27,4317.08,San Cristóbal,Sur
+VTA-10242,2024-05-12,Banco Capital,Carlos Díaz,Tecnología,Laptop ThinkPad,1,1170.3,1170.3,La Romana,Este
+VTA-10074,2024-05-12,Seguros Nacional,Luis Sánchez,Tecnología,Monitor 27'',3,293.12,879.36,Punta Cana,Este
+VTA-11392,2024-05-12,Altia Telecom,Ana Morales,Software & Cloud,Licencia ERP Cloud,1,2483.37,2483.37,La Romana,Este
+VTA-11444,2024-05-13,Industria Caribe,Ana Morales,Software & Cloud,Servicio Backup Dedicado,4,1151.46,4605.84,Santiago,Cibao Norte
+VTA-10780,2024-05-13,Farmacias del Sol,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,2,1047.63,2095.26,San Cristóbal,Sur
+VTA-10864,2024-05-13,Altia Telecom,Ana Morales,Tecnología,Monitor 27'',4,275.18,1100.72,San Cristóbal,Sur
+VTA-11312,2024-05-15,Banco Capital,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,1,441.21,441.21,Santiago,Cibao Norte
+VTA-10399,2024-05-15,Banco Capital,Ana Morales,Mobiliario,Escritorio Ejecutivo,2,478.22,956.44,Santo Domingo,Metropolitana
+VTA-10125,2024-05-16,Banco Capital,Carlos Díaz,Tecnología,Laptop ThinkPad,2,1228.93,2457.86,Punta Cana,Este
+VTA-10886,2024-05-19,Farmacias del Sol,Luis Sánchez,Seguridad,Cámaras CCTV Kit,2,822.11,1644.22,Santo Domingo,Metropolitana
+VTA-11432,2024-05-19,Retail Dominicana,Luis Sánchez,Tecnología,Monitor 27'',1,271.82,271.82,San Cristóbal,Sur
+VTA-11101,2024-05-19,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet,4,3277.22,13108.88,Santo Domingo,Metropolitana
+VTA-10555,2024-05-19,Banco Capital,María Gómez,Software & Cloud,Suscripción Antivirus Corp,1,460.91,460.91,Santo Domingo,Metropolitana
+VTA-10269,2024-05-20,Altia Telecom,Luis Sánchez,Mobiliario,Silla Ergonómica,2,226.46,452.92,San Cristóbal,Sur
+VTA-11138,2024-05-20,Banco Capital,María Gómez,Mobiliario,Silla Ergonómica,1,218.99,218.99,Puerto Plata,Cibao Norte
+VTA-11066,2024-05-20,Retail Dominicana,Ana Morales,Seguridad,Cámaras CCTV Kit,10,842.13,8421.3,San Cristóbal,Sur
+VTA-10084,2024-05-22,Altia Telecom,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,3,1087.26,3261.78,San Cristóbal,Sur
+VTA-11136,2024-05-23,Retail Dominicana,Ana Morales,Seguridad,Cámaras CCTV Kit,4,855.86,3423.44,Puerto Plata,Cibao Norte
+VTA-10272,2024-05-25,Seguros Nacional,María Gómez,Seguridad,Firewall Fortinet,1,3227.71,3227.71,Santo Domingo,Metropolitana
+VTA-11363,2024-05-25,Grupo Comercial,Juan Pérez,Seguridad,Firewall Fortinet,3,3064.06,9192.18,Santo Domingo,Metropolitana
+VTA-11219,2024-05-26,Altia Telecom,María Gómez,Tecnología,Monitor 27'',4,272.92,1091.68,Santo Domingo,Metropolitana
+VTA-10433,2024-05-26,Altia Telecom,Ana Morales,Software & Cloud,Licencia ERP Cloud,2,2590.89,5181.78,La Romana,Este
+VTA-10698,2024-05-27,Industria Caribe,Ana Morales,Tecnología,Monitor 27'',3,267.27,801.81,Santiago,Cibao Norte
+VTA-10466,2024-05-28,Industria Caribe,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,1,440.43,440.43,La Romana,Este
+VTA-10868,2024-05-28,Retail Dominicana,María Gómez,Tecnología,Servidor Dell PowerEdge,1,4412.82,4412.82,Puerto Plata,Cibao Norte
+VTA-10850,2024-05-31,Banco Capital,Juan Pérez,Mobiliario,Escritorio Ejecutivo,5,463.98,2319.9,Santiago,Cibao Norte
+VTA-11326,2024-06-02,Supermercados Unidos,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,1,430.81,430.81,Puerto Plata,Cibao Norte
+VTA-11140,2024-06-04,Seguros Nacional,Carlos Díaz,Seguridad,Cámaras CCTV Kit,2,852.85,1705.7,Santo Domingo,Metropolitana
+VTA-10377,2024-06-04,Industria Caribe,Juan Pérez,Tecnología,Laptop ThinkPad,1,1240.44,1240.44,La Romana,Este
+VTA-11443,2024-06-05,Banco Capital,Juan Pérez,Seguridad,Cámaras CCTV Kit,1,818.77,818.77,Santo Domingo,Metropolitana
+VTA-11228,2024-06-06,Banco Capital,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,5,450.77,2253.85,Santiago,Cibao Norte
+VTA-10451,2024-06-08,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,1,2450.8,2450.8,La Romana,Este
+VTA-10821,2024-06-09,Industria Caribe,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,1,1056.88,1056.88,La Romana,Este
+VTA-10750,2024-06-09,Altia Telecom,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2381.03,2381.03,Santiago,Cibao Norte
+VTA-10395,2024-06-10,Altia Telecom,Juan Pérez,Seguridad,Cámaras CCTV Kit,1,861.4,861.4,Santo Domingo,Metropolitana
+VTA-10652,2024-06-10,Retail Dominicana,María Gómez,Seguridad,Firewall Fortinet,1,3134.42,3134.42,La Romana,Este
+VTA-10441,2024-06-11,Logística Express,María Gómez,Seguridad,Cámaras CCTV Kit,1,832.54,832.54,Santo Domingo,Metropolitana
+VTA-11365,2024-06-11,Altia Telecom,Carlos Díaz,Seguridad,Firewall Fortinet,2,3282.88,6565.76,Punta Cana,Este
+VTA-10792,2024-06-12,Altia Telecom,Ana Morales,Mobiliario,Escritorio Ejecutivo,1,499.76,499.76,Puerto Plata,Cibao Norte
+VTA-11251,2024-06-13,Banco Capital,Carlos Díaz,Tecnología,Laptop ThinkPad,4,1237.49,4949.96,Santiago,Cibao Norte
+VTA-11162,2024-06-13,Banco Capital,María Gómez,Seguridad,Cámaras CCTV Kit,8,815.12,6520.96,San Cristóbal,Sur
+VTA-10540,2024-06-14,Banco Capital,María Gómez,Software & Cloud,Servicio Backup Dedicado,4,1080.97,4323.88,Punta Cana,Este
+VTA-10276,2024-06-15,Industria Caribe,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,1,4546.45,4546.45,La Romana,Este
+VTA-10945,2024-06-16,Industria Caribe,Carlos Díaz,Mobiliario,Silla Ergonómica,4,226.11,904.44,La Romana,Este
+VTA-10199,2024-06-16,Banco Capital,Carlos Díaz,Mobiliario,Silla Ergonómica,1,216.35,216.35,Punta Cana,Este
+VTA-10781,2024-06-16,Banco Capital,Luis Sánchez,Tecnología,Laptop ThinkPad,2,1150.97,2301.94,Punta Cana,Este
+VTA-10788,2024-06-16,Industria Caribe,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,2441.5,2441.5,Santiago,Cibao Norte
+VTA-10063,2024-06-16,Farmacias del Sol,Ana Morales,Tecnología,Monitor 27'',2,267.09,534.18,Puerto Plata,Cibao Norte
+VTA-10891,2024-06-17,Banco Capital,María Gómez,Seguridad,Cámaras CCTV Kit,3,884.75,2654.25,Santiago,Cibao Norte
+VTA-10317,2024-06-17,Supermercados Unidos,María Gómez,Software & Cloud,Suscripción Antivirus Corp,2,433.14,866.28,Santiago,Cibao Norte
+VTA-11469,2024-06-18,Banco Capital,Ana Morales,Mobiliario,Silla Ergonómica,1,219.63,219.63,Puerto Plata,Cibao Norte
+VTA-10195,2024-06-18,Seguros Nacional,Juan Pérez,Tecnología,Monitor 27'',1,277.44,277.44,Puerto Plata,Cibao Norte
+VTA-11410,2024-06-19,Industria Caribe,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,2,4332.0,8664.0,Puerto Plata,Cibao Norte
+VTA-11322,2024-06-19,Seguros Nacional,Carlos Díaz,Tecnología,Laptop ThinkPad,1,1162.78,1162.78,Santo Domingo,Metropolitana
+VTA-10727,2024-06-19,Banco Capital,Ana Morales,Software & Cloud,Servicio Backup Dedicado,2,1078.83,2157.66,Santo Domingo,Metropolitana
+VTA-10019,2024-06-19,Banco Capital,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,5,4347.55,21737.75,Punta Cana,Este
+VTA-11448,2024-06-20,Industria Caribe,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,3,4705.31,14115.93,Santo Domingo,Metropolitana
+VTA-10999,2024-06-20,Farmacias del Sol,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,2,4457.34,8914.68,San Cristóbal,Sur
+VTA-11305,2024-06-21,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,4558.88,4558.88,San Cristóbal,Sur
+VTA-10800,2024-06-21,Retail Dominicana,Carlos Díaz,Tecnología,Monitor 27'',5,273.66,1368.3,Santiago,Cibao Norte
+VTA-10564,2024-06-23,Seguros Nacional,Juan Pérez,Tecnología,Servidor Dell PowerEdge,3,4588.39,13765.17,Punta Cana,Este
+VTA-10517,2024-06-23,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,4492.13,8984.26,Santo Domingo,Metropolitana
+VTA-11165,2024-06-24,Banco Capital,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,2,4662.83,9325.66,Santo Domingo,Metropolitana
+VTA-10987,2024-06-24,Industria Caribe,Juan Pérez,Software & Cloud,Licencia ERP Cloud,5,2488.22,12441.1,La Romana,Este
+VTA-10743,2024-06-26,Retail Dominicana,Carlos Díaz,Seguridad,Cámaras CCTV Kit,2,875.76,1751.52,Puerto Plata,Cibao Norte
+VTA-10986,2024-06-26,Altia Telecom,Carlos Díaz,Seguridad,Firewall Fortinet,1,3321.2,3321.2,Punta Cana,Este
+VTA-10962,2024-06-27,Grupo Comercial,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,10,2538.56,25385.6,Puerto Plata,Cibao Norte
+VTA-10145,2024-06-28,Grupo Comercial,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,1,1069.21,1069.21,Santo Domingo,Metropolitana
+VTA-10505,2024-06-29,Grupo Comercial,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,1,461.95,461.95,Puerto Plata,Cibao Norte
+VTA-11428,2024-06-30,Seguros Nacional,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,2,498.51,997.02,Puerto Plata,Cibao Norte
+VTA-10141,2024-06-30,Retail Dominicana,Juan Pérez,Seguridad,Firewall Fortinet,2,3112.77,6225.54,San Cristóbal,Sur
+VTA-11147,2024-07-02,Grupo Comercial,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,3,477.59,1432.77,Santo Domingo,Metropolitana
+VTA-11495,2024-07-05,Farmacias del Sol,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,1,456.63,456.63,San Cristóbal,Sur
+VTA-10549,2024-07-05,Altia Telecom,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,2,1092.04,2184.08,Santiago,Cibao Norte
+VTA-10626,2024-07-05,Banco Capital,Ana Morales,Tecnología,Servidor Dell PowerEdge,1,4373.42,4373.42,Puerto Plata,Cibao Norte
+VTA-10443,2024-07-06,Industria Caribe,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,4551.12,4551.12,La Romana,Este
+VTA-10012,2024-07-06,Altia Telecom,Juan Pérez,Tecnología,Laptop ThinkPad,2,1141.88,2283.76,Puerto Plata,Cibao Norte
+VTA-11339,2024-07-07,Grupo Comercial,Juan Pérez,Mobiliario,Silla Ergonómica,4,218.81,875.24,La Romana,Este
+VTA-10803,2024-07-07,Banco Capital,María Gómez,Software & Cloud,Servicio Backup Dedicado,3,1117.85,3353.55,Puerto Plata,Cibao Norte
+VTA-10299,2024-07-08,Grupo Comercial,Ana Morales,Software & Cloud,Licencia ERP Cloud,1,2533.3,2533.3,Santo Domingo,Metropolitana
+VTA-10081,2024-07-09,Altia Telecom,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,4,1093.0,4372.0,Santo Domingo,Metropolitana
+VTA-10378,2024-07-09,Grupo Comercial,María Gómez,Software & Cloud,Servicio Backup Dedicado,1,1084.64,1084.64,Santo Domingo,Metropolitana
+VTA-10111,2024-07-10,Grupo Comercial,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,4,483.07,1932.28,La Romana,Este
+VTA-10067,2024-07-10,Altia Telecom,Carlos Díaz,Tecnología,Monitor 27'',2,273.0,546.0,La Romana,Este
+VTA-10603,2024-07-11,Banco Capital,Ana Morales,Software & Cloud,Servicio Backup Dedicado,2,1108.77,2217.54,San Cristóbal,Sur
+VTA-10251,2024-07-11,Retail Dominicana,María Gómez,Mobiliario,Escritorio Ejecutivo,1,456.84,456.84,Punta Cana,Este
+VTA-10417,2024-07-11,Supermercados Unidos,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,2,487.0,974.0,Puerto Plata,Cibao Norte
+VTA-10119,2024-07-12,Altia Telecom,María Gómez,Software & Cloud,Suscripción Antivirus Corp,1,435.92,435.92,Punta Cana,Este
+VTA-10884,2024-07-12,Constructora Metro,Ana Morales,Seguridad,Cámaras CCTV Kit,4,851.46,3405.84,Santo Domingo,Metropolitana
+VTA-10693,2024-07-13,Altia Telecom,Ana Morales,Mobiliario,Escritorio Ejecutivo,1,466.01,466.01,Punta Cana,Este
+VTA-11094,2024-07-13,Industria Caribe,María Gómez,Tecnología,Laptop ThinkPad,3,1144.51,3433.53,Santo Domingo,Metropolitana
+VTA-10794,2024-07-15,Seguros Nacional,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,2473.39,2473.39,Santiago,Cibao Norte
+VTA-11032,2024-07-16,Altia Telecom,Ana Morales,Tecnología,Laptop ThinkPad,1,1248.93,1248.93,La Romana,Este
+VTA-10793,2024-07-17,Grupo Comercial,Ana Morales,Seguridad,Firewall Fortinet,1,3163.5,3163.5,Puerto Plata,Cibao Norte
+VTA-10310,2024-07-18,Banco Capital,Juan Pérez,Seguridad,Firewall Fortinet,1,3205.89,3205.89,La Romana,Este
+VTA-10674,2024-07-19,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,4445.83,4445.83,La Romana,Este
+VTA-11417,2024-07-20,Industria Caribe,Juan Pérez,Mobiliario,Silla Ergonómica,1,215.72,215.72,Santo Domingo,Metropolitana
+VTA-11050,2024-07-20,Seguros Nacional,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,2,464.19,928.38,Punta Cana,Este
+VTA-10963,2024-07-21,Industria Caribe,Luis Sánchez,Tecnología,Monitor 27'',4,267.83,1071.32,San Cristóbal,Sur
+VTA-10476,2024-07-23,Seguros Nacional,Ana Morales,Software & Cloud,Licencia ERP Cloud,5,2614.45,13072.25,Santiago,Cibao Norte
+VTA-11092,2024-07-23,Altia Telecom,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,3,488.88,1466.64,Puerto Plata,Cibao Norte
+VTA-10831,2024-07-25,Seguros Nacional,Carlos Díaz,Mobiliario,Silla Ergonómica,5,210.55,1052.75,Punta Cana,Este
+VTA-10910,2024-07-25,Retail Dominicana,Luis Sánchez,Tecnología,Laptop ThinkPad,4,1196.33,4785.32,Puerto Plata,Cibao Norte
+VTA-11310,2024-07-26,Seguros Nacional,Carlos Díaz,Tecnología,Laptop ThinkPad,5,1193.32,5966.6,Santo Domingo,Metropolitana
+VTA-11237,2024-07-28,Industria Caribe,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,2,466.19,932.38,Santo Domingo,Metropolitana
+VTA-10207,2024-07-28,Retail Dominicana,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,2,2536.89,5073.78,La Romana,Este
+VTA-11080,2024-07-28,Banco Capital,Luis Sánchez,Mobiliario,Silla Ergonómica,1,224.84,224.84,Santiago,Cibao Norte
+VTA-10885,2024-07-28,Altia Telecom,Carlos Díaz,Seguridad,Firewall Fortinet,1,3124.87,3124.87,Santiago,Cibao Norte
+VTA-11239,2024-07-29,Banco Capital,Luis Sánchez,Seguridad,Cámaras CCTV Kit,1,846.27,846.27,La Romana,Este
+VTA-11427,2024-07-29,Banco Capital,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,3,455.02,1365.06,La Romana,Este
+VTA-10372,2024-07-29,Seguros Nacional,Juan Pérez,Tecnología,Monitor 27'',2,289.01,578.02,Punta Cana,Este
+VTA-10995,2024-07-29,Retail Dominicana,María Gómez,Seguridad,Firewall Fortinet,1,3109.68,3109.68,La Romana,Este
+VTA-11082,2024-07-31,Industria Caribe,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,4658.19,4658.19,Santiago,Cibao Norte
+VTA-10360,2024-08-01,Banco Capital,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2592.64,2592.64,San Cristóbal,Sur
+VTA-10475,2024-08-01,Banco Capital,Carlos Díaz,Mobiliario,Silla Ergonómica,2,229.62,459.24,Puerto Plata,Cibao Norte
+VTA-10736,2024-08-02,Seguros Nacional,María Gómez,Mobiliario,Silla Ergonómica,1,217.31,217.31,La Romana,Este
+VTA-11278,2024-08-03,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,2486.67,2486.67,Santiago,Cibao Norte
+VTA-10480,2024-08-03,Industria Caribe,Juan Pérez,Tecnología,Monitor 27'',5,285.32,1426.6,Santo Domingo,Metropolitana
+VTA-10590,2024-08-04,Farmacias del Sol,Carlos Díaz,Seguridad,Firewall Fortinet,4,3358.77,13435.08,Puerto Plata,Cibao Norte
+VTA-10374,2024-08-05,Banco Capital,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,3,2601.34,7804.02,Punta Cana,Este
+VTA-10533,2024-08-06,Banco Capital,Ana Morales,Mobiliario,Silla Ergonómica,2,211.03,422.06,Punta Cana,Este
+VTA-10833,2024-08-06,Seguros Nacional,Ana Morales,Software & Cloud,Servicio Backup Dedicado,2,1046.46,2092.92,Punta Cana,Este
+VTA-11488,2024-08-07,Altia Telecom,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,3,2583.53,7750.59,Santiago,Cibao Norte
+VTA-10367,2024-08-07,Banco Capital,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,2,447.31,894.62,La Romana,Este
+VTA-10502,2024-08-08,Grupo Comercial,Carlos Díaz,Mobiliario,Silla Ergonómica,1,217.02,217.02,San Cristóbal,Sur
+VTA-10387,2024-08-09,Altia Telecom,Carlos Díaz,Seguridad,Cámaras CCTV Kit,1,882.07,882.07,La Romana,Este
+VTA-10205,2024-08-09,Seguros Nacional,Ana Morales,Software & Cloud,Licencia ERP Cloud,1,2391.96,2391.96,La Romana,Este
+VTA-10617,2024-08-10,Seguros Nacional,María Gómez,Software & Cloud,Suscripción Antivirus Corp,3,449.03,1347.09,Punta Cana,Este
+VTA-10060,2024-08-10,Banco Capital,Carlos Díaz,Tecnología,Laptop ThinkPad,3,1204.73,3614.19,Santiago,Cibao Norte
+VTA-10695,2024-08-11,Industria Caribe,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2521.21,2521.21,San Cristóbal,Sur
+VTA-11235,2024-08-12,Banco Capital,Luis Sánchez,Tecnología,Monitor 27'',4,273.57,1094.28,San Cristóbal,Sur
+VTA-10902,2024-08-13,Seguros Nacional,Ana Morales,Mobiliario,Silla Ergonómica,1,211.93,211.93,Puerto Plata,Cibao Norte
+VTA-10882,2024-08-13,Industria Caribe,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,1,1116.92,1116.92,Santiago,Cibao Norte
+VTA-11423,2024-08-14,Industria Caribe,María Gómez,Software & Cloud,Servicio Backup Dedicado,1,1120.28,1120.28,Santiago,Cibao Norte
+VTA-10623,2024-08-14,Seguros Nacional,Ana Morales,Mobiliario,Silla Ergonómica,5,220.3,1101.5,Punta Cana,Este
+VTA-11194,2024-08-15,Seguros Nacional,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,1,430.64,430.64,Santo Domingo,Metropolitana
+VTA-10823,2024-08-16,Industria Caribe,Luis Sánchez,Tecnología,Laptop ThinkPad,4,1243.37,4973.48,Santiago,Cibao Norte
+VTA-10327,2024-08-16,Banco Capital,María Gómez,Seguridad,Cámaras CCTV Kit,3,828.47,2485.41,Santiago,Cibao Norte
+VTA-11015,2024-08-16,Seguros Nacional,María Gómez,Seguridad,Cámaras CCTV Kit,2,827.62,1655.24,La Romana,Este
+VTA-10470,2024-08-17,Seguros Nacional,Ana Morales,Seguridad,Cámaras CCTV Kit,4,818.68,3274.72,Santo Domingo,Metropolitana
+VTA-10732,2024-08-19,Altia Telecom,Ana Morales,Seguridad,Cámaras CCTV Kit,5,813.84,4069.2,San Cristóbal,Sur
+VTA-10799,2024-08-19,Seguros Nacional,María Gómez,Software & Cloud,Licencia ERP Cloud,2,2496.41,4992.82,La Romana,Este
+VTA-10449,2024-08-20,Banco Capital,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,2,4436.02,8872.04,Puerto Plata,Cibao Norte
+VTA-10034,2024-08-20,Grupo Comercial,Carlos Díaz,Seguridad,Cámaras CCTV Kit,4,841.88,3367.52,La Romana,Este
+VTA-11357,2024-08-22,Banco Capital,María Gómez,Seguridad,Cámaras CCTV Kit,1,819.09,819.09,Puerto Plata,Cibao Norte
+VTA-11090,2024-08-22,Industria Caribe,Luis Sánchez,Seguridad,Cámaras CCTV Kit,2,838.34,1676.68,Punta Cana,Este
+VTA-10875,2024-08-23,Grupo Comercial,Ana Morales,Tecnología,Laptop ThinkPad,4,1226.96,4907.84,Santo Domingo,Metropolitana
+VTA-11085,2024-08-23,Industria Caribe,Luis Sánchez,Tecnología,Laptop ThinkPad,1,1241.24,1241.24,San Cristóbal,Sur
+VTA-10659,2024-08-24,Altia Telecom,Luis Sánchez,Tecnología,Monitor 27'',1,286.69,286.69,Santo Domingo,Metropolitana
+VTA-10673,2024-08-24,Industria Caribe,Carlos Díaz,Seguridad,Cámaras CCTV Kit,3,850.21,2550.63,San Cristóbal,Sur
+VTA-10635,2024-08-25,Retail Dominicana,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,1,461.83,461.83,Punta Cana,Este
+VTA-10323,2024-08-25,Seguros Nacional,Ana Morales,Software & Cloud,Servicio Backup Dedicado,1,1127.85,1127.85,Punta Cana,Este
+VTA-10919,2024-08-25,Altia Telecom,Ana Morales,Software & Cloud,Servicio Backup Dedicado,1,1142.95,1142.95,San Cristóbal,Sur
+VTA-10566,2024-08-26,Banco Capital,Juan Pérez,Seguridad,Firewall Fortinet,3,3085.71,9257.13,Puerto Plata,Cibao Norte
+VTA-11102,2024-08-27,Banco Capital,Luis Sánchez,Mobiliario,Silla Ergonómica,4,223.2,892.8,Puerto Plata,Cibao Norte
+VTA-11253,2024-08-27,Farmacias del Sol,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,2,1134.87,2269.74,Punta Cana,Este
+VTA-10782,2024-08-28,Grupo Comercial,Luis Sánchez,Tecnología,Laptop ThinkPad,1,1163.56,1163.56,Punta Cana,Este
+VTA-11459,2024-08-30,Grupo Comercial,Juan Pérez,Mobiliario,Escritorio Ejecutivo,8,474.34,3794.72,Santo Domingo,Metropolitana
+VTA-10117,2024-08-30,Banco Capital,Luis Sánchez,Seguridad,Cámaras CCTV Kit,1,817.02,817.02,La Romana,Este
+VTA-10170,2024-08-31,Banco Capital,Carlos Díaz,Tecnología,Monitor 27'',2,283.45,566.9,Puerto Plata,Cibao Norte
+VTA-11061,2024-08-31,Grupo Comercial,María Gómez,Seguridad,Firewall Fortinet,2,3311.83,6623.66,San Cristóbal,Sur
+VTA-11352,2024-09-01,Retail Dominicana,Ana Morales,Mobiliario,Silla Ergonómica,2,217.63,435.26,Punta Cana,Este
+VTA-10422,2024-09-01,Grupo Comercial,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,1,470.52,470.52,Santiago,Cibao Norte
+VTA-10722,2024-09-03,Altia Telecom,Ana Morales,Seguridad,Firewall Fortinet,2,3355.95,6711.9,Punta Cana,Este
+VTA-10646,2024-09-03,Grupo Comercial,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,1,4339.01,4339.01,Santiago,Cibao Norte
+VTA-10107,2024-09-05,Altia Telecom,Carlos Díaz,Tecnología,Laptop ThinkPad,4,1173.23,4692.92,Puerto Plata,Cibao Norte
+VTA-11110,2024-09-05,Banco Capital,María Gómez,Mobiliario,Escritorio Ejecutivo,3,464.68,1394.04,Santo Domingo,Metropolitana
+VTA-10404,2024-09-06,Industria Caribe,Juan Pérez,Seguridad,Firewall Fortinet,4,3269.62,13078.48,Punta Cana,Este
+VTA-10888,2024-09-06,Seguros Nacional,María Gómez,Tecnología,Monitor 27'',2,276.56,553.12,Punta Cana,Este
+VTA-10655,2024-09-06,Banco Capital,Juan Pérez,Seguridad,Cámaras CCTV Kit,2,817.41,1634.82,Puerto Plata,Cibao Norte
+VTA-11421,2024-09-07,Seguros Nacional,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,2,2425.75,4851.5,San Cristóbal,Sur
+VTA-11022,2024-09-07,Banco Capital,Ana Morales,Mobiliario,Silla Ergonómica,3,229.38,688.14,Santiago,Cibao Norte
+VTA-10756,2024-09-07,Industria Caribe,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,1,4358.01,4358.01,Punta Cana,Este
+VTA-10550,2024-09-08,Banco Capital,Ana Morales,Tecnología,Monitor 27'',3,280.0,840.0,Santiago,Cibao Norte
+VTA-10004,2024-09-09,Grupo Comercial,Juan Pérez,Mobiliario,Escritorio Ejecutivo,8,458.24,3665.92,Punta Cana,Este
+VTA-10890,2024-09-10,Seguros Nacional,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,3,436.14,1308.42,Puerto Plata,Cibao Norte
+VTA-10362,2024-09-10,Grupo Comercial,Ana Morales,Mobiliario,Escritorio Ejecutivo,1,479.9,479.9,Santo Domingo,Metropolitana
+VTA-11106,2024-09-10,Banco Capital,Ana Morales,Tecnología,Servidor Dell PowerEdge,1,4510.22,4510.22,Santo Domingo,Metropolitana
+VTA-10275,2024-09-10,Banco Capital,Carlos Díaz,Tecnología,Monitor 27'',2,277.32,554.64,Puerto Plata,Cibao Norte
+VTA-11340,2024-09-11,Grupo Comercial,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,2,1150.75,2301.5,Santiago,Cibao Norte
+VTA-11481,2024-09-12,Banco Capital,Juan Pérez,Mobiliario,Silla Ergonómica,2,226.55,453.1,Santiago,Cibao Norte
+VTA-10747,2024-09-13,Grupo Comercial,María Gómez,Software & Cloud,Servicio Backup Dedicado,1,1124.43,1124.43,Santiago,Cibao Norte
+VTA-10591,2024-09-14,Seguros Nacional,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,10,1055.44,10554.4,San Cristóbal,Sur
+VTA-10889,2024-09-14,Banco Capital,María Gómez,Seguridad,Cámaras CCTV Kit,1,836.9,836.9,Santiago,Cibao Norte
+VTA-10925,2024-09-14,Grupo Comercial,Ana Morales,Tecnología,Laptop ThinkPad,4,1165.58,4662.32,Punta Cana,Este
+VTA-11482,2024-09-15,Retail Dominicana,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,3,2525.35,7576.05,San Cristóbal,Sur
+VTA-11499,2024-09-16,Industria Caribe,Luis Sánchez,Tecnología,Laptop ThinkPad,3,1191.36,3574.08,Santiago,Cibao Norte
+VTA-10745,2024-09-16,Industria Caribe,María Gómez,Software & Cloud,Licencia ERP Cloud,1,2425.19,2425.19,Santo Domingo,Metropolitana
+VTA-10735,2024-09-16,Grupo Comercial,Juan Pérez,Mobiliario,Escritorio Ejecutivo,5,475.79,2378.95,San Cristóbal,Sur
+VTA-10240,2024-09-17,Grupo Comercial,Ana Morales,Seguridad,Firewall Fortinet,1,3185.21,3185.21,La Romana,Este
+VTA-10918,2024-09-18,Farmacias del Sol,María Gómez,Software & Cloud,Suscripción Antivirus Corp,1,470.04,470.04,Punta Cana,Este
+VTA-10516,2024-09-18,Industria Caribe,Luis Sánchez,Tecnología,Laptop ThinkPad,3,1224.14,3672.42,Punta Cana,Este
+VTA-10689,2024-09-18,Seguros Nacional,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,2,2618.45,5236.9,Santiago,Cibao Norte
+VTA-11360,2024-09-20,Seguros Nacional,Juan Pérez,Tecnología,Laptop ThinkPad,2,1204.26,2408.52,Punta Cana,Este
+VTA-10444,2024-09-21,Industria Caribe,Ana Morales,Software & Cloud,Servicio Backup Dedicado,2,1078.68,2157.36,San Cristóbal,Sur
+VTA-11325,2024-09-22,Retail Dominicana,Luis Sánchez,Seguridad,Cámaras CCTV Kit,2,852.36,1704.72,Puerto Plata,Cibao Norte
+VTA-10857,2024-09-22,Banco Capital,María Gómez,Seguridad,Firewall Fortinet,2,3154.23,6308.46,Puerto Plata,Cibao Norte
+VTA-10479,2024-09-23,Logística Express,Ana Morales,Tecnología,Laptop ThinkPad,5,1181.42,5907.1,La Romana,Este
+VTA-10194,2024-09-23,Retail Dominicana,Carlos Díaz,Mobiliario,Silla Ergonómica,4,209.98,839.92,Punta Cana,Este
+VTA-11414,2024-09-24,Banco Capital,Juan Pérez,Mobiliario,Escritorio Ejecutivo,1,471.85,471.85,Puerto Plata,Cibao Norte
+VTA-10364,2024-09-24,Altia Telecom,Ana Morales,Mobiliario,Silla Ergonómica,2,221.71,443.42,La Romana,Este
+VTA-10612,2024-09-24,Seguros Nacional,María Gómez,Tecnología,Servidor Dell PowerEdge,3,4523.34,13570.02,San Cristóbal,Sur
+VTA-10625,2024-09-26,Industria Caribe,Ana Morales,Seguridad,Firewall Fortinet,3,3338.34,10015.02,La Romana,Este
+VTA-10798,2024-09-26,Banco Capital,Ana Morales,Tecnología,Servidor Dell PowerEdge,5,4629.59,23147.95,San Cristóbal,Sur
+VTA-11153,2024-09-26,Retail Dominicana,Carlos Díaz,Seguridad,Firewall Fortinet,2,3314.8,6629.6,La Romana,Este
+VTA-11192,2024-09-26,Altia Telecom,María Gómez,Mobiliario,Escritorio Ejecutivo,2,471.36,942.72,Santiago,Cibao Norte
+VTA-10511,2024-09-28,Banco Capital,María Gómez,Tecnología,Monitor 27'',2,287.86,575.72,Santiago,Cibao Norte
+VTA-10496,2024-09-30,Logística Express,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,3,443.64,1330.92,La Romana,Este
+VTA-10487,2024-09-30,Altia Telecom,María Gómez,Software & Cloud,Servicio Backup Dedicado,3,1065.91,3197.73,Santiago,Cibao Norte
+VTA-11403,2024-09-30,Logística Express,Luis Sánchez,Seguridad,Firewall Fortinet,1,3249.58,3249.58,Punta Cana,Este
+VTA-10751,2024-09-30,Altia Telecom,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,2,1068.8,2137.6,Santiago,Cibao Norte
+VTA-11195,2024-10-02,Banco Capital,Carlos Díaz,Seguridad,Cámaras CCTV Kit,2,864.65,1729.3,La Romana,Este
+VTA-11466,2024-10-03,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,4466.02,4466.02,Santo Domingo,Metropolitana
+VTA-10040,2024-10-03,Altia Telecom,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,2,437.86,875.72,Santo Domingo,Metropolitana
+VTA-10038,2024-10-03,Banco Capital,Carlos Díaz,Tecnología,Laptop ThinkPad,2,1205.1,2410.2,Santo Domingo,Metropolitana
+VTA-10944,2024-10-03,Grupo Comercial,Ana Morales,Tecnología,Servidor Dell PowerEdge,1,4635.06,4635.06,Punta Cana,Este
+VTA-11309,2024-10-04,Banco Capital,Juan Pérez,Tecnología,Laptop ThinkPad,1,1198.71,1198.71,Punta Cana,Este
+VTA-10936,2024-10-05,Banco Capital,Luis Sánchez,Seguridad,Firewall Fortinet,1,3055.77,3055.77,San Cristóbal,Sur
+VTA-11449,2024-10-06,Supermercados Unidos,Ana Morales,Mobiliario,Silla Ergonómica,2,210.42,420.84,Punta Cana,Este
+VTA-10713,2024-10-06,Grupo Comercial,Luis Sánchez,Seguridad,Cámaras CCTV Kit,5,836.48,4182.4,Santiago,Cibao Norte
+VTA-10028,2024-10-06,Altia Telecom,María Gómez,Software & Cloud,Servicio Backup Dedicado,1,1103.94,1103.94,San Cristóbal,Sur
+VTA-11345,2024-10-07,Industria Caribe,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,3,1100.03,3300.09,San Cristóbal,Sur
+VTA-11286,2024-10-08,Grupo Comercial,Carlos Díaz,Seguridad,Cámaras CCTV Kit,1,849.77,849.77,San Cristóbal,Sur
+VTA-10115,2024-10-08,Altia Telecom,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,1,1111.64,1111.64,Punta Cana,Este
+VTA-10500,2024-10-08,Retail Dominicana,Luis Sánchez,Seguridad,Firewall Fortinet,5,3326.11,16630.55,La Romana,Este
+VTA-10136,2024-10-09,Grupo Comercial,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,1,472.44,472.44,San Cristóbal,Sur
+VTA-10521,2024-10-09,Altia Telecom,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,1,4703.61,4703.61,San Cristóbal,Sur
+VTA-10709,2024-10-09,Seguros Nacional,María Gómez,Mobiliario,Silla Ergonómica,1,229.43,229.43,Santiago,Cibao Norte
+VTA-10243,2024-10-10,Banco Capital,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,3,462.68,1388.04,Puerto Plata,Cibao Norte
+VTA-10384,2024-10-10,Banco Capital,Juan Pérez,Seguridad,Firewall Fortinet,2,3210.46,6420.92,Punta Cana,Este
+VTA-10430,2024-10-10,Retail Dominicana,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,8,1070.05,8560.4,La Romana,Este
+VTA-11075,2024-10-12,Altia Telecom,María Gómez,Software & Cloud,Suscripción Antivirus Corp,3,463.43,1390.29,Santo Domingo,Metropolitana
+VTA-10829,2024-10-12,Grupo Comercial,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,1,4423.57,4423.57,La Romana,Este
+VTA-11245,2024-10-13,Grupo Comercial,María Gómez,Seguridad,Firewall Fortinet,2,3125.51,6251.02,Santo Domingo,Metropolitana
+VTA-10277,2024-10-14,Grupo Comercial,Ana Morales,Tecnología,Laptop ThinkPad,2,1211.49,2422.98,Puerto Plata,Cibao Norte
+VTA-10771,2024-10-15,Retail Dominicana,Carlos Díaz,Tecnología,Laptop ThinkPad,4,1254.86,5019.44,La Romana,Este
+VTA-11262,2024-10-19,Constructora Metro,Juan Pérez,Seguridad,Firewall Fortinet,3,3041.73,9125.19,Punta Cana,Este
+VTA-10867,2024-10-19,Banco Capital,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,1,1068.29,1068.29,Puerto Plata,Cibao Norte
+VTA-11424,2024-10-19,Altia Telecom,Carlos Díaz,Seguridad,Firewall Fortinet,8,3334.87,26678.96,La Romana,Este
+VTA-10345,2024-10-21,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,2566.38,2566.38,Santo Domingo,Metropolitana
+VTA-10548,2024-10-21,Grupo Comercial,Ana Morales,Software & Cloud,Servicio Backup Dedicado,1,1139.58,1139.58,Santo Domingo,Metropolitana
+VTA-11411,2024-10-23,Supermercados Unidos,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,2,4719.01,9438.02,San Cristóbal,Sur
+VTA-10645,2024-10-25,Grupo Comercial,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,3,490.37,1471.11,La Romana,Este
+VTA-10985,2024-10-25,Farmacias del Sol,Luis Sánchez,Tecnología,Monitor 27'',5,293.55,1467.75,Santiago,Cibao Norte
+VTA-10592,2024-10-25,Supermercados Unidos,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,2,456.27,912.54,Puerto Plata,Cibao Norte
+VTA-10262,2024-10-26,Altia Telecom,Carlos Díaz,Tecnología,Monitor 27'',2,286.03,572.06,San Cristóbal,Sur
+VTA-10078,2024-10-27,Seguros Nacional,Ana Morales,Software & Cloud,Servicio Backup Dedicado,1,1122.56,1122.56,Punta Cana,Este
+VTA-10282,2024-10-29,Banco Capital,María Gómez,Mobiliario,Silla Ergonómica,1,227.08,227.08,San Cristóbal,Sur
+VTA-10425,2024-10-31,Altia Telecom,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,2,465.01,930.02,San Cristóbal,Sur
+VTA-10815,2024-11-01,Industria Caribe,Juan Pérez,Tecnología,Laptop ThinkPad,1,1173.22,1173.22,Punta Cana,Este
+VTA-10096,2024-11-01,Retail Dominicana,Ana Morales,Mobiliario,Silla Ergonómica,2,221.98,443.96,Puerto Plata,Cibao Norte
+VTA-10741,2024-11-01,Grupo Comercial,Ana Morales,Tecnología,Laptop ThinkPad,3,1159.5,3478.5,Santo Domingo,Metropolitana
+VTA-10474,2024-11-02,Banco Capital,Carlos Díaz,Seguridad,Firewall Fortinet,2,3289.72,6579.44,Santo Domingo,Metropolitana
+VTA-11304,2024-11-02,Altia Telecom,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,1,447.73,447.73,Santo Domingo,Metropolitana
+VTA-11203,2024-11-02,Grupo Comercial,Carlos Díaz,Tecnología,Monitor 27'',1,274.35,274.35,La Romana,Este
+VTA-10222,2024-11-05,Industria Caribe,Ana Morales,Mobiliario,Escritorio Ejecutivo,5,493.24,2466.2,Santo Domingo,Metropolitana
+VTA-11122,2024-11-06,Banco Capital,María Gómez,Seguridad,Firewall Fortinet,2,3065.62,6131.24,Santo Domingo,Metropolitana
+VTA-10694,2024-11-06,Banco Capital,Ana Morales,Software & Cloud,Servicio Backup Dedicado,2,1083.12,2166.24,Santo Domingo,Metropolitana
+VTA-11294,2024-11-07,Altia Telecom,Juan Pérez,Tecnología,Laptop ThinkPad,3,1165.54,3496.62,Puerto Plata,Cibao Norte
+VTA-10523,2024-11-08,Seguros Nacional,Carlos Díaz,Seguridad,Firewall Fortinet,1,3329.95,3329.95,Santiago,Cibao Norte
+VTA-10467,2024-11-08,Retail Dominicana,María Gómez,Software & Cloud,Suscripción Antivirus Corp,1,458.46,458.46,Puerto Plata,Cibao Norte
+VTA-10776,2024-11-08,Banco Capital,Carlos Díaz,Tecnología,Monitor 27'',4,267.94,1071.76,Puerto Plata,Cibao Norte
+VTA-10379,2024-11-08,Grupo Comercial,Ana Morales,Software & Cloud,Licencia ERP Cloud,3,2592.8,7778.4,San Cristóbal,Sur
+VTA-10050,2024-11-09,Retail Dominicana,Juan Pérez,Mobiliario,Escritorio Ejecutivo,1,495.48,495.48,La Romana,Este
+VTA-10599,2024-11-10,Altia Telecom,Luis Sánchez,Tecnología,Monitor 27'',4,284.19,1136.76,La Romana,Este
+VTA-11145,2024-11-11,Constructora Metro,María Gómez,Software & Cloud,Servicio Backup Dedicado,2,1121.22,2242.44,La Romana,Este
+VTA-10526,2024-11-13,Banco Capital,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,1,1081.57,1081.57,Punta Cana,Este
+VTA-10023,2024-11-13,Banco Capital,Carlos Díaz,Seguridad,Cámaras CCTV Kit,1,887.65,887.65,Santiago,Cibao Norte
+VTA-11115,2024-11-13,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,3,4378.68,13136.04,Puerto Plata,Cibao Norte
+VTA-10148,2024-11-13,Banco Capital,Luis Sánchez,Seguridad,Cámaras CCTV Kit,1,857.43,857.43,Santo Domingo,Metropolitana
+VTA-11477,2024-11-14,Constructora Metro,Juan Pérez,Seguridad,Firewall Fortinet,2,3065.34,6130.68,La Romana,Este
+VTA-10546,2024-11-14,Altia Telecom,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,3,1126.72,3380.16,Santiago,Cibao Norte
+VTA-11000,2024-11-15,Banco Capital,María Gómez,Mobiliario,Escritorio Ejecutivo,4,468.94,1875.76,Santiago,Cibao Norte
+VTA-11176,2024-11-15,Seguros Nacional,Juan Pérez,Seguridad,Cámaras CCTV Kit,1,835.86,835.86,Santiago,Cibao Norte
+VTA-10386,2024-11-15,Altia Telecom,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,1,440.88,440.88,Santo Domingo,Metropolitana
+VTA-10123,2024-11-16,Banco Capital,Juan Pérez,Mobiliario,Silla Ergonómica,2,222.1,444.2,Santo Domingo,Metropolitana
+VTA-10704,2024-11-16,Industria Caribe,Luis Sánchez,Seguridad,Firewall Fortinet,4,3120.97,12483.88,Santiago,Cibao Norte
+VTA-10492,2024-11-17,Altia Telecom,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,2,438.56,877.12,San Cristóbal,Sur
+VTA-10924,2024-11-17,Supermercados Unidos,María Gómez,Software & Cloud,Licencia ERP Cloud,1,2572.05,2572.05,Santiago,Cibao Norte
+VTA-11497,2024-11-17,Banco Capital,María Gómez,Tecnología,Laptop ThinkPad,1,1204.05,1204.05,Punta Cana,Este
+VTA-11152,2024-11-19,Grupo Comercial,Ana Morales,Tecnología,Laptop ThinkPad,1,1155.64,1155.64,Santiago,Cibao Norte
+VTA-10733,2024-11-19,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,1,4685.1,4685.1,San Cristóbal,Sur
+VTA-10264,2024-11-19,Supermercados Unidos,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,1,2439.19,2439.19,Santiago,Cibao Norte
+VTA-11044,2024-11-20,Banco Capital,Juan Pérez,Seguridad,Cámaras CCTV Kit,1,875.69,875.69,Santiago,Cibao Norte
+VTA-11303,2024-11-21,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,3,2582.41,7747.23,San Cristóbal,Sur
+VTA-10721,2024-11-21,Seguros Nacional,María Gómez,Software & Cloud,Suscripción Antivirus Corp,1,444.99,444.99,Puerto Plata,Cibao Norte
+VTA-10954,2024-11-21,Industria Caribe,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,4,1078.2,4312.8,San Cristóbal,Sur
+VTA-10671,2024-11-22,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,3,2478.29,7434.87,Punta Cana,Este
+VTA-10196,2024-11-23,Industria Caribe,María Gómez,Software & Cloud,Servicio Backup Dedicado,1,1150.83,1150.83,Santiago,Cibao Norte
+VTA-10804,2024-11-23,Retail Dominicana,Carlos Díaz,Tecnología,Laptop ThinkPad,1,1211.74,1211.74,Santo Domingo,Metropolitana
+VTA-10464,2024-11-24,Retail Dominicana,Juan Pérez,Seguridad,Firewall Fortinet,1,3234.48,3234.48,La Romana,Este
+VTA-11429,2024-11-25,Altia Telecom,Juan Pérez,Tecnología,Laptop ThinkPad,1,1161.52,1161.52,Santo Domingo,Metropolitana
+VTA-10002,2024-11-26,Altia Telecom,Luis Sánchez,Seguridad,Cámaras CCTV Kit,1,867.69,867.69,La Romana,Este
+VTA-10688,2024-11-26,Grupo Comercial,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,2,4287.89,8575.78,Santiago,Cibao Norte
+VTA-10802,2024-11-26,Altia Telecom,Carlos Díaz,Tecnología,Monitor 27'',1,267.78,267.78,San Cristóbal,Sur
+VTA-10714,2024-11-27,Banco Capital,Ana Morales,Software & Cloud,Licencia ERP Cloud,3,2556.71,7670.13,Puerto Plata,Cibao Norte
+VTA-11042,2024-11-27,Grupo Comercial,María Gómez,Seguridad,Cámaras CCTV Kit,2,814.22,1628.44,Santo Domingo,Metropolitana
+VTA-10812,2024-11-29,Grupo Comercial,María Gómez,Software & Cloud,Servicio Backup Dedicado,1,1095.89,1095.89,Santiago,Cibao Norte
+VTA-11288,2024-11-29,Industria Caribe,Carlos Díaz,Tecnología,Laptop ThinkPad,4,1186.02,4744.08,San Cristóbal,Sur
+VTA-10235,2024-11-30,Farmacias del Sol,María Gómez,Tecnología,Servidor Dell PowerEdge,1,4402.73,4402.73,Punta Cana,Este
+VTA-10858,2024-12-01,Industria Caribe,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,2,484.63,969.26,Santiago,Cibao Norte
+VTA-11341,2024-12-03,Banco Capital,Luis Sánchez,Mobiliario,Silla Ergonómica,2,230.62,461.24,Punta Cana,Este
+VTA-10375,2024-12-03,Seguros Nacional,Juan Pérez,Tecnología,Laptop ThinkPad,2,1240.97,2481.94,San Cristóbal,Sur
+VTA-10964,2024-12-03,Retail Dominicana,Carlos Díaz,Seguridad,Firewall Fortinet,3,3285.72,9857.16,Punta Cana,Este
+VTA-10701,2024-12-04,Logística Express,María Gómez,Software & Cloud,Licencia ERP Cloud,2,2486.61,4973.22,Punta Cana,Este
+VTA-10185,2024-12-05,Seguros Nacional,Juan Pérez,Seguridad,Cámaras CCTV Kit,1,831.92,831.92,Punta Cana,Este
+VTA-10541,2024-12-06,Farmacias del Sol,Ana Morales,Mobiliario,Silla Ergonómica,10,218.64,2186.4,La Romana,Este
+VTA-10250,2024-12-06,Banco Capital,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,1,470.85,470.85,San Cristóbal,Sur
+VTA-10455,2024-12-08,Altia Telecom,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,1,469.82,469.82,San Cristóbal,Sur
+VTA-11070,2024-12-09,Banco Capital,María Gómez,Seguridad,Cámaras CCTV Kit,3,862.14,2586.42,Puerto Plata,Cibao Norte
+VTA-11464,2024-12-12,Seguros Nacional,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,4,464.7,1858.8,Santo Domingo,Metropolitana
+VTA-10439,2024-12-14,Banco Capital,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,1,462.45,462.45,San Cristóbal,Sur
+VTA-11211,2024-12-14,Grupo Comercial,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2437.18,2437.18,La Romana,Este
+VTA-10410,2024-12-15,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,4476.98,4476.98,Santo Domingo,Metropolitana
+VTA-11028,2024-12-16,Banco Capital,Carlos Díaz,Tecnología,Laptop ThinkPad,1,1255.87,1255.87,Santiago,Cibao Norte
+VTA-10593,2024-12-16,Banco Capital,Luis Sánchez,Tecnología,Laptop ThinkPad,4,1255.34,5021.36,Puerto Plata,Cibao Norte
+VTA-10267,2024-12-16,Retail Dominicana,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,5,464.89,2324.45,Santo Domingo,Metropolitana
+VTA-10879,2024-12-17,Retail Dominicana,María Gómez,Mobiliario,Escritorio Ejecutivo,3,480.24,1440.72,Punta Cana,Este
+VTA-10278,2024-12-18,Banco Capital,Juan Pérez,Tecnología,Laptop ThinkPad,3,1239.82,3719.46,La Romana,Este
+VTA-11137,2024-12-18,Farmacias del Sol,Ana Morales,Tecnología,Monitor 27'',1,278.25,278.25,Santiago,Cibao Norte
+VTA-10596,2024-12-20,Supermercados Unidos,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,474.75,474.75,Puerto Plata,Cibao Norte
+VTA-10230,2024-12-21,Seguros Nacional,Luis Sánchez,Seguridad,Firewall Fortinet,1,3053.97,3053.97,Puerto Plata,Cibao Norte
+VTA-10202,2024-12-21,Altia Telecom,Luis Sánchez,Seguridad,Firewall Fortinet,1,3101.8,3101.8,Puerto Plata,Cibao Norte
+VTA-10958,2024-12-23,Banco Capital,Ana Morales,Mobiliario,Silla Ergonómica,5,214.88,1074.4,Santiago,Cibao Norte
+VTA-10161,2024-12-24,Banco Capital,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,5,2408.07,12040.35,San Cristóbal,Sur
+VTA-10708,2024-12-26,Industria Caribe,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,3,1058.42,3175.26,San Cristóbal,Sur
+VTA-10110,2024-12-28,Altia Telecom,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,473.0,473.0,Santiago,Cibao Norte
+VTA-10421,2024-12-28,Grupo Comercial,María Gómez,Tecnología,Monitor 27'',1,274.77,274.77,Punta Cana,Este
+VTA-10826,2024-12-28,Grupo Comercial,María Gómez,Mobiliario,Silla Ergonómica,2,209.15,418.3,San Cristóbal,Sur
+VTA-10791,2024-12-31,Banco Capital,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,1,4681.45,4681.45,Punta Cana,Este
+VTA-10767,2025-01-01,Banco Capital,María Gómez,Tecnología,Monitor 27'',3,275.3,825.9,Puerto Plata,Cibao Norte
+VTA-10579,2025-01-02,Seguros Nacional,María Gómez,Tecnología,Laptop ThinkPad,1,1141.76,1141.76,La Romana,Este
+VTA-10762,2025-01-02,Industria Caribe,Ana Morales,Seguridad,Firewall Fortinet,3,3356.64,10069.92,Santo Domingo,Metropolitana
+VTA-10981,2025-01-02,Grupo Comercial,Juan Pérez,Tecnología,Laptop ThinkPad,8,1143.96,9151.68,Santo Domingo,Metropolitana
+VTA-10684,2025-01-02,Grupo Comercial,María Gómez,Mobiliario,Escritorio Ejecutivo,1,460.04,460.04,San Cristóbal,Sur
+VTA-10653,2025-01-02,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,4428.95,8857.9,Santiago,Cibao Norte
+VTA-11175,2025-01-03,Banco Capital,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,2,473.53,947.06,La Romana,Este
+VTA-10828,2025-01-03,Banco Capital,Carlos Díaz,Mobiliario,Silla Ergonómica,2,215.41,430.82,San Cristóbal,Sur
+VTA-11361,2025-01-04,Grupo Comercial,Ana Morales,Software & Cloud,Licencia ERP Cloud,3,2479.0,7437.0,Santo Domingo,Metropolitana
+VTA-10149,2025-01-05,Altia Telecom,María Gómez,Tecnología,Laptop ThinkPad,2,1188.09,2376.18,San Cristóbal,Sur
+VTA-10990,2025-01-06,Retail Dominicana,Ana Morales,Software & Cloud,Licencia ERP Cloud,4,2605.93,10423.72,La Romana,Este
+VTA-10560,2025-01-06,Banco Capital,Luis Sánchez,Seguridad,Firewall Fortinet,3,3040.64,9121.92,Santo Domingo,Metropolitana
+VTA-10685,2025-01-09,Seguros Nacional,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,4546.1,4546.1,San Cristóbal,Sur
+VTA-11270,2025-01-09,Retail Dominicana,Ana Morales,Software & Cloud,Licencia ERP Cloud,1,2472.52,2472.52,Santo Domingo,Metropolitana
+VTA-11151,2025-01-10,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,1,2573.99,2573.99,Puerto Plata,Cibao Norte
+VTA-10407,2025-01-12,Grupo Comercial,Juan Pérez,Mobiliario,Silla Ergonómica,4,223.22,892.88,Santiago,Cibao Norte
+VTA-10014,2025-01-13,Banco Capital,María Gómez,Seguridad,Firewall Fortinet,2,3312.01,6624.02,Santo Domingo,Metropolitana
+VTA-11182,2025-01-13,Industria Caribe,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,1,2603.69,2603.69,La Romana,Este
+VTA-10510,2025-01-13,Logística Express,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,1,451.91,451.91,San Cristóbal,Sur
+VTA-10062,2025-01-14,Banco Capital,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,4,455.67,1822.68,Punta Cana,Este
+VTA-10397,2025-01-14,Altia Telecom,Juan Pérez,Tecnología,Laptop ThinkPad,2,1214.7,2429.4,Puerto Plata,Cibao Norte
+VTA-11173,2025-01-14,Retail Dominicana,Juan Pérez,Seguridad,Firewall Fortinet,1,3304.28,3304.28,Santiago,Cibao Norte
+VTA-10151,2025-01-14,Seguros Nacional,Ana Morales,Seguridad,Firewall Fortinet,1,3250.86,3250.86,Santiago,Cibao Norte
+VTA-10938,2025-01-14,Constructora Metro,María Gómez,Mobiliario,Escritorio Ejecutivo,2,481.08,962.16,Santiago,Cibao Norte
+VTA-10280,2025-01-15,Altia Telecom,María Gómez,Tecnología,Monitor 27'',10,276.16,2761.6,La Romana,Este
+VTA-10293,2025-01-15,Grupo Comercial,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,1,1061.1,1061.1,Santo Domingo,Metropolitana
+VTA-11104,2025-01-16,Industria Caribe,Ana Morales,Tecnología,Laptop ThinkPad,10,1223.21,12232.1,Punta Cana,Este
+VTA-10249,2025-01-18,Banco Capital,Ana Morales,Mobiliario,Escritorio Ejecutivo,1,491.18,491.18,Santiago,Cibao Norte
+VTA-10109,2025-01-20,Seguros Nacional,Carlos Díaz,Seguridad,Firewall Fortinet,4,3259.89,13039.56,Punta Cana,Este
+VTA-11285,2025-01-21,Retail Dominicana,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,1,465.01,465.01,La Romana,Este
+VTA-10921,2025-01-21,Retail Dominicana,Carlos Díaz,Seguridad,Cámaras CCTV Kit,2,820.63,1641.26,Santo Domingo,Metropolitana
+VTA-10213,2025-01-21,Grupo Comercial,María Gómez,Software & Cloud,Servicio Backup Dedicado,1,1070.3,1070.3,La Romana,Este
+VTA-10810,2025-01-21,Industria Caribe,Luis Sánchez,Tecnología,Monitor 27'',1,287.71,287.71,Santo Domingo,Metropolitana
+VTA-10968,2025-01-23,Grupo Comercial,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,490.34,490.34,Puerto Plata,Cibao Norte
+VTA-10996,2025-01-23,Seguros Nacional,María Gómez,Tecnología,Laptop ThinkPad,1,1254.34,1254.34,Santiago,Cibao Norte
+VTA-10296,2025-01-24,Banco Capital,Carlos Díaz,Tecnología,Monitor 27'',1,284.21,284.21,San Cristóbal,Sur
+VTA-10177,2025-01-25,Banco Capital,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,8,4690.98,37527.84,Santo Domingo,Metropolitana
+VTA-10294,2025-01-26,Altia Telecom,Ana Morales,Software & Cloud,Licencia ERP Cloud,3,2394.99,7184.97,Santo Domingo,Metropolitana
+VTA-10419,2025-01-26,Grupo Comercial,Ana Morales,Software & Cloud,Servicio Backup Dedicado,3,1094.94,3284.82,La Romana,Este
+VTA-11006,2025-01-27,Banco Capital,Juan Pérez,Tecnología,Monitor 27'',1,272.82,272.82,La Romana,Este
+VTA-10076,2025-01-27,Retail Dominicana,María Gómez,Software & Cloud,Suscripción Antivirus Corp,1,450.6,450.6,Santiago,Cibao Norte
+VTA-10934,2025-01-27,Retail Dominicana,Carlos Díaz,Tecnología,Monitor 27'',1,272.93,272.93,Punta Cana,Este
+VTA-10046,2025-01-27,Industria Caribe,Luis Sánchez,Seguridad,Firewall Fortinet,1,3174.33,3174.33,Santiago,Cibao Norte
+VTA-11405,2025-01-27,Altia Telecom,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,1,463.08,463.08,San Cristóbal,Sur
+VTA-11031,2025-01-27,Industria Caribe,Luis Sánchez,Tecnología,Laptop ThinkPad,5,1188.04,5940.2,Santo Domingo,Metropolitana
+VTA-10113,2025-01-28,Seguros Nacional,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,2,2509.28,5018.56,Santiago,Cibao Norte
+VTA-11111,2025-01-28,Retail Dominicana,Ana Morales,Software & Cloud,Servicio Backup Dedicado,2,1106.84,2213.68,Puerto Plata,Cibao Norte
+VTA-11491,2025-01-29,Altia Telecom,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,2,452.1,904.2,Puerto Plata,Cibao Norte
+VTA-10210,2025-01-31,Retail Dominicana,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,3,2584.99,7754.97,Puerto Plata,Cibao Norte
+VTA-10385,2025-02-01,Banco Capital,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2399.13,2399.13,Puerto Plata,Cibao Norte
+VTA-10672,2025-02-01,Grupo Comercial,Ana Morales,Software & Cloud,Licencia ERP Cloud,1,2479.8,2479.8,Punta Cana,Este
+VTA-10860,2025-02-01,Seguros Nacional,Juan Pérez,Mobiliario,Escritorio Ejecutivo,3,481.2,1443.6,La Romana,Este
+VTA-10899,2025-02-02,Banco Capital,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,8,4366.57,34932.56,San Cristóbal,Sur
+VTA-11069,2025-02-02,Altia Telecom,Juan Pérez,Tecnología,Laptop ThinkPad,1,1141.88,1141.88,San Cristóbal,Sur
+VTA-10283,2025-02-03,Industria Caribe,Ana Morales,Seguridad,Firewall Fortinet,1,3167.78,3167.78,Punta Cana,Este
+VTA-10525,2025-02-04,Supermercados Unidos,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,3,430.58,1291.74,Santo Domingo,Metropolitana
+VTA-10340,2025-02-04,Industria Caribe,Ana Morales,Software & Cloud,Servicio Backup Dedicado,3,1154.02,3462.06,Punta Cana,Este
+VTA-11081,2025-02-06,Farmacias del Sol,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,2,2512.47,5024.94,Santiago,Cibao Norte
+VTA-10030,2025-02-06,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet,3,3095.8,9287.4,La Romana,Este
+VTA-10092,2025-02-08,Banco Capital,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,10,472.49,4724.9,Santo Domingo,Metropolitana
+VTA-10664,2025-02-08,Seguros Nacional,Carlos Díaz,Seguridad,Cámaras CCTV Kit,1,820.96,820.96,Puerto Plata,Cibao Norte
+VTA-11468,2025-02-09,Constructora Metro,Juan Pérez,Tecnología,Servidor Dell PowerEdge,3,4568.26,13704.78,Puerto Plata,Cibao Norte
+VTA-10337,2025-02-09,Industria Caribe,Ana Morales,Mobiliario,Escritorio Ejecutivo,3,489.97,1469.91,San Cristóbal,Sur
+VTA-10285,2025-02-09,Banco Capital,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,1,1062.52,1062.52,Puerto Plata,Cibao Norte
+VTA-10169,2025-02-09,Seguros Nacional,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,2509.96,2509.96,Santiago,Cibao Norte
+VTA-10641,2025-02-10,Farmacias del Sol,María Gómez,Software & Cloud,Suscripción Antivirus Corp,2,461.22,922.44,San Cristóbal,Sur
+VTA-10047,2025-02-11,Farmacias del Sol,María Gómez,Software & Cloud,Licencia ERP Cloud,2,2574.57,5149.14,Santo Domingo,Metropolitana
+VTA-10412,2025-02-11,Industria Caribe,Ana Morales,Software & Cloud,Servicio Backup Dedicado,2,1138.7,2277.4,Puerto Plata,Cibao Norte
+VTA-10347,2025-02-11,Banco Capital,Ana Morales,Seguridad,Firewall Fortinet,1,3330.0,3330.0,Punta Cana,Este
+VTA-10895,2025-02-12,Banco Capital,María Gómez,Tecnología,Laptop ThinkPad,2,1150.4,2300.8,Puerto Plata,Cibao Norte
+VTA-10887,2025-02-13,Altia Telecom,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,2,4658.42,9316.84,Punta Cana,Este
+VTA-10530,2025-02-15,Grupo Comercial,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,483.94,483.94,Santiago,Cibao Norte
+VTA-11260,2025-02-16,Constructora Metro,Juan Pérez,Software & Cloud,Licencia ERP Cloud,3,2468.39,7405.17,Santo Domingo,Metropolitana
+VTA-10911,2025-02-17,Industria Caribe,Ana Morales,Software & Cloud,Licencia ERP Cloud,2,2570.01,5140.02,La Romana,Este
+VTA-10182,2025-02-17,Banco Capital,Luis Sánchez,Tecnología,Monitor 27'',3,292.29,876.87,Puerto Plata,Cibao Norte
+VTA-11100,2025-02-18,Altia Telecom,Ana Morales,Seguridad,Cámaras CCTV Kit,4,850.32,3401.28,La Romana,Este
+VTA-11041,2025-02-18,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,2511.56,2511.56,Santiago,Cibao Norte
+VTA-10311,2025-02-19,Logística Express,Luis Sánchez,Seguridad,Cámaras CCTV Kit,3,814.71,2444.13,Puerto Plata,Cibao Norte
+VTA-10892,2025-02-19,Grupo Comercial,Ana Morales,Software & Cloud,Servicio Backup Dedicado,1,1097.16,1097.16,Puerto Plata,Cibao Norte
+VTA-11301,2025-02-19,Altia Telecom,Luis Sánchez,Seguridad,Cámaras CCTV Kit,1,841.9,841.9,La Romana,Este
+VTA-10144,2025-02-21,Farmacias del Sol,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,2,4386.7,8773.4,Punta Cana,Este
+VTA-10274,2025-02-22,Altia Telecom,Carlos Díaz,Mobiliario,Silla Ergonómica,2,217.6,435.2,Santiago,Cibao Norte
+VTA-10124,2025-02-22,Grupo Comercial,Juan Pérez,Tecnología,Monitor 27'',3,269.48,808.44,Puerto Plata,Cibao Norte
+VTA-10930,2025-02-22,Altia Telecom,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,1,2434.57,2434.57,Puerto Plata,Cibao Norte
+VTA-10066,2025-02-23,Grupo Comercial,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,3,2419.36,7258.08,Santo Domingo,Metropolitana
+VTA-10406,2025-02-23,Grupo Comercial,Carlos Díaz,Seguridad,Cámaras CCTV Kit,1,871.35,871.35,La Romana,Este
+VTA-11056,2025-02-23,Banco Capital,Luis Sánchez,Mobiliario,Silla Ergonómica,1,216.07,216.07,San Cristóbal,Sur
+VTA-10676,2025-02-26,Seguros Nacional,Carlos Díaz,Seguridad,Firewall Fortinet,2,3306.54,6613.08,San Cristóbal,Sur
+VTA-11375,2025-02-26,Altia Telecom,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,3,428.68,1286.04,La Romana,Este
+VTA-10975,2025-02-28,Retail Dominicana,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,1,442.2,442.2,San Cristóbal,Sur
+VTA-10979,2025-03-01,Banco Capital,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,2,1108.66,2217.32,Punta Cana,Este
+VTA-10731,2025-03-02,Grupo Comercial,Ana Morales,Tecnología,Laptop ThinkPad,4,1213.64,4854.56,San Cristóbal,Sur
+VTA-10418,2025-03-02,Grupo Comercial,Carlos Díaz,Tecnología,Laptop ThinkPad,4,1152.15,4608.6,San Cristóbal,Sur
+VTA-10763,2025-03-02,Banco Capital,Luis Sánchez,Tecnología,Monitor 27'',1,284.83,284.83,Punta Cana,Este
+VTA-10279,2025-03-03,Banco Capital,Luis Sánchez,Seguridad,Cámaras CCTV Kit,2,862.82,1725.64,San Cristóbal,Sur
+VTA-10484,2025-03-03,Farmacias del Sol,Ana Morales,Tecnología,Laptop ThinkPad,3,1257.74,3773.22,Santo Domingo,Metropolitana
+VTA-10755,2025-03-04,Seguros Nacional,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,4,469.6,1878.4,Puerto Plata,Cibao Norte
+VTA-10413,2025-03-04,Grupo Comercial,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,484.33,484.33,San Cristóbal,Sur
+VTA-11005,2025-03-05,Altia Telecom,Carlos Díaz,Seguridad,Firewall Fortinet,4,3355.58,13422.32,Puerto Plata,Cibao Norte
+VTA-10604,2025-03-05,Banco Capital,Ana Morales,Tecnología,Laptop ThinkPad,3,1213.16,3639.48,Santiago,Cibao Norte
+VTA-10142,2025-03-06,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,2571.95,5143.9,Santiago,Cibao Norte
+VTA-10424,2025-03-06,Banco Capital,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,1,1104.55,1104.55,Puerto Plata,Cibao Norte
+VTA-10766,2025-03-07,Banco Capital,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,1,431.86,431.86,Puerto Plata,Cibao Norte
+VTA-10398,2025-03-07,Grupo Comercial,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,1,1138.95,1138.95,Puerto Plata,Cibao Norte
+VTA-10654,2025-03-08,Retail Dominicana,Luis Sánchez,Tecnología,Laptop ThinkPad,3,1154.03,3462.09,San Cristóbal,Sur
+VTA-10997,2025-03-08,Grupo Comercial,Ana Morales,Mobiliario,Silla Ergonómica,1,214.97,214.97,Santiago,Cibao Norte
+VTA-11059,2025-03-08,Seguros Nacional,Ana Morales,Seguridad,Firewall Fortinet,2,3076.85,6153.7,San Cristóbal,Sur
+VTA-10991,2025-03-09,Banco Capital,María Gómez,Tecnología,Monitor 27'',3,284.96,854.88,San Cristóbal,Sur
+VTA-10827,2025-03-10,Banco Capital,Ana Morales,Software & Cloud,Servicio Backup Dedicado,8,1154.11,9232.88,Punta Cana,Este
+VTA-10777,2025-03-10,Grupo Comercial,María Gómez,Software & Cloud,Servicio Backup Dedicado,3,1081.36,3244.08,La Romana,Este
+VTA-10363,2025-03-11,Altia Telecom,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,1,4473.48,4473.48,Santiago,Cibao Norte
+VTA-10307,2025-03-11,Retail Dominicana,María Gómez,Mobiliario,Escritorio Ejecutivo,8,498.82,3990.56,Puerto Plata,Cibao Norte
+VTA-10093,2025-03-12,Altia Telecom,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,496.78,496.78,Puerto Plata,Cibao Norte
+VTA-10819,2025-03-14,Seguros Nacional,Carlos Díaz,Tecnología,Laptop ThinkPad,5,1226.88,6134.4,San Cristóbal,Sur
+VTA-11372,2025-03-15,Banco Capital,Ana Morales,Mobiliario,Escritorio Ejecutivo,1,500.73,500.73,San Cristóbal,Sur
+VTA-10188,2025-03-15,Retail Dominicana,Carlos Díaz,Tecnología,Monitor 27'',10,270.68,2706.8,San Cristóbal,Sur
+VTA-10953,2025-03-16,Banco Capital,Juan Pérez,Seguridad,Firewall Fortinet,2,3135.35,6270.7,La Romana,Este
+VTA-10132,2025-03-16,Grupo Comercial,Luis Sánchez,Seguridad,Firewall Fortinet,1,3085.8,3085.8,Punta Cana,Este
+VTA-11250,2025-03-17,Seguros Nacional,María Gómez,Seguridad,Firewall Fortinet,3,3231.96,9695.88,San Cristóbal,Sur
+VTA-10845,2025-03-17,Banco Capital,Ana Morales,Seguridad,Firewall Fortinet,1,3172.19,3172.19,Santiago,Cibao Norte
+VTA-11406,2025-03-18,Grupo Comercial,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,4,1089.46,4357.84,Puerto Plata,Cibao Norte
+VTA-10381,2025-03-18,Banco Capital,Ana Morales,Seguridad,Cámaras CCTV Kit,2,818.45,1636.9,Puerto Plata,Cibao Norte
+VTA-11261,2025-03-19,Farmacias del Sol,Carlos Díaz,Mobiliario,Silla Ergonómica,2,219.56,439.12,Punta Cana,Este
+VTA-10914,2025-03-19,Industria Caribe,Luis Sánchez,Tecnología,Laptop ThinkPad,1,1173.82,1173.82,Santo Domingo,Metropolitana
+VTA-10051,2025-03-19,Grupo Comercial,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,4,448.08,1792.32,La Romana,Este
+VTA-10846,2025-03-19,Banco Capital,María Gómez,Mobiliario,Escritorio Ejecutivo,1,490.81,490.81,Santo Domingo,Metropolitana
+VTA-10916,2025-03-20,Supermercados Unidos,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,1,2515.48,2515.48,Punta Cana,Este
+VTA-10232,2025-03-20,Banco Capital,Juan Pérez,Tecnología,Laptop ThinkPad,3,1244.19,3732.57,La Romana,Este
+VTA-11184,2025-03-20,Altia Telecom,Ana Morales,Seguridad,Firewall Fortinet,3,3330.69,9992.07,Santiago,Cibao Norte
+VTA-10483,2025-03-21,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,2,4349.59,8699.18,San Cristóbal,Sur
+VTA-10099,2025-03-22,Industria Caribe,Juan Pérez,Tecnología,Laptop ThinkPad,1,1234.04,1234.04,San Cristóbal,Sur
+VTA-11494,2025-03-23,Farmacias del Sol,María Gómez,Tecnología,Monitor 27'',2,278.14,556.28,Santiago,Cibao Norte
+VTA-10687,2025-03-23,Grupo Comercial,María Gómez,Mobiliario,Silla Ergonómica,1,218.23,218.23,La Romana,Este
+VTA-10565,2025-03-24,Banco Capital,María Gómez,Software & Cloud,Servicio Backup Dedicado,1,1108.3,1108.3,Punta Cana,Este
+VTA-10328,2025-03-24,Grupo Comercial,Carlos Díaz,Tecnología,Monitor 27'',2,271.71,543.42,Santiago,Cibao Norte
+VTA-11259,2025-03-24,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,2,4346.33,8692.66,Santiago,Cibao Norte
+VTA-10854,2025-03-25,Farmacias del Sol,Carlos Díaz,Tecnología,Laptop ThinkPad,1,1191.7,1191.7,Santo Domingo,Metropolitana
+VTA-11010,2025-03-25,Banco Capital,María Gómez,Tecnología,Monitor 27'',1,270.04,270.04,Santiago,Cibao Norte
+VTA-11335,2025-03-25,Banco Capital,Carlos Díaz,Seguridad,Firewall Fortinet,4,3188.06,12752.24,Santo Domingo,Metropolitana
+VTA-10457,2025-03-27,Seguros Nacional,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,1,4684.47,4684.47,Puerto Plata,Cibao Norte
+VTA-10058,2025-03-28,Altia Telecom,María Gómez,Software & Cloud,Suscripción Antivirus Corp,1,448.81,448.81,Santiago,Cibao Norte
+VTA-11480,2025-03-28,Grupo Comercial,Ana Morales,Tecnología,Monitor 27'',4,287.52,1150.08,Santiago,Cibao Norte
+VTA-11408,2025-03-29,Grupo Comercial,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,1,4577.49,4577.49,Santo Domingo,Metropolitana
+VTA-11142,2025-03-29,Farmacias del Sol,Ana Morales,Seguridad,Firewall Fortinet,3,3318.25,9954.75,Punta Cana,Este
+VTA-10554,2025-03-30,Industria Caribe,Ana Morales,Tecnología,Servidor Dell PowerEdge,1,4637.63,4637.63,Punta Cana,Este
+VTA-11387,2025-03-31,Retail Dominicana,Carlos Díaz,Tecnología,Monitor 27'',3,276.59,829.77,La Romana,Este
+VTA-10983,2025-04-02,Seguros Nacional,Ana Morales,Seguridad,Cámaras CCTV Kit,2,819.96,1639.92,La Romana,Este
+VTA-11179,2025-04-02,Supermercados Unidos,María Gómez,Software & Cloud,Servicio Backup Dedicado,4,1068.68,4274.72,San Cristóbal,Sur
+VTA-10209,2025-04-03,Industria Caribe,María Gómez,Tecnología,Monitor 27'',2,293.92,587.84,Santiago,Cibao Norte
+VTA-10208,2025-04-04,Banco Capital,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,4,1085.9,4343.6,Santo Domingo,Metropolitana
+VTA-10140,2025-04-06,Supermercados Unidos,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,4,471.82,1887.28,Santo Domingo,Metropolitana
+VTA-10717,2025-04-06,Grupo Comercial,Ana Morales,Seguridad,Firewall Fortinet,1,3218.11,3218.11,Santo Domingo,Metropolitana
+VTA-10669,2025-04-06,Banco Capital,Ana Morales,Tecnología,Servidor Dell PowerEdge,1,4309.56,4309.56,Punta Cana,Este
+VTA-10595,2025-04-06,Farmacias del Sol,Juan Pérez,Seguridad,Firewall Fortinet,2,3307.88,6615.76,La Romana,Este
+VTA-10524,2025-04-08,Banco Capital,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,1,441.3,441.3,Santo Domingo,Metropolitana
+VTA-10651,2025-04-08,Seguros Nacional,Carlos Díaz,Mobiliario,Silla Ergonómica,2,223.6,447.2,La Romana,Este
+VTA-10806,2025-04-08,Retail Dominicana,Ana Morales,Mobiliario,Escritorio Ejecutivo,1,482.35,482.35,Santo Domingo,Metropolitana
+VTA-11048,2025-04-10,Altia Telecom,Juan Pérez,Mobiliario,Silla Ergonómica,2,216.33,432.66,Santiago,Cibao Norte
+VTA-10288,2025-04-10,Altia Telecom,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,1,1107.32,1107.32,San Cristóbal,Sur
+VTA-10105,2025-04-10,Grupo Comercial,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,2,452.19,904.38,San Cristóbal,Sur
+VTA-11132,2025-04-10,Banco Capital,Carlos Díaz,Seguridad,Firewall Fortinet,1,3040.51,3040.51,Santo Domingo,Metropolitana
+VTA-11446,2025-04-10,Altia Telecom,María Gómez,Seguridad,Cámaras CCTV Kit,2,856.42,1712.84,Santiago,Cibao Norte
+VTA-10204,2025-04-11,Seguros Nacional,María Gómez,Tecnología,Monitor 27'',2,275.57,551.14,Santo Domingo,Metropolitana
+VTA-10737,2025-04-11,Banco Capital,Carlos Díaz,Tecnología,Laptop ThinkPad,1,1152.76,1152.76,San Cristóbal,Sur
+VTA-10600,2025-04-12,Supermercados Unidos,Carlos Díaz,Tecnología,Monitor 27'',4,276.15,1104.6,Punta Cana,Este
+VTA-11379,2025-04-12,Altia Telecom,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,3,4408.95,13226.85,Puerto Plata,Cibao Norte
+VTA-11337,2025-04-13,Altia Telecom,Carlos Díaz,Seguridad,Cámaras CCTV Kit,2,814.19,1628.38,La Romana,Este
+VTA-10039,2025-04-14,Grupo Comercial,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,2,1144.67,2289.34,Punta Cana,Este
+VTA-10637,2025-04-15,Industria Caribe,Juan Pérez,Software & Cloud,Licencia ERP Cloud,10,2607.1,26071.0,Santo Domingo,Metropolitana
+VTA-10281,2025-04-15,Altia Telecom,Ana Morales,Software & Cloud,Licencia ERP Cloud,2,2615.42,5230.84,Santiago,Cibao Norte
+VTA-11302,2025-04-17,Retail Dominicana,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,1,2622.3,2622.3,San Cristóbal,Sur
+VTA-11388,2025-04-17,Seguros Nacional,Carlos Díaz,Seguridad,Cámaras CCTV Kit,1,880.18,880.18,Santiago,Cibao Norte
+VTA-11362,2025-04-18,Altia Telecom,Ana Morales,Software & Cloud,Servicio Backup Dedicado,1,1125.51,1125.51,Punta Cana,Este
+VTA-10907,2025-04-18,Altia Telecom,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2609.72,2609.72,Punta Cana,Este
+VTA-10633,2025-04-18,Seguros Nacional,Luis Sánchez,Tecnología,Laptop ThinkPad,3,1232.7,3698.1,Puerto Plata,Cibao Norte
+VTA-10432,2025-04-20,Banco Capital,Ana Morales,Mobiliario,Escritorio Ejecutivo,1,501.31,501.31,Santo Domingo,Metropolitana
+VTA-10720,2025-04-20,Grupo Comercial,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,2,2516.44,5032.88,Punta Cana,Este
+VTA-10080,2025-04-20,Seguros Nacional,Juan Pérez,Tecnología,Servidor Dell PowerEdge,8,4537.52,36300.16,Santo Domingo,Metropolitana
+VTA-10237,2025-04-22,Banco Capital,Ana Morales,Tecnología,Monitor 27'',4,271.07,1084.28,San Cristóbal,Sur
+VTA-11461,2025-04-22,Banco Capital,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,1,1055.51,1055.51,Punta Cana,Este
+VTA-11291,2025-04-23,Banco Capital,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,2,2409.56,4819.12,Santiago,Cibao Norte
+VTA-10578,2025-04-26,Seguros Nacional,Juan Pérez,Seguridad,Cámaras CCTV Kit,2,843.72,1687.44,La Romana,Este
+VTA-10273,2025-04-27,Retail Dominicana,Juan Pérez,Tecnología,Laptop ThinkPad,1,1161.41,1161.41,Puerto Plata,Cibao Norte
+VTA-11455,2025-04-28,Grupo Comercial,Carlos Díaz,Tecnología,Laptop ThinkPad,3,1143.65,3430.95,Puerto Plata,Cibao Norte
+VTA-10807,2025-04-28,Altia Telecom,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,10,4631.88,46318.8,Santo Domingo,Metropolitana
+VTA-11338,2025-04-29,Banco Capital,Carlos Díaz,Mobiliario,Silla Ergonómica,1,218.78,218.78,Santiago,Cibao Norte
+VTA-11331,2025-04-29,Banco Capital,Ana Morales,Tecnología,Servidor Dell PowerEdge,3,4524.38,13573.14,La Romana,Este
+VTA-10006,2025-04-29,Altia Telecom,Luis Sánchez,Seguridad,Firewall Fortinet,5,3044.24,15221.2,Santo Domingo,Metropolitana
+VTA-10176,2025-05-03,Supermercados Unidos,María Gómez,Seguridad,Firewall Fortinet,2,3217.86,6435.72,Santo Domingo,Metropolitana
+VTA-10314,2025-05-05,Grupo Comercial,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,1,1129.08,1129.08,San Cristóbal,Sur
+VTA-10478,2025-05-06,Industria Caribe,Juan Pérez,Mobiliario,Silla Ergonómica,2,226.19,452.38,Santiago,Cibao Norte
+VTA-10960,2025-05-07,Banco Capital,María Gómez,Software & Cloud,Servicio Backup Dedicado,4,1087.54,4350.16,Puerto Plata,Cibao Norte
+VTA-11484,2025-05-09,Grupo Comercial,María Gómez,Mobiliario,Escritorio Ejecutivo,2,498.21,996.42,San Cristóbal,Sur
+VTA-11314,2025-05-09,Grupo Comercial,Carlos Díaz,Mobiliario,Silla Ergonómica,2,227.49,454.98,Puerto Plata,Cibao Norte
+VTA-10322,2025-05-11,Grupo Comercial,María Gómez,Software & Cloud,Suscripción Antivirus Corp,3,471.53,1414.59,Puerto Plata,Cibao Norte
+VTA-10940,2025-05-12,Altia Telecom,María Gómez,Tecnología,Monitor 27'',1,289.57,289.57,Punta Cana,Este
+VTA-10824,2025-05-13,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,2,2622.21,5244.42,Santiago,Cibao Norte
+VTA-10562,2025-05-13,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,4375.06,8750.12,La Romana,Este
+VTA-10738,2025-05-14,Grupo Comercial,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,3,1087.6,3262.8,Punta Cana,Este
+VTA-10330,2025-05-14,Altia Telecom,María Gómez,Mobiliario,Escritorio Ejecutivo,3,457.69,1373.07,Santiago,Cibao Norte
+VTA-10087,2025-05-16,Banco Capital,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,3,464.12,1392.36,Santo Domingo,Metropolitana
+VTA-10471,2025-05-16,Banco Capital,Carlos Díaz,Mobiliario,Silla Ergonómica,1,211.64,211.64,San Cristóbal,Sur
+VTA-11385,2025-05-16,Altia Telecom,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,467.99,467.99,Santiago,Cibao Norte
+VTA-10658,2025-05-17,Grupo Comercial,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,1,448.38,448.38,Santiago,Cibao Norte
+VTA-11108,2025-05-17,Grupo Comercial,Juan Pérez,Mobiliario,Silla Ergonómica,3,225.18,675.54,Santiago,Cibao Norte
+VTA-11030,2025-05-20,Seguros Nacional,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,1,455.51,455.51,Santo Domingo,Metropolitana
+VTA-10021,2025-05-20,Banco Capital,Juan Pérez,Tecnología,Laptop ThinkPad,2,1172.66,2345.32,San Cristóbal,Sur
+VTA-10536,2025-05-22,Banco Capital,Ana Morales,Tecnología,Servidor Dell PowerEdge,1,4322.66,4322.66,Santo Domingo,Metropolitana
+VTA-10783,2025-05-22,Banco Capital,María Gómez,Tecnología,Monitor 27'',4,283.56,1134.24,Santo Domingo,Metropolitana
+VTA-10515,2025-05-23,Retail Dominicana,Juan Pérez,Mobiliario,Silla Ergonómica,1,213.3,213.3,Santiago,Cibao Norte
+VTA-10942,2025-05-23,Banco Capital,Juan Pérez,Seguridad,Cámaras CCTV Kit,1,882.1,882.1,Puerto Plata,Cibao Norte
+VTA-10036,2025-05-24,Supermercados Unidos,Juan Pérez,Tecnología,Monitor 27'',2,270.5,541.0,Puerto Plata,Cibao Norte
+VTA-11439,2025-05-25,Grupo Comercial,Carlos Díaz,Tecnología,Monitor 27'',2,283.02,566.04,Santo Domingo,Metropolitana
+VTA-10976,2025-05-25,Logística Express,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,4,4392.18,17568.72,Santiago,Cibao Norte
+VTA-10649,2025-05-25,Altia Telecom,María Gómez,Software & Cloud,Servicio Backup Dedicado,3,1117.81,3353.43,San Cristóbal,Sur
+VTA-10245,2025-05-25,Banco Capital,María Gómez,Tecnología,Laptop ThinkPad,2,1154.65,2309.3,Puerto Plata,Cibao Norte
+VTA-10048,2025-05-26,Grupo Comercial,Ana Morales,Seguridad,Firewall Fortinet,2,3048.84,6097.68,Punta Cana,Este
+VTA-11117,2025-05-26,Banco Capital,Ana Morales,Tecnología,Laptop ThinkPad,3,1231.96,3695.88,Punta Cana,Este
+VTA-11479,2025-05-28,Grupo Comercial,María Gómez,Software & Cloud,Servicio Backup Dedicado,1,1119.54,1119.54,Puerto Plata,Cibao Norte
+VTA-10532,2025-05-28,Grupo Comercial,María Gómez,Software & Cloud,Servicio Backup Dedicado,2,1060.83,2121.66,San Cristóbal,Sur
+VTA-11045,2025-05-30,Altia Telecom,Ana Morales,Mobiliario,Escritorio Ejecutivo,3,489.62,1468.86,Punta Cana,Este
+VTA-10041,2025-05-30,Banco Capital,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,3,467.26,1401.78,Santo Domingo,Metropolitana
+VTA-10742,2025-05-30,Seguros Nacional,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,1,466.32,466.32,San Cristóbal,Sur
+VTA-11311,2025-05-31,Industria Caribe,María Gómez,Tecnología,Monitor 27'',4,290.83,1163.32,Santo Domingo,Metropolitana
+VTA-10191,2025-05-31,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,4543.77,9087.54,Santo Domingo,Metropolitana
+VTA-10297,2025-05-31,Seguros Nacional,María Gómez,Tecnología,Monitor 27'',3,279.57,838.71,Santo Domingo,Metropolitana
+VTA-10284,2025-05-31,Seguros Nacional,Ana Morales,Mobiliario,Silla Ergonómica,1,223.77,223.77,Santo Domingo,Metropolitana
+VTA-11109,2025-06-01,Logística Express,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,2,4426.36,8852.72,La Romana,Este
+VTA-10609,2025-06-02,Altia Telecom,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,4,463.5,1854.0,Punta Cana,Este
+VTA-10873,2025-06-03,Grupo Comercial,Ana Morales,Software & Cloud,Licencia ERP Cloud,4,2424.39,9697.56,Puerto Plata,Cibao Norte
+VTA-10489,2025-06-03,Banco Capital,Ana Morales,Tecnología,Laptop ThinkPad,3,1194.99,3584.97,San Cristóbal,Sur
+VTA-11437,2025-06-04,Grupo Comercial,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,5,433.17,2165.85,Punta Cana,Este
+VTA-10157,2025-06-06,Grupo Comercial,María Gómez,Seguridad,Firewall Fortinet,4,3050.95,12203.8,Punta Cana,Este
+VTA-10485,2025-06-06,Grupo Comercial,Ana Morales,Mobiliario,Silla Ergonómica,8,213.33,1706.64,San Cristóbal,Sur
+VTA-10106,2025-06-07,Banco Capital,María Gómez,Mobiliario,Escritorio Ejecutivo,1,489.14,489.14,Santo Domingo,Metropolitana
+VTA-10970,2025-06-08,Grupo Comercial,Carlos Díaz,Tecnología,Monitor 27'',4,284.78,1139.12,Puerto Plata,Cibao Norte
+VTA-10528,2025-06-09,Seguros Nacional,Luis Sánchez,Seguridad,Cámaras CCTV Kit,2,830.99,1661.98,La Romana,Este
+VTA-10179,2025-06-09,Altia Telecom,Carlos Díaz,Tecnología,Monitor 27'',2,290.78,581.56,La Romana,Este
+VTA-10302,2025-06-09,Banco Capital,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,2,428.0,856.0,San Cristóbal,Sur
+VTA-11470,2025-06-10,Retail Dominicana,Carlos Díaz,Seguridad,Firewall Fortinet,2,3090.16,6180.32,La Romana,Este
+VTA-11181,2025-06-10,Altia Telecom,María Gómez,Software & Cloud,Suscripción Antivirus Corp,1,434.54,434.54,San Cristóbal,Sur
+VTA-10545,2025-06-11,Banco Capital,María Gómez,Software & Cloud,Servicio Backup Dedicado,2,1087.16,2174.32,Santiago,Cibao Norte
+VTA-11447,2025-06-13,Grupo Comercial,Carlos Díaz,Tecnología,Laptop ThinkPad,2,1170.95,2341.9,La Romana,Este
+VTA-10079,2025-06-14,Banco Capital,Carlos Díaz,Tecnología,Monitor 27'',1,279.12,279.12,Puerto Plata,Cibao Norte
+VTA-10393,2025-06-16,Industria Caribe,Ana Morales,Tecnología,Servidor Dell PowerEdge,2,4381.85,8763.7,Santo Domingo,Metropolitana
+VTA-11279,2025-06-16,Grupo Comercial,Ana Morales,Software & Cloud,Licencia ERP Cloud,1,2449.72,2449.72,Santiago,Cibao Norte
+VTA-10948,2025-06-17,Grupo Comercial,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,5,503.23,2516.15,Punta Cana,Este
+VTA-11222,2025-06-18,Industria Caribe,Luis Sánchez,Tecnología,Laptop ThinkPad,5,1146.99,5734.95,Santiago,Cibao Norte
+VTA-10460,2025-06-19,Seguros Nacional,Juan Pérez,Mobiliario,Silla Ergonómica,1,215.56,215.56,La Romana,Este
+VTA-10607,2025-06-21,Seguros Nacional,Ana Morales,Software & Cloud,Servicio Backup Dedicado,1,1122.29,1122.29,Punta Cana,Este
+VTA-10252,2025-06-21,Retail Dominicana,Juan Pérez,Seguridad,Cámaras CCTV Kit,5,875.12,4375.6,La Romana,Este
+VTA-10853,2025-06-21,Grupo Comercial,María Gómez,Tecnología,Laptop ThinkPad,2,1193.38,2386.76,San Cristóbal,Sur
+VTA-11036,2025-06-22,Supermercados Unidos,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,2,456.64,913.28,Puerto Plata,Cibao Norte
+VTA-10265,2025-06-22,Farmacias del Sol,Ana Morales,Seguridad,Cámaras CCTV Kit,2,833.96,1667.92,Punta Cana,Este
+VTA-10394,2025-06-23,Banco Capital,Ana Morales,Tecnología,Servidor Dell PowerEdge,8,4568.5,36548.0,Puerto Plata,Cibao Norte
+VTA-10563,2025-06-23,Grupo Comercial,Carlos Díaz,Seguridad,Cámaras CCTV Kit,2,859.89,1719.78,San Cristóbal,Sur
+VTA-11412,2025-06-23,Seguros Nacional,Carlos Díaz,Mobiliario,Silla Ergonómica,1,215.34,215.34,La Romana,Este
+VTA-10462,2025-06-23,Retail Dominicana,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,1,4441.42,4441.42,Santiago,Cibao Norte
+VTA-10773,2025-06-23,Industria Caribe,Ana Morales,Seguridad,Cámaras CCTV Kit,5,820.99,4104.95,Puerto Plata,Cibao Norte
+VTA-10597,2025-06-24,Seguros Nacional,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,2,462.64,925.28,Santiago,Cibao Norte
+VTA-11376,2025-06-24,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,4391.65,4391.65,Puerto Plata,Cibao Norte
+VTA-10569,2025-06-24,Industria Caribe,María Gómez,Mobiliario,Silla Ergonómica,3,225.09,675.27,La Romana,Este
+VTA-11012,2025-06-25,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,4658.21,18632.84,Santo Domingo,Metropolitana
+VTA-10509,2025-06-25,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,4356.73,4356.73,Punta Cana,Este
+VTA-10830,2025-06-26,Grupo Comercial,María Gómez,Tecnología,Laptop ThinkPad,3,1177.76,3533.28,Santiago,Cibao Norte
+VTA-10880,2025-06-27,Logística Express,Juan Pérez,Seguridad,Firewall Fortinet,1,3051.67,3051.67,Punta Cana,Este
+VTA-10220,2025-06-27,Industria Caribe,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,3,1144.86,3434.58,Santo Domingo,Metropolitana
+VTA-11390,2025-06-28,Banco Capital,Carlos Díaz,Seguridad,Cámaras CCTV Kit,2,867.93,1735.86,Santo Domingo,Metropolitana
+VTA-10841,2025-06-29,Altia Telecom,Juan Pérez,Mobiliario,Escritorio Ejecutivo,4,486.02,1944.08,Punta Cana,Este
+VTA-10494,2025-06-29,Logística Express,Juan Pérez,Seguridad,Firewall Fortinet,1,3158.95,3158.95,Puerto Plata,Cibao Norte
+VTA-11420,2025-06-29,Banco Capital,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,1,482.46,482.46,Santo Domingo,Metropolitana
+VTA-11364,2025-06-30,Retail Dominicana,Luis Sánchez,Mobiliario,Silla Ergonómica,2,217.78,435.56,San Cristóbal,Sur
+VTA-11107,2025-07-03,Altia Telecom,Juan Pérez,Mobiliario,Escritorio Ejecutivo,1,466.0,466.0,La Romana,Este
+VTA-11475,2025-07-03,Seguros Nacional,Ana Morales,Tecnología,Laptop ThinkPad,2,1189.58,2379.16,Puerto Plata,Cibao Norte
+VTA-10315,2025-07-03,Banco Capital,Ana Morales,Seguridad,Cámaras CCTV Kit,2,872.88,1745.76,Santo Domingo,Metropolitana
+VTA-11246,2025-07-03,Seguros Nacional,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,5,459.66,2298.3,Punta Cana,Este
+VTA-10730,2025-07-04,Constructora Metro,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,1,495.36,495.36,Santiago,Cibao Norte
+VTA-11146,2025-07-04,Grupo Comercial,Ana Morales,Tecnología,Laptop ThinkPad,5,1251.58,6257.9,La Romana,Este
+VTA-10501,2025-07-05,Grupo Comercial,Ana Morales,Software & Cloud,Licencia ERP Cloud,1,2499.38,2499.38,Santiago,Cibao Norte
+VTA-10663,2025-07-05,Logística Express,Juan Pérez,Mobiliario,Silla Ergonómica,1,221.71,221.71,Santo Domingo,Metropolitana
+VTA-10401,2025-07-06,Seguros Nacional,Luis Sánchez,Seguridad,Firewall Fortinet,1,3223.93,3223.93,Punta Cana,Este
+VTA-10426,2025-07-07,Retail Dominicana,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,458.77,458.77,Punta Cana,Este
+VTA-11473,2025-07-07,Grupo Comercial,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,3,2613.97,7841.91,San Cristóbal,Sur
+VTA-11068,2025-07-08,Banco Capital,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,1,2517.92,2517.92,La Romana,Este
+VTA-10522,2025-07-08,Retail Dominicana,Ana Morales,Seguridad,Firewall Fortinet,4,3141.3,12565.2,La Romana,Este
+VTA-11268,2025-07-08,Seguros Nacional,Carlos Díaz,Tecnología,Laptop ThinkPad,1,1141.62,1141.62,Puerto Plata,Cibao Norte
+VTA-10010,2025-07-09,Supermercados Unidos,Ana Morales,Seguridad,Cámaras CCTV Kit,2,855.99,1711.98,San Cristóbal,Sur
+VTA-10020,2025-07-10,Grupo Comercial,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,2,2598.14,5196.28,San Cristóbal,Sur
+VTA-11011,2025-07-11,Industria Caribe,Luis Sánchez,Tecnología,Monitor 27'',1,275.67,275.67,Punta Cana,Este
+VTA-10527,2025-07-12,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,2542.87,5085.74,Puerto Plata,Cibao Norte
+VTA-10486,2025-07-13,Grupo Comercial,Carlos Díaz,Mobiliario,Silla Ergonómica,2,213.82,427.64,Santiago,Cibao Norte
+VTA-10415,2025-07-13,Banco Capital,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,3,1122.61,3367.83,Santo Domingo,Metropolitana
+VTA-11397,2025-07-13,Altia Telecom,María Gómez,Software & Cloud,Servicio Backup Dedicado,2,1139.89,2279.78,La Romana,Este
+VTA-10906,2025-07-14,Industria Caribe,Carlos Díaz,Tecnología,Monitor 27'',2,289.99,579.98,Punta Cana,Este
+VTA-11317,2025-07-15,Grupo Comercial,Juan Pérez,Tecnología,Monitor 27'',3,291.23,873.69,Santo Domingo,Metropolitana
+VTA-11413,2025-07-16,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,4375.72,4375.72,Santo Domingo,Metropolitana
+VTA-10018,2025-07-17,Altia Telecom,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,2,438.72,877.44,San Cristóbal,Sur
+VTA-11009,2025-07-18,Grupo Comercial,Ana Morales,Tecnología,Laptop ThinkPad,2,1246.39,2492.78,Santiago,Cibao Norte
+VTA-10961,2025-07-18,Retail Dominicana,María Gómez,Mobiliario,Silla Ergonómica,4,229.51,918.04,Punta Cana,Este
+VTA-10754,2025-07-20,Banco Capital,Ana Morales,Tecnología,Servidor Dell PowerEdge,2,4556.54,9113.08,La Romana,Este
+VTA-10365,2025-07-20,Industria Caribe,María Gómez,Software & Cloud,Licencia ERP Cloud,1,2514.46,2514.46,Santiago,Cibao Norte
+VTA-10814,2025-07-21,Altia Telecom,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,4,464.29,1857.16,Puerto Plata,Cibao Norte
+VTA-10529,2025-07-22,Banco Capital,Luis Sánchez,Tecnología,Laptop ThinkPad,2,1152.37,2304.74,Santiago,Cibao Norte
+VTA-10073,2025-07-22,Banco Capital,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,2,458.76,917.52,Santiago,Cibao Norte
+VTA-10712,2025-07-22,Constructora Metro,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,2,453.46,906.92,La Romana,Este
+VTA-11258,2025-07-22,Altia Telecom,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,2,470.78,941.56,Santo Domingo,Metropolitana
+VTA-11436,2025-07-23,Retail Dominicana,Carlos Díaz,Seguridad,Firewall Fortinet,1,3099.09,3099.09,La Romana,Este
+VTA-10189,2025-07-24,Grupo Comercial,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,1,464.88,464.88,San Cristóbal,Sur
+VTA-10370,2025-07-24,Banco Capital,Carlos Díaz,Mobiliario,Silla Ergonómica,1,211.05,211.05,Puerto Plata,Cibao Norte
+VTA-10488,2025-07-24,Grupo Comercial,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,8,470.38,3763.04,Punta Cana,Este
+VTA-10582,2025-07-27,Banco Capital,María Gómez,Software & Cloud,Servicio Backup Dedicado,2,1087.48,2174.96,Puerto Plata,Cibao Norte
+VTA-10739,2025-07-29,Altia Telecom,María Gómez,Seguridad,Firewall Fortinet,3,3172.79,9518.37,San Cristóbal,Sur
+VTA-10356,2025-07-30,Grupo Comercial,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,3,1138.5,3415.5,Santiago,Cibao Norte
+VTA-10862,2025-07-31,Banco Capital,Luis Sánchez,Tecnología,Monitor 27'',3,270.29,810.87,Santo Domingo,Metropolitana
+VTA-10980,2025-07-31,Banco Capital,María Gómez,Software & Cloud,Servicio Backup Dedicado,4,1127.23,4508.92,Santiago,Cibao Norte
+VTA-10711,2025-07-31,Grupo Comercial,Ana Morales,Seguridad,Cámaras CCTV Kit,2,849.37,1698.74,La Romana,Este
+VTA-10153,2025-08-01,Retail Dominicana,Ana Morales,Tecnología,Servidor Dell PowerEdge,3,4384.43,13153.29,Santiago,Cibao Norte
+VTA-10352,2025-08-03,Industria Caribe,María Gómez,Seguridad,Cámaras CCTV Kit,1,836.25,836.25,Puerto Plata,Cibao Norte
+VTA-11007,2025-08-03,Grupo Comercial,Ana Morales,Seguridad,Cámaras CCTV Kit,1,822.29,822.29,Santiago,Cibao Norte
+VTA-11226,2025-08-04,Banco Capital,Luis Sánchez,Seguridad,Firewall Fortinet,1,3236.29,3236.29,San Cristóbal,Sur
+VTA-11445,2025-08-05,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,2547.31,5094.62,Puerto Plata,Cibao Norte
+VTA-10335,2025-08-05,Altia Telecom,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,2,482.95,965.9,Puerto Plata,Cibao Norte
+VTA-10843,2025-08-05,Retail Dominicana,Ana Morales,Tecnología,Laptop ThinkPad,8,1191.12,9528.96,Puerto Plata,Cibao Norte
+VTA-11344,2025-08-05,Seguros Nacional,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,477.86,477.86,Puerto Plata,Cibao Norte
+VTA-11400,2025-08-06,Supermercados Unidos,Ana Morales,Tecnología,Servidor Dell PowerEdge,1,4467.56,4467.56,Santiago,Cibao Norte
+VTA-10403,2025-08-06,Farmacias del Sol,Luis Sánchez,Tecnología,Laptop ThinkPad,8,1238.85,9910.8,Puerto Plata,Cibao Norte
+VTA-10615,2025-08-06,Grupo Comercial,Carlos Díaz,Seguridad,Cámaras CCTV Kit,1,826.18,826.18,San Cristóbal,Sur
+VTA-10969,2025-08-06,Grupo Comercial,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,3,433.79,1301.37,Santo Domingo,Metropolitana
+VTA-10933,2025-08-06,Altia Telecom,María Gómez,Tecnología,Monitor 27'',1,269.68,269.68,La Romana,Este
+VTA-10883,2025-08-06,Banco Capital,Ana Morales,Mobiliario,Escritorio Ejecutivo,10,475.4,4754.0,Puerto Plata,Cibao Norte
+VTA-10699,2025-08-09,Grupo Comercial,María Gómez,Tecnología,Monitor 27'',2,266.84,533.68,La Romana,Este
+VTA-10952,2025-08-09,Grupo Comercial,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,2,1064.99,2129.98,Santiago,Cibao Norte
+VTA-10710,2025-08-10,Banco Capital,María Gómez,Tecnología,Monitor 27'',2,289.58,579.16,Santo Domingo,Metropolitana
+VTA-10392,2025-08-10,Altia Telecom,Juan Pérez,Mobiliario,Escritorio Ejecutivo,1,463.91,463.91,Punta Cana,Este
+VTA-11378,2025-08-11,Industria Caribe,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,1,4584.73,4584.73,Puerto Plata,Cibao Norte
+VTA-10989,2025-08-14,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,4333.64,8667.28,Puerto Plata,Cibao Norte
+VTA-11308,2025-08-14,Banco Capital,Ana Morales,Software & Cloud,Licencia ERP Cloud,1,2558.57,2558.57,Punta Cana,Este
+VTA-10584,2025-08-15,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,3,4644.82,13934.46,La Romana,Este
+VTA-11391,2025-08-17,Banco Capital,Ana Morales,Tecnología,Laptop ThinkPad,1,1183.0,1183.0,Puerto Plata,Cibao Norte
+VTA-11124,2025-08-17,Industria Caribe,Juan Pérez,Tecnología,Monitor 27'',2,288.37,576.74,La Romana,Este
+VTA-11353,2025-08-18,Grupo Comercial,Ana Morales,Software & Cloud,Servicio Backup Dedicado,3,1103.1,3309.3,San Cristóbal,Sur
+VTA-11202,2025-08-18,Grupo Comercial,Carlos Díaz,Tecnología,Laptop ThinkPad,8,1224.32,9794.56,Puerto Plata,Cibao Norte
+VTA-10965,2025-08-18,Banco Capital,Carlos Díaz,Tecnología,Monitor 27'',2,267.8,535.6,Santiago,Cibao Norte
+VTA-10490,2025-08-18,Altia Telecom,Luis Sánchez,Mobiliario,Silla Ergonómica,3,227.38,682.14,San Cristóbal,Sur
+VTA-10534,2025-08-18,Banco Capital,María Gómez,Software & Cloud,Suscripción Antivirus Corp,8,428.18,3425.44,San Cristóbal,Sur
+VTA-10481,2025-08-18,Industria Caribe,Carlos Díaz,Tecnología,Laptop ThinkPad,2,1254.95,2509.9,San Cristóbal,Sur
+VTA-10748,2025-08-20,Altia Telecom,María Gómez,Software & Cloud,Suscripción Antivirus Corp,4,427.97,1711.88,San Cristóbal,Sur
+VTA-10388,2025-08-20,Farmacias del Sol,Luis Sánchez,Tecnología,Laptop ThinkPad,2,1174.23,2348.46,San Cristóbal,Sur
+VTA-11274,2025-08-21,Altia Telecom,María Gómez,Tecnología,Laptop ThinkPad,1,1247.38,1247.38,Punta Cana,Este
+VTA-10682,2025-08-21,Altia Telecom,María Gómez,Mobiliario,Silla Ergonómica,1,213.36,213.36,Santo Domingo,Metropolitana
+VTA-11292,2025-08-21,Industria Caribe,Luis Sánchez,Tecnología,Monitor 27'',8,277.79,2222.32,Santo Domingo,Metropolitana
+VTA-10943,2025-08-22,Banco Capital,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,2,456.35,912.7,Puerto Plata,Cibao Norte
+VTA-10734,2025-08-22,Farmacias del Sol,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,8,1078.33,8626.64,Santo Domingo,Metropolitana
+VTA-11224,2025-08-22,Altia Telecom,María Gómez,Mobiliario,Silla Ergonómica,3,229.31,687.93,Santo Domingo,Metropolitana
+VTA-11242,2025-08-23,Seguros Nacional,Juan Pérez,Seguridad,Firewall Fortinet,1,3323.72,3323.72,Puerto Plata,Cibao Norte
+VTA-10665,2025-08-24,Banco Capital,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,1,1107.23,1107.23,San Cristóbal,Sur
+VTA-10436,2025-08-26,Retail Dominicana,Ana Morales,Tecnología,Servidor Dell PowerEdge,1,4365.21,4365.21,Puerto Plata,Cibao Norte
+VTA-10215,2025-08-27,Seguros Nacional,Carlos Díaz,Tecnología,Monitor 27'',2,287.31,574.62,San Cristóbal,Sur
+VTA-10700,2025-08-29,Logística Express,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,4,4535.01,18140.04,Santiago,Cibao Norte
+VTA-10325,2025-08-29,Altia Telecom,Ana Morales,Software & Cloud,Servicio Backup Dedicado,2,1104.65,2209.3,Puerto Plata,Cibao Norte
+VTA-10836,2025-08-30,Industria Caribe,María Gómez,Tecnología,Laptop ThinkPad,3,1200.4,3601.2,Santiago,Cibao Norte
+VTA-10024,2025-08-30,Altia Telecom,Ana Morales,Tecnología,Laptop ThinkPad,1,1170.47,1170.47,Santo Domingo,Metropolitana
+VTA-10917,2025-08-31,Altia Telecom,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,1,2494.25,2494.25,Santo Domingo,Metropolitana
+VTA-10029,2025-08-31,Banco Capital,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,3,4540.9,13622.7,San Cristóbal,Sur
+VTA-10165,2025-09-01,Altia Telecom,Juan Pérez,Seguridad,Firewall Fortinet,4,3223.45,12893.8,Puerto Plata,Cibao Norte
+VTA-10162,2025-09-01,Grupo Comercial,Carlos Díaz,Tecnología,Monitor 27'',4,280.83,1123.32,San Cristóbal,Sur
+VTA-10929,2025-09-02,Banco Capital,Juan Pérez,Mobiliario,Silla Ergonómica,2,226.2,452.4,La Romana,Este
+VTA-11321,2025-09-03,Altia Telecom,Ana Morales,Seguridad,Cámaras CCTV Kit,4,809.2,3236.8,Santiago,Cibao Norte
+VTA-11318,2025-09-03,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,4,4652.04,18608.16,San Cristóbal,Sur
+VTA-10670,2025-09-03,Industria Caribe,María Gómez,Seguridad,Cámaras CCTV Kit,2,834.67,1669.34,La Romana,Este
+VTA-11244,2025-09-05,Banco Capital,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,2,438.87,877.74,Punta Cana,Este
+VTA-10469,2025-09-05,Altia Telecom,Ana Morales,Mobiliario,Silla Ergonómica,2,230.2,460.4,Puerto Plata,Cibao Norte
+VTA-10760,2025-09-05,Retail Dominicana,Juan Pérez,Tecnología,Laptop ThinkPad,2,1179.65,2359.3,Puerto Plata,Cibao Norte
+VTA-11198,2025-09-05,Industria Caribe,Ana Morales,Tecnología,Servidor Dell PowerEdge,2,4299.06,8598.12,Santiago,Cibao Norte
+VTA-10992,2025-09-06,Banco Capital,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,4,477.87,1911.48,San Cristóbal,Sur
+VTA-10640,2025-09-06,Banco Capital,Juan Pérez,Mobiliario,Escritorio Ejecutivo,2,488.51,977.02,Santo Domingo,Metropolitana
+VTA-10897,2025-09-06,Supermercados Unidos,María Gómez,Mobiliario,Escritorio Ejecutivo,2,476.57,953.14,San Cristóbal,Sur
+VTA-10949,2025-09-06,Logística Express,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,2,453.1,906.2,Santo Domingo,Metropolitana
+VTA-10065,2025-09-08,Altia Telecom,María Gómez,Tecnología,Monitor 27'',4,283.61,1134.44,Puerto Plata,Cibao Norte
+VTA-11433,2025-09-09,Grupo Comercial,Luis Sánchez,Tecnología,Laptop ThinkPad,1,1164.14,1164.14,La Romana,Este
+VTA-10825,2025-09-09,Altia Telecom,María Gómez,Software & Cloud,Licencia ERP Cloud,4,2623.03,10492.12,Santo Domingo,Metropolitana
+VTA-10312,2025-09-12,Seguros Nacional,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,1,450.39,450.39,Santo Domingo,Metropolitana
+VTA-10726,2025-09-12,Grupo Comercial,Ana Morales,Software & Cloud,Servicio Backup Dedicado,1,1154.42,1154.42,Punta Cana,Este
+VTA-10131,2025-09-14,Industria Caribe,Ana Morales,Seguridad,Firewall Fortinet,10,3223.41,32234.1,San Cristóbal,Sur
+VTA-11333,2025-09-15,Banco Capital,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,2,462.82,925.64,San Cristóbal,Sur
+VTA-10656,2025-09-16,Banco Capital,Ana Morales,Tecnología,Monitor 27'',4,268.96,1075.84,La Romana,Este
+VTA-10108,2025-09-16,Altia Telecom,Ana Morales,Mobiliario,Escritorio Ejecutivo,2,492.48,984.96,San Cristóbal,Sur
+VTA-10631,2025-09-17,Banco Capital,Ana Morales,Tecnología,Laptop ThinkPad,2,1158.25,2316.5,Puerto Plata,Cibao Norte
+VTA-11208,2025-09-19,Seguros Nacional,Juan Pérez,Tecnología,Servidor Dell PowerEdge,5,4312.52,21562.6,San Cristóbal,Sur
+VTA-10035,2025-09-19,Banco Capital,Ana Morales,Seguridad,Cámaras CCTV Kit,1,859.05,859.05,San Cristóbal,Sur
+VTA-10779,2025-09-20,Banco Capital,Ana Morales,Tecnología,Monitor 27'',1,274.07,274.07,Santo Domingo,Metropolitana
+VTA-10164,2025-09-20,Banco Capital,Luis Sánchez,Mobiliario,Silla Ergonómica,3,214.86,644.58,Punta Cana,Este
+VTA-10261,2025-09-20,Seguros Nacional,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,2,445.45,890.9,La Romana,Este
+VTA-10495,2025-09-20,Banco Capital,Carlos Díaz,Seguridad,Firewall Fortinet,1,3224.68,3224.68,Santo Domingo,Metropolitana
+VTA-11095,2025-09-21,Grupo Comercial,Luis Sánchez,Seguridad,Firewall Fortinet,2,3080.23,6160.46,Santiago,Cibao Norte
+VTA-10448,2025-09-23,Grupo Comercial,Carlos Díaz,Seguridad,Firewall Fortinet,1,3192.46,3192.46,San Cristóbal,Sur
+VTA-10022,2025-09-24,Seguros Nacional,Juan Pérez,Seguridad,Firewall Fortinet,2,3092.69,6185.38,Punta Cana,Este
+VTA-10677,2025-09-25,Banco Capital,Ana Morales,Seguridad,Firewall Fortinet,2,3200.15,6400.3,La Romana,Este
+VTA-10786,2025-09-25,Banco Capital,Juan Pérez,Seguridad,Firewall Fortinet,3,3271.38,9814.14,Punta Cana,Este
+VTA-10744,2025-09-26,Industria Caribe,Juan Pérez,Tecnología,Servidor Dell PowerEdge,2,4343.15,8686.3,Santiago,Cibao Norte
+VTA-10513,2025-09-26,Seguros Nacional,Juan Pérez,Mobiliario,Silla Ergonómica,8,212.79,1702.32,Santo Domingo,Metropolitana
+VTA-10575,2025-09-26,Banco Capital,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,1,4432.73,4432.73,Punta Cana,Este
+VTA-11409,2025-09-26,Supermercados Unidos,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,1,4595.4,4595.4,La Romana,Este
+VTA-11407,2025-09-28,Industria Caribe,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,3,1105.63,3316.89,Santiago,Cibao Norte
+VTA-11399,2025-09-28,Seguros Nacional,Juan Pérez,Mobiliario,Escritorio Ejecutivo,1,503.44,503.44,La Romana,Este
+VTA-10428,2025-09-28,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,10,2475.44,24754.4,Punta Cana,Este
+VTA-11272,2025-09-29,Altia Telecom,Juan Pérez,Seguridad,Firewall Fortinet,1,3092.35,3092.35,Santo Domingo,Metropolitana
+VTA-10473,2025-09-29,Altia Telecom,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,4,2512.1,10048.4,Puerto Plata,Cibao Norte
+VTA-11215,2025-10-01,Seguros Nacional,Ana Morales,Mobiliario,Silla Ergonómica,4,218.99,875.96,La Romana,Este
+VTA-10031,2025-10-01,Altia Telecom,Juan Pérez,Mobiliario,Silla Ergonómica,5,211.5,1057.5,Punta Cana,Este
+VTA-10257,2025-10-02,Banco Capital,Juan Pérez,Tecnología,Laptop ThinkPad,1,1183.98,1183.98,Puerto Plata,Cibao Norte
+VTA-10931,2025-10-02,Banco Capital,Carlos Díaz,Seguridad,Firewall Fortinet,2,3203.55,6407.1,Punta Cana,Este
+VTA-11159,2025-10-02,Farmacias del Sol,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2431.83,2431.83,Punta Cana,Este
+VTA-10855,2025-10-04,Grupo Comercial,María Gómez,Seguridad,Cámaras CCTV Kit,5,874.98,4374.9,Punta Cana,Este
+VTA-11283,2025-10-04,Altia Telecom,Carlos Díaz,Mobiliario,Silla Ergonómica,1,215.15,215.15,Puerto Plata,Cibao Norte
+VTA-11004,2025-10-04,Banco Capital,Luis Sánchez,Mobiliario,Silla Ergonómica,10,216.53,2165.3,San Cristóbal,Sur
+VTA-10236,2025-10-04,Industria Caribe,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,2,4624.2,9248.4,Santo Domingo,Metropolitana
+VTA-10256,2025-10-05,Industria Caribe,María Gómez,Mobiliario,Silla Ergonómica,4,215.98,863.92,Santiago,Cibao Norte
+VTA-11478,2025-10-06,Grupo Comercial,Juan Pérez,Mobiliario,Silla Ergonómica,1,217.53,217.53,La Romana,Este
+VTA-10477,2025-10-06,Altia Telecom,Ana Morales,Software & Cloud,Servicio Backup Dedicado,1,1085.22,1085.22,Santiago,Cibao Norte
+VTA-11441,2025-10-07,Banco Capital,María Gómez,Software & Cloud,Suscripción Antivirus Corp,1,464.85,464.85,La Romana,Este
+VTA-10561,2025-10-07,Seguros Nacional,Juan Pérez,Tecnología,Laptop ThinkPad,3,1189.7,3569.1,San Cristóbal,Sur
+VTA-11426,2025-10-08,Industria Caribe,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,499.27,499.27,San Cristóbal,Sur
+VTA-11430,2025-10-08,Retail Dominicana,María Gómez,Mobiliario,Escritorio Ejecutivo,4,488.27,1953.08,Punta Cana,Este
+VTA-10573,2025-10-09,Retail Dominicana,Ana Morales,Seguridad,Cámaras CCTV Kit,1,889.79,889.79,Santo Domingo,Metropolitana
+VTA-10077,2025-10-09,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,5,2434.17,12170.85,San Cristóbal,Sur
+VTA-11112,2025-10-10,Supermercados Unidos,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,3,1047.31,3141.93,San Cristóbal,Sur
+VTA-11003,2025-10-10,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,4320.07,4320.07,San Cristóbal,Sur
+VTA-10616,2025-10-11,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2427.63,9710.52,La Romana,Este
+VTA-11197,2025-10-12,Banco Capital,Juan Pérez,Mobiliario,Silla Ergonómica,2,224.36,448.72,La Romana,Este
+VTA-10512,2025-10-12,Industria Caribe,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,2612.3,5224.6,Santo Domingo,Metropolitana
+VTA-11487,2025-10-13,Seguros Nacional,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,4,432.1,1728.4,San Cristóbal,Sur
+VTA-11201,2025-10-14,Industria Caribe,María Gómez,Seguridad,Cámaras CCTV Kit,2,815.41,1630.82,Santo Domingo,Metropolitana
+VTA-11273,2025-10-14,Altia Telecom,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,10,1064.23,10642.3,Punta Cana,Este
+VTA-11435,2025-10-14,Retail Dominicana,Carlos Díaz,Seguridad,Firewall Fortinet,1,3162.05,3162.05,Santiago,Cibao Norte
+VTA-11093,2025-10-14,Altia Telecom,Juan Pérez,Seguridad,Cámaras CCTV Kit,8,823.93,6591.44,San Cristóbal,Sur
+VTA-11384,2025-10-14,Grupo Comercial,Ana Morales,Seguridad,Firewall Fortinet,4,3136.16,12544.64,San Cristóbal,Sur
+VTA-10870,2025-10-18,Seguros Nacional,Carlos Díaz,Seguridad,Firewall Fortinet,1,3232.19,3232.19,Santo Domingo,Metropolitana
+VTA-10053,2025-10-18,Grupo Comercial,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,1,459.77,459.77,La Romana,Este
+VTA-10266,2025-10-19,Grupo Comercial,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,461.85,461.85,La Romana,Este
+VTA-10116,2025-10-23,Banco Capital,Ana Morales,Seguridad,Cámaras CCTV Kit,1,883.73,883.73,San Cristóbal,Sur
+VTA-10894,2025-10-24,Supermercados Unidos,Luis Sánchez,Seguridad,Cámaras CCTV Kit,1,855.56,855.56,La Romana,Este
+VTA-10716,2025-10-24,Banco Capital,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,2,457.28,914.56,Punta Cana,Este
+VTA-10068,2025-10-24,Supermercados Unidos,Luis Sánchez,Tecnología,Laptop ThinkPad,3,1221.58,3664.74,La Romana,Este
+VTA-10045,2025-10-24,Banco Capital,Carlos Díaz,Tecnología,Monitor 27'',4,275.03,1100.12,Santiago,Cibao Norte
+VTA-11154,2025-10-25,Retail Dominicana,María Gómez,Tecnología,Laptop ThinkPad,4,1167.98,4671.92,San Cristóbal,Sur
+VTA-11053,2025-10-26,Banco Capital,Ana Morales,Software & Cloud,Servicio Backup Dedicado,3,1091.08,3273.24,Puerto Plata,Cibao Norte
+VTA-10396,2025-10-26,Banco Capital,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,1,1050.02,1050.02,La Romana,Este
+VTA-11170,2025-10-27,Grupo Comercial,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2534.03,2534.03,La Romana,Este
+VTA-11186,2025-10-27,Banco Capital,Juan Pérez,Mobiliario,Escritorio Ejecutivo,1,467.23,467.23,Punta Cana,Este
+VTA-10203,2025-10-28,Logística Express,Juan Pérez,Seguridad,Cámaras CCTV Kit,1,877.09,877.09,Santiago,Cibao Norte
+VTA-10104,2025-10-28,Industria Caribe,María Gómez,Mobiliario,Escritorio Ejecutivo,4,466.74,1866.96,Puerto Plata,Cibao Norte
+VTA-10456,2025-10-29,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,4529.24,18116.96,Punta Cana,Este
+VTA-10993,2025-11-01,Banco Capital,Juan Pérez,Tecnología,Monitor 27'',3,285.37,856.11,Puerto Plata,Cibao Norte
+VTA-10305,2025-11-02,Altia Telecom,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,1,465.5,465.5,Santo Domingo,Metropolitana
+VTA-11280,2025-11-02,Industria Caribe,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,487.35,487.35,La Romana,Este
+VTA-11355,2025-11-05,Banco Capital,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,1,1099.34,1099.34,Punta Cana,Este
+VTA-11191,2025-11-05,Altia Telecom,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,4,4489.67,17958.68,Santo Domingo,Metropolitana
+VTA-11373,2025-11-06,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,5,4646.9,23234.5,San Cristóbal,Sur
+VTA-11356,2025-11-06,Banco Capital,María Gómez,Seguridad,Firewall Fortinet,1,3292.88,3292.88,Santo Domingo,Metropolitana
+VTA-11134,2025-11-06,Seguros Nacional,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,2,1087.51,2175.02,Puerto Plata,Cibao Norte
+VTA-10083,2025-11-06,Altia Telecom,Ana Morales,Tecnología,Monitor 27'',1,270.65,270.65,Santo Domingo,Metropolitana
+VTA-10168,2025-11-06,Industria Caribe,Carlos Díaz,Tecnología,Monitor 27'',8,277.11,2216.88,San Cristóbal,Sur
+VTA-11243,2025-11-07,Seguros Nacional,María Gómez,Seguridad,Cámaras CCTV Kit,4,861.55,3446.2,Punta Cana,Este
+VTA-10416,2025-11-09,Altia Telecom,Ana Morales,Seguridad,Firewall Fortinet,4,3085.63,12342.52,Puerto Plata,Cibao Norte
+VTA-11450,2025-11-10,Grupo Comercial,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,2,1147.47,2294.94,Puerto Plata,Cibao Norte
+VTA-11271,2025-11-10,Grupo Comercial,Luis Sánchez,Tecnología,Monitor 27'',1,280.54,280.54,Santo Domingo,Metropolitana
+VTA-10027,2025-11-14,Grupo Comercial,Ana Morales,Seguridad,Cámaras CCTV Kit,3,827.7,2483.1,Punta Cana,Este
+VTA-11297,2025-11-15,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,3,2512.32,7536.96,Santiago,Cibao Norte
+VTA-10082,2025-11-15,Constructora Metro,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,5,1146.71,5733.55,Puerto Plata,Cibao Norte
+VTA-10321,2025-11-16,Banco Capital,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,4,495.17,1980.68,Punta Cana,Este
+VTA-10405,2025-11-19,Altia Telecom,María Gómez,Tecnología,Monitor 27'',4,284.63,1138.52,Santiago,Cibao Norte
+VTA-10531,2025-11-19,Grupo Comercial,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,3,480.81,1442.43,Punta Cana,Este
+VTA-10301,2025-11-20,Banco Capital,Ana Morales,Tecnología,Servidor Dell PowerEdge,2,4440.49,8880.98,San Cristóbal,Sur
+VTA-10941,2025-11-20,Grupo Comercial,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,1,1119.49,1119.49,Punta Cana,Este
+VTA-11313,2025-11-20,Altia Telecom,Juan Pérez,Mobiliario,Silla Ergonómica,3,227.65,682.95,Santiago,Cibao Norte
+VTA-10221,2025-11-21,Banco Capital,Juan Pérez,Mobiliario,Silla Ergonómica,1,221.56,221.56,La Romana,Este
+VTA-11113,2025-11-21,Banco Capital,Luis Sánchez,Tecnología,Monitor 27'',2,293.13,586.26,Santiago,Cibao Norte
+VTA-10200,2025-11-23,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet,8,3322.12,26576.96,San Cristóbal,Sur
+VTA-11281,2025-11-23,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,4,4299.8,17199.2,La Romana,Este
+VTA-10247,2025-11-23,Altia Telecom,Carlos Díaz,Tecnología,Monitor 27'',8,275.05,2200.4,Punta Cana,Este
+VTA-10835,2025-11-23,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,2563.63,5127.26,San Cristóbal,Sur
+VTA-10349,2025-11-26,Banco Capital,María Gómez,Mobiliario,Silla Ergonómica,1,216.61,216.61,Santiago,Cibao Norte
+VTA-10326,2025-11-26,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet,4,3224.7,12898.8,Puerto Plata,Cibao Norte
+VTA-10057,2025-11-27,Grupo Comercial,Ana Morales,Tecnología,Laptop ThinkPad,8,1177.37,9418.96,Puerto Plata,Cibao Norte
+VTA-10818,2025-11-27,Banco Capital,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,3,1137.83,3413.49,La Romana,Este
+VTA-10184,2025-11-27,Altia Telecom,Ana Morales,Mobiliario,Escritorio Ejecutivo,1,460.4,460.4,Santo Domingo,Metropolitana
+VTA-11220,2025-11-28,Altia Telecom,María Gómez,Seguridad,Cámaras CCTV Kit,1,845.75,845.75,La Romana,Este
+VTA-10662,2025-11-28,Grupo Comercial,María Gómez,Mobiliario,Silla Ergonómica,2,224.22,448.44,La Romana,Este
+VTA-11265,2025-11-28,Banco Capital,Ana Morales,Mobiliario,Silla Ergonómica,1,213.14,213.14,San Cristóbal,Sur
+VTA-10971,2025-11-28,Altia Telecom,Juan Pérez,Seguridad,Cámaras CCTV Kit,2,828.17,1656.34,Punta Cana,Este
+VTA-10551,2025-11-28,Banco Capital,Ana Morales,Seguridad,Firewall Fortinet,2,3057.98,6115.96,San Cristóbal,Sur
+VTA-10070,2025-11-29,Banco Capital,Ana Morales,Mobiliario,Silla Ergonómica,1,227.64,227.64,La Romana,Este
+VTA-11307,2025-11-30,Banco Capital,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,3,2530.58,7591.74,La Romana,Este
+VTA-10876,2025-12-01,Altia Telecom,Ana Morales,Seguridad,Firewall Fortinet,1,3053.1,3053.1,Santiago,Cibao Norte
+VTA-11079,2025-12-01,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,3,4608.23,13824.69,Santiago,Cibao Norte
+VTA-11089,2025-12-02,Banco Capital,María Gómez,Software & Cloud,Servicio Backup Dedicado,2,1131.12,2262.24,San Cristóbal,Sur
+VTA-11216,2025-12-02,Grupo Comercial,Ana Morales,Software & Cloud,Licencia ERP Cloud,2,2441.51,4883.02,Puerto Plata,Cibao Norte
+VTA-10011,2025-12-02,Grupo Comercial,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,8,453.9,3631.2,Santiago,Cibao Norte
+VTA-10056,2025-12-04,Altia Telecom,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,3,473.09,1419.27,Punta Cana,Este
+VTA-10402,2025-12-04,Industria Caribe,Carlos Díaz,Tecnología,Laptop ThinkPad,3,1186.78,3560.34,Punta Cana,Este
+VTA-10098,2025-12-04,Banco Capital,María Gómez,Tecnología,Monitor 27'',2,276.98,553.96,Santiago,Cibao Norte
+VTA-10400,2025-12-04,Altia Telecom,Carlos Díaz,Mobiliario,Silla Ergonómica,1,217.73,217.73,San Cristóbal,Sur
+VTA-10435,2025-12-04,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,2,4677.5,9355.0,Santo Domingo,Metropolitana
+VTA-10338,2025-12-04,Altia Telecom,Luis Sánchez,Seguridad,Firewall Fortinet,1,3275.36,3275.36,La Romana,Este
+VTA-11263,2025-12-04,Banco Capital,María Gómez,Seguridad,Cámaras CCTV Kit,1,888.16,888.16,Santo Domingo,Metropolitana
+VTA-11024,2025-12-04,Altia Telecom,Carlos Díaz,Seguridad,Firewall Fortinet,8,3138.06,25104.48,Santiago,Cibao Norte
+VTA-10813,2025-12-04,Altia Telecom,Carlos Díaz,Tecnología,Monitor 27'',3,268.05,804.15,San Cristóbal,Sur
+VTA-11366,2025-12-05,Logística Express,Juan Pérez,Seguridad,Cámaras CCTV Kit,2,842.6,1685.2,La Romana,Este
+VTA-11129,2025-12-06,Altia Telecom,María Gómez,Tecnología,Laptop ThinkPad,1,1207.07,1207.07,San Cristóbal,Sur
+VTA-11126,2025-12-06,Supermercados Unidos,Luis Sánchez,Tecnología,Laptop ThinkPad,3,1227.57,3682.71,Puerto Plata,Cibao Norte
+VTA-11180,2025-12-06,Altia Telecom,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,4,440.55,1762.2,Santo Domingo,Metropolitana
+VTA-10241,2025-12-07,Grupo Comercial,María Gómez,Mobiliario,Escritorio Ejecutivo,1,488.13,488.13,Puerto Plata,Cibao Norte
+VTA-11097,2025-12-08,Retail Dominicana,Luis Sánchez,Seguridad,Cámaras CCTV Kit,3,858.18,2574.54,Punta Cana,Este
+VTA-10805,2025-12-08,Industria Caribe,Carlos Díaz,Seguridad,Cámaras CCTV Kit,8,880.57,7044.56,San Cristóbal,Sur
+VTA-10927,2025-12-09,Banco Capital,Ana Morales,Mobiliario,Silla Ergonómica,1,214.98,214.98,Puerto Plata,Cibao Norte
+VTA-11087,2025-12-09,Banco Capital,Juan Pérez,Tecnología,Monitor 27'',3,274.48,823.44,Santiago,Cibao Norte
+VTA-11370,2025-12-09,Grupo Comercial,Ana Morales,Tecnología,Laptop ThinkPad,2,1154.63,2309.26,San Cristóbal,Sur
+VTA-11177,2025-12-09,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,2576.88,5153.76,Punta Cana,Este
+VTA-11072,2025-12-11,Grupo Comercial,María Gómez,Software & Cloud,Servicio Backup Dedicado,3,1073.89,3221.67,Punta Cana,Este
+VTA-10761,2025-12-12,Grupo Comercial,Juan Pérez,Mobiliario,Silla Ergonómica,1,211.79,211.79,Santiago,Cibao Norte
+VTA-10642,2025-12-12,Seguros Nacional,Carlos Díaz,Seguridad,Cámaras CCTV Kit,8,810.06,6480.48,Punta Cana,Este
+VTA-11200,2025-12-13,Retail Dominicana,Luis Sánchez,Tecnología,Laptop ThinkPad,1,1231.6,1231.6,La Romana,Este
+VTA-10498,2025-12-15,Seguros Nacional,Luis Sánchez,Tecnología,Laptop ThinkPad,4,1161.03,4644.12,Santiago,Cibao Norte
+VTA-10219,2025-12-17,Banco Capital,Luis Sánchez,Tecnología,Monitor 27'',2,279.44,558.88,Santiago,Cibao Norte
+VTA-11204,2025-12-18,Farmacias del Sol,Luis Sánchez,Seguridad,Firewall Fortinet,1,3075.96,3075.96,San Cristóbal,Sur
+VTA-10535,2025-12-19,Altia Telecom,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,1,1079.42,1079.42,Santo Domingo,Metropolitana
+VTA-10181,2025-12-22,Altia Telecom,Luis Sánchez,Tecnología,Monitor 27'',4,266.68,1066.72,Santiago,Cibao Norte
+VTA-11026,2025-12-22,Banco Capital,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,10,438.67,4386.7,Santiago,Cibao Norte
+VTA-11209,2025-12-22,Grupo Comercial,María Gómez,Mobiliario,Escritorio Ejecutivo,2,472.59,945.18,Punta Cana,Este
+VTA-11161,2025-12-23,Industria Caribe,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,4,4308.99,17235.96,Santo Domingo,Metropolitana
+VTA-11419,2025-12-23,Grupo Comercial,Ana Morales,Mobiliario,Escritorio Ejecutivo,4,500.58,2002.32,Puerto Plata,Cibao Norte
+VTA-11332,2025-12-23,Banco Capital,Juan Pérez,Seguridad,Firewall Fortinet,2,3115.86,6231.72,Puerto Plata,Cibao Norte
+VTA-11418,2025-12-24,Logística Express,Luis Sánchez,Tecnología,Laptop ThinkPad,1,1184.04,1184.04,Puerto Plata,Cibao Norte
+VTA-11457,2025-12-24,Grupo Comercial,Carlos Díaz,Mobiliario,Silla Ergonómica,1,220.94,220.94,Puerto Plata,Cibao Norte
+VTA-10373,2025-12-25,Grupo Comercial,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,1,467.73,467.73,La Romana,Este
+VTA-10127,2025-12-25,Banco Capital,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,1,499.58,499.58,Punta Cana,Este
+VTA-10915,2025-12-25,Banco Capital,Juan Pérez,Mobiliario,Escritorio Ejecutivo,2,462.45,924.9,Puerto Plata,Cibao Norte
+VTA-10450,2025-12-26,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,2531.2,2531.2,Santiago,Cibao Norte
+VTA-11254,2025-12-26,Seguros Nacional,Luis Sánchez,Tecnología,Monitor 27'',2,278.54,557.08,Punta Cana,Este
+VTA-10064,2025-12-27,Banco Capital,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,4,457.12,1828.48,Santiago,Cibao Norte
+VTA-11453,2025-12-27,Seguros Nacional,María Gómez,Seguridad,Cámaras CCTV Kit,3,856.01,2568.03,La Romana,Este
+VTA-10383,2025-12-27,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,3,4646.72,13940.16,Punta Cana,Este
+VTA-10178,2025-12-27,Seguros Nacional,Ana Morales,Tecnología,Monitor 27'',2,280.63,561.26,Punta Cana,Este
+VTA-11396,2025-12-27,Grupo Comercial,Ana Morales,Tecnología,Monitor 27'',3,268.95,806.85,Santo Domingo,Metropolitana
+VTA-10581,2025-12-27,Altia Telecom,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,2,2588.15,5176.3,Santiago,Cibao Norte
+VTA-10465,2025-12-28,Supermercados Unidos,Ana Morales,Tecnología,Servidor Dell PowerEdge,2,4417.03,8834.06,Santiago,Cibao Norte
+VTA-11416,2025-12-28,Altia Telecom,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,1,4693.9,4693.9,San Cristóbal,Sur
+VTA-10861,2025-12-28,Industria Caribe,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,1,436.77,436.77,Santiago,Cibao Norte
+VTA-10303,2025-12-31,Grupo Comercial,Luis Sánchez,Seguridad,Firewall Fortinet,2,3083.88,6167.76,Santiago,Cibao Norte
+VTA-11210,2025-12-31,Industria Caribe,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,1,462.0,462.0,Santo Domingo,Metropolitana
+VTA-11329,2026-01-01,Retail Dominicana,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,1,2520.6,2520.6,Punta Cana,Este
+VTA-10118,2026-01-01,Farmacias del Sol,Juan Pérez,Seguridad,Cámaras CCTV Kit,4,868.95,3475.8,San Cristóbal,Sur
+VTA-10059,2026-01-03,Industria Caribe,María Gómez,Software & Cloud,Servicio Backup Dedicado,1,1114.86,1114.86,Santiago,Cibao Norte
+VTA-10865,2026-01-03,Grupo Comercial,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,1,2592.41,2592.41,San Cristóbal,Sur
+VTA-10217,2026-01-03,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,2482.58,2482.58,San Cristóbal,Sur
+VTA-10044,2026-01-04,Retail Dominicana,Carlos Díaz,Seguridad,Cámaras CCTV Kit,3,825.26,2475.78,San Cristóbal,Sur
+VTA-10160,2026-01-05,Grupo Comercial,Carlos Díaz,Mobiliario,Silla Ergonómica,2,220.92,441.84,Santo Domingo,Metropolitana
+VTA-10585,2026-01-05,Grupo Comercial,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,1,1127.31,1127.31,Punta Cana,Este
+VTA-11223,2026-01-06,Altia Telecom,Juan Pérez,Tecnología,Monitor 27'',1,284.15,284.15,La Romana,Este
+VTA-10627,2026-01-07,Farmacias del Sol,Luis Sánchez,Seguridad,Cámaras CCTV Kit,1,855.0,855.0,San Cristóbal,Sur
+VTA-10016,2026-01-08,Banco Capital,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,3,452.76,1358.28,Santo Domingo,Metropolitana
+VTA-10239,2026-01-12,Banco Capital,Carlos Díaz,Mobiliario,Silla Ergonómica,4,217.78,871.12,Santo Domingo,Metropolitana
+VTA-10571,2026-01-14,Altia Telecom,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,4,4659.74,18638.96,Punta Cana,Este
+VTA-10102,2026-01-16,Altia Telecom,Carlos Díaz,Mobiliario,Silla Ergonómica,2,219.12,438.24,Punta Cana,Este
+VTA-11330,2026-01-16,Grupo Comercial,María Gómez,Tecnología,Laptop ThinkPad,10,1173.27,11732.7,La Romana,Este
+VTA-10499,2026-01-18,Banco Capital,Ana Morales,Seguridad,Cámaras CCTV Kit,2,856.81,1713.62,Puerto Plata,Cibao Norte
+VTA-11143,2026-01-18,Banco Capital,Juan Pérez,Tecnología,Monitor 27'',1,286.4,286.4,San Cristóbal,Sur
+VTA-11121,2026-01-18,Grupo Comercial,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2485.93,9943.72,Santo Domingo,Metropolitana
+VTA-10769,2026-01-19,Constructora Metro,Luis Sánchez,Seguridad,Cámaras CCTV Kit,2,841.44,1682.88,La Romana,Este
+VTA-10547,2026-01-19,Grupo Comercial,María Gómez,Mobiliario,Silla Ergonómica,3,213.54,640.62,Santo Domingo,Metropolitana
+VTA-11139,2026-01-20,Industria Caribe,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,4397.54,4397.54,San Cristóbal,Sur
+VTA-10055,2026-01-20,Grupo Comercial,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,2,456.22,912.44,Puerto Plata,Cibao Norte
+VTA-11018,2026-01-22,Altia Telecom,Juan Pérez,Tecnología,Monitor 27'',3,278.63,835.89,San Cristóbal,Sur
+VTA-11185,2026-01-22,Banco Capital,Luis Sánchez,Mobiliario,Silla Ergonómica,2,229.01,458.02,Punta Cana,Este
+VTA-11299,2026-01-23,Grupo Comercial,Carlos Díaz,Tecnología,Laptop ThinkPad,4,1172.88,4691.52,Santiago,Cibao Norte
+VTA-11088,2026-01-23,Supermercados Unidos,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2549.58,2549.58,San Cristóbal,Sur
+VTA-10957,2026-01-24,Grupo Comercial,María Gómez,Tecnología,Monitor 27'',1,272.17,272.17,Santiago,Cibao Norte
+VTA-10787,2026-01-25,Altia Telecom,Ana Morales,Mobiliario,Silla Ergonómica,1,222.31,222.31,Puerto Plata,Cibao Norte
+VTA-11033,2026-01-25,Banco Capital,Ana Morales,Seguridad,Cámaras CCTV Kit,8,853.57,6828.56,Santiago,Cibao Norte
+VTA-11368,2026-01-25,Banco Capital,Ana Morales,Software & Cloud,Licencia ERP Cloud,1,2454.0,2454.0,San Cristóbal,Sur
+VTA-10246,2026-01-26,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,4293.71,4293.71,Santo Domingo,Metropolitana
+VTA-10255,2026-01-26,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,3,2537.63,7612.89,Punta Cana,Este
+VTA-10368,2026-01-27,Retail Dominicana,Juan Pérez,Seguridad,Firewall Fortinet,2,3349.48,6698.96,La Romana,Este
+VTA-10926,2026-01-27,Altia Telecom,Juan Pérez,Seguridad,Cámaras CCTV Kit,8,821.88,6575.04,La Romana,Este
+VTA-10152,2026-01-28,Grupo Comercial,Carlos Díaz,Seguridad,Cámaras CCTV Kit,3,816.35,2449.05,Puerto Plata,Cibao Norte
+VTA-10100,2026-01-28,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,4,2489.84,9959.36,Puerto Plata,Cibao Norte
+VTA-11287,2026-01-28,Altia Telecom,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,2,1073.28,2146.56,La Romana,Este
+VTA-10506,2026-01-30,Banco Capital,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,465.63,465.63,Santo Domingo,Metropolitana
+VTA-10287,2026-01-30,Altia Telecom,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,5,2444.93,12224.65,Punta Cana,Este
+VTA-10201,2026-01-30,Banco Capital,María Gómez,Software & Cloud,Suscripción Antivirus Corp,1,460.96,460.96,Santiago,Cibao Norte
+VTA-11394,2026-01-31,Banco Capital,Carlos Díaz,Tecnología,Laptop ThinkPad,3,1227.93,3683.79,Santiago,Cibao Norte
+VTA-10434,2026-01-31,Altia Telecom,Carlos Díaz,Seguridad,Cámaras CCTV Kit,2,845.0,1690.0,Santo Domingo,Metropolitana
+VTA-10429,2026-02-02,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,4365.59,4365.59,Santiago,Cibao Norte
+VTA-11275,2026-02-04,Grupo Comercial,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,1,430.27,430.27,San Cristóbal,Sur
+VTA-11398,2026-02-04,Altia Telecom,María Gómez,Seguridad,Cámaras CCTV Kit,1,884.45,884.45,Punta Cana,Este
+VTA-10336,2026-02-04,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,1,4499.22,4499.22,Punta Cana,Este
+VTA-10630,2026-02-04,Altia Telecom,Ana Morales,Software & Cloud,Licencia ERP Cloud,4,2375.16,9500.64,San Cristóbal,Sur
+VTA-11172,2026-02-07,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,5,2593.69,12968.45,La Romana,Este
+VTA-11367,2026-02-07,Industria Caribe,Juan Pérez,Mobiliario,Escritorio Ejecutivo,1,461.82,461.82,Santo Domingo,Metropolitana
+VTA-11252,2026-02-07,Retail Dominicana,Carlos Díaz,Tecnología,Laptop ThinkPad,1,1146.06,1146.06,Santiago,Cibao Norte
+VTA-11029,2026-02-08,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,10,4458.57,44585.7,San Cristóbal,Sur
+VTA-10003,2026-02-08,Industria Caribe,María Gómez,Software & Cloud,Suscripción Antivirus Corp,2,455.29,910.58,La Romana,Este
+VTA-10318,2026-02-08,Altia Telecom,Luis Sánchez,Tecnología,Monitor 27'',1,269.59,269.59,La Romana,Este
+VTA-10947,2026-02-08,Banco Capital,Ana Morales,Software & Cloud,Licencia ERP Cloud,4,2419.01,9676.04,Santiago,Cibao Norte
+VTA-10409,2026-02-09,Industria Caribe,Carlos Díaz,Tecnología,Monitor 27'',4,280.84,1123.36,Puerto Plata,Cibao Norte
+VTA-11148,2026-02-09,Altia Telecom,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,1,2556.1,2556.1,Punta Cana,Este
+VTA-10790,2026-02-10,Logística Express,María Gómez,Mobiliario,Silla Ergonómica,1,228.35,228.35,Puerto Plata,Cibao Norte
+VTA-11013,2026-02-11,Grupo Comercial,Carlos Díaz,Seguridad,Cámaras CCTV Kit,2,861.23,1722.46,Punta Cana,Este
+VTA-10856,2026-02-13,Grupo Comercial,Ana Morales,Software & Cloud,Servicio Backup Dedicado,1,1088.46,1088.46,Puerto Plata,Cibao Norte
+VTA-10114,2026-02-14,Altia Telecom,Ana Morales,Mobiliario,Escritorio Ejecutivo,1,469.62,469.62,Punta Cana,Este
+VTA-10869,2026-02-16,Supermercados Unidos,Ana Morales,Tecnología,Monitor 27'',3,267.48,802.44,San Cristóbal,Sur
+VTA-10389,2026-02-17,Logística Express,María Gómez,Software & Cloud,Suscripción Antivirus Corp,4,430.36,1721.44,Puerto Plata,Cibao Norte
+VTA-10605,2026-02-18,Altia Telecom,Ana Morales,Software & Cloud,Servicio Backup Dedicado,2,1103.95,2207.9,San Cristóbal,Sur
+VTA-11046,2026-02-20,Altia Telecom,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,2,469.63,939.26,Santo Domingo,Metropolitana
+VTA-10678,2026-02-21,Altia Telecom,Juan Pérez,Mobiliario,Escritorio Ejecutivo,1,483.51,483.51,Puerto Plata,Cibao Norte
+VTA-10376,2026-02-21,Grupo Comercial,Juan Pérez,Tecnología,Monitor 27'',3,275.1,825.3,La Romana,Este
+VTA-10005,2026-02-21,Altia Telecom,Carlos Díaz,Seguridad,Firewall Fortinet,2,3354.63,6709.26,La Romana,Este
+VTA-11462,2026-02-22,Grupo Comercial,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,3,481.08,1443.24,Punta Cana,Este
+VTA-10101,2026-02-23,Grupo Comercial,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,1,1099.19,1099.19,Santiago,Cibao Norte
+VTA-11425,2026-02-24,Banco Capital,Ana Morales,Mobiliario,Escritorio Ejecutivo,1,460.96,460.96,Santo Domingo,Metropolitana
+VTA-10120,2026-02-25,Banco Capital,Ana Morales,Tecnología,Laptop ThinkPad,1,1213.27,1213.27,Santo Domingo,Metropolitana
+VTA-11434,2026-02-25,Seguros Nacional,Carlos Díaz,Seguridad,Firewall Fortinet,1,3192.56,3192.56,Punta Cana,Este
+VTA-10920,2026-02-27,Altia Telecom,Juan Pérez,Tecnología,Servidor Dell PowerEdge,10,4457.24,44572.4,Puerto Plata,Cibao Norte
+VTA-10956,2026-02-28,Seguros Nacional,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,4,1054.38,4217.52,Santiago,Cibao Norte
+VTA-10707,2026-03-03,Banco Capital,María Gómez,Mobiliario,Escritorio Ejecutivo,2,467.2,934.4,La Romana,Este
+VTA-11296,2026-03-04,Industria Caribe,María Gómez,Tecnología,Laptop ThinkPad,1,1162.31,1162.31,Santo Domingo,Metropolitana
+VTA-10306,2026-03-04,Banco Capital,María Gómez,Tecnología,Monitor 27'',1,279.33,279.33,La Romana,Este
+VTA-10647,2026-03-06,Grupo Comercial,María Gómez,Seguridad,Cámaras CCTV Kit,2,887.31,1774.62,Santo Domingo,Metropolitana
+VTA-10071,2026-03-06,Supermercados Unidos,Ana Morales,Mobiliario,Escritorio Ejecutivo,2,486.33,972.66,Punta Cana,Este
+VTA-10197,2026-03-06,Banco Capital,Juan Pérez,Seguridad,Cámaras CCTV Kit,2,882.55,1765.1,Santiago,Cibao Norte
+VTA-10974,2026-03-07,Industria Caribe,Ana Morales,Software & Cloud,Servicio Backup Dedicado,5,1089.13,5445.65,La Romana,Este
+VTA-11163,2026-03-08,Altia Telecom,Ana Morales,Mobiliario,Silla Ergonómica,1,218.17,218.17,Santiago,Cibao Norte
+VTA-11130,2026-03-08,Altia Telecom,Juan Pérez,Tecnología,Laptop ThinkPad,1,1200.33,1200.33,Santo Domingo,Metropolitana
+VTA-11349,2026-03-08,Altia Telecom,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,1,466.71,466.71,Punta Cana,Este
+VTA-11114,2026-03-09,Grupo Comercial,Ana Morales,Tecnología,Monitor 27'',2,293.91,587.82,Santiago,Cibao Norte
+VTA-10837,2026-03-10,Grupo Comercial,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,3,445.57,1336.71,San Cristóbal,Sur
+VTA-10095,2026-03-10,Banco Capital,María Gómez,Tecnología,Monitor 27'',4,279.33,1117.32,Santiago,Cibao Norte
+VTA-10718,2026-03-10,Seguros Nacional,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,2,1146.02,2292.04,Santo Domingo,Metropolitana
+VTA-11359,2026-03-10,Banco Capital,María Gómez,Software & Cloud,Licencia ERP Cloud,1,2464.46,2464.46,Santiago,Cibao Norte
+VTA-10414,2026-03-10,Retail Dominicana,Ana Morales,Mobiliario,Silla Ergonómica,1,218.48,218.48,La Romana,Este
+VTA-10049,2026-03-10,Altia Telecom,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,1,482.05,482.05,Santo Domingo,Metropolitana
+VTA-10090,2026-03-11,Seguros Nacional,María Gómez,Software & Cloud,Suscripción Antivirus Corp,1,461.23,461.23,Santo Domingo,Metropolitana
+VTA-11234,2026-03-12,Supermercados Unidos,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,3,455.3,1365.9,San Cristóbal,Sur
+VTA-10544,2026-03-12,Banco Capital,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,2,4371.9,8743.8,Santiago,Cibao Norte
+VTA-10143,2026-03-13,Grupo Comercial,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,1,1083.1,1083.1,Santiago,Cibao Norte
+VTA-10286,2026-03-14,Grupo Comercial,María Gómez,Tecnología,Monitor 27'',1,276.67,276.67,Puerto Plata,Cibao Norte
+VTA-10691,2026-03-14,Seguros Nacional,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2487.51,2487.51,Santiago,Cibao Norte
+VTA-10139,2026-03-15,Industria Caribe,María Gómez,Mobiliario,Escritorio Ejecutivo,1,459.31,459.31,Santo Domingo,Metropolitana
+VTA-11002,2026-03-15,Banco Capital,María Gómez,Software & Cloud,Suscripción Antivirus Corp,8,433.61,3468.88,La Romana,Este
+VTA-10121,2026-03-15,Altia Telecom,Ana Morales,Tecnología,Servidor Dell PowerEdge,1,4298.32,4298.32,Puerto Plata,Cibao Norte
+VTA-10158,2026-03-15,Grupo Comercial,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,5,440.75,2203.75,Santiago,Cibao Norte
+VTA-10438,2026-03-16,Grupo Comercial,Luis Sánchez,Seguridad,Firewall Fortinet,2,3046.12,6092.24,Puerto Plata,Cibao Norte
+VTA-10025,2026-03-17,Altia Telecom,Juan Pérez,Tecnología,Laptop ThinkPad,1,1259.73,1259.73,Puerto Plata,Cibao Norte
+VTA-11155,2026-03-21,Altia Telecom,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,1,1085.99,1085.99,Santiago,Cibao Norte
+VTA-11230,2026-03-22,Seguros Nacional,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,1,479.14,479.14,Santiago,Cibao Norte
+VTA-11483,2026-03-23,Altia Telecom,Luis Sánchez,Mobiliario,Silla Ergonómica,2,217.07,434.14,Santo Domingo,Metropolitana
+VTA-10134,2026-03-25,Retail Dominicana,Ana Morales,Seguridad,Cámaras CCTV Kit,1,820.24,820.24,Puerto Plata,Cibao Norte
+VTA-10089,2026-03-25,Farmacias del Sol,María Gómez,Tecnología,Monitor 27'',1,281.44,281.44,San Cristóbal,Sur
+VTA-11383,2026-03-26,Retail Dominicana,María Gómez,Tecnología,Monitor 27'',2,289.5,579.0,Punta Cana,Este
+VTA-11440,2026-03-26,Altia Telecom,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,1,467.09,467.09,Santiago,Cibao Norte
+VTA-10866,2026-03-26,Grupo Comercial,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,3,4349.47,13048.41,Punta Cana,Este
+VTA-10909,2026-03-27,Banco Capital,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,2,495.67,991.34,La Romana,Este
+VTA-10167,2026-03-29,Banco Capital,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,2,465.17,930.34,Santiago,Cibao Norte
+VTA-11486,2026-03-31,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,8,4379.87,35038.96,Santiago,Cibao Norte
+VTA-10568,2026-03-31,Seguros Nacional,Juan Pérez,Mobiliario,Silla Ergonómica,2,223.81,447.62,Punta Cana,Este
+VTA-10037,2026-04-01,Grupo Comercial,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2553.04,2553.04,Santo Domingo,Metropolitana
+VTA-10174,2026-04-02,Altia Telecom,Ana Morales,Seguridad,Cámaras CCTV Kit,2,871.96,1743.92,San Cristóbal,Sur
+VTA-10155,2026-04-02,Farmacias del Sol,María Gómez,Seguridad,Firewall Fortinet,1,3311.4,3311.4,Santo Domingo,Metropolitana
+VTA-10570,2026-04-03,Retail Dominicana,Juan Pérez,Mobiliario,Silla Ergonómica,1,219.67,219.67,San Cristóbal,Sur
+VTA-10244,2026-04-03,Altia Telecom,Ana Morales,Software & Cloud,Licencia ERP Cloud,1,2442.44,2442.44,Punta Cana,Este
+VTA-10583,2026-04-04,Banco Capital,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,1,480.34,480.34,Santiago,Cibao Norte
+VTA-10574,2026-04-04,Logística Express,María Gómez,Software & Cloud,Servicio Backup Dedicado,10,1092.68,10926.8,Santiago,Cibao Norte
+VTA-10611,2026-04-04,Altia Telecom,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,2,2461.88,4923.76,San Cristóbal,Sur
+VTA-10848,2026-04-04,Banco Capital,Juan Pérez,Seguridad,Cámaras CCTV Kit,5,833.65,4168.25,La Romana,Este
+VTA-11207,2026-04-04,Grupo Comercial,Luis Sánchez,Seguridad,Cámaras CCTV Kit,1,820.88,820.88,Santo Domingo,Metropolitana
+VTA-10778,2026-04-04,Seguros Nacional,María Gómez,Tecnología,Laptop ThinkPad,1,1155.98,1155.98,Puerto Plata,Cibao Norte
+VTA-10629,2026-04-06,Retail Dominicana,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2543.19,2543.19,San Cristóbal,Sur
+VTA-10690,2026-04-06,Altia Telecom,Ana Morales,Tecnología,Laptop ThinkPad,1,1166.61,1166.61,La Romana,Este
+VTA-10091,2026-04-06,Retail Dominicana,Luis Sánchez,Tecnología,Monitor 27'',1,267.03,267.03,Santo Domingo,Metropolitana
+VTA-10346,2026-04-07,Banco Capital,Juan Pérez,Seguridad,Cámaras CCTV Kit,1,847.63,847.63,La Romana,Este
+VTA-11350,2026-04-07,Altia Telecom,Juan Pérez,Tecnología,Monitor 27'',5,292.34,1461.7,Puerto Plata,Cibao Norte
+VTA-11266,2026-04-08,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,2,2538.56,5077.12,La Romana,Este
+VTA-10339,2026-04-10,Banco Capital,Carlos Díaz,Mobiliario,Silla Ergonómica,2,229.53,459.06,La Romana,Este
+VTA-10150,2026-04-10,Banco Capital,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,2,469.0,938.0,Punta Cana,Este
+VTA-10214,2026-04-11,Retail Dominicana,Ana Morales,Seguridad,Cámaras CCTV Kit,1,821.04,821.04,Santiago,Cibao Norte
+VTA-10972,2026-04-11,Grupo Comercial,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,1,461.7,461.7,San Cristóbal,Sur
+VTA-10126,2026-04-11,Seguros Nacional,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,1,436.57,436.57,Santo Domingo,Metropolitana
+VTA-11343,2026-04-12,Grupo Comercial,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,1,4286.58,4286.58,Santiago,Cibao Norte
+VTA-11166,2026-04-12,Retail Dominicana,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,4458.55,4458.55,La Romana,Este
+VTA-10133,2026-04-13,Seguros Nacional,Carlos Díaz,Tecnología,Laptop ThinkPad,2,1152.35,2304.7,Santiago,Cibao Norte
+VTA-11064,2026-04-14,Banco Capital,Ana Morales,Seguridad,Firewall Fortinet,3,3104.92,9314.76,Punta Cana,Este
+VTA-11025,2026-04-14,Banco Capital,Ana Morales,Tecnología,Laptop ThinkPad,2,1220.81,2441.62,Puerto Plata,Cibao Norte
+VTA-10552,2026-04-15,Banco Capital,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,1,1117.07,1117.07,Punta Cana,Este
+VTA-11229,2026-04-15,Grupo Comercial,María Gómez,Seguridad,Firewall Fortinet,1,3330.39,3330.39,Puerto Plata,Cibao Norte
+VTA-10928,2026-04-16,Altia Telecom,Juan Pérez,Tecnología,Monitor 27'',3,276.39,829.17,Punta Cana,Este
+VTA-11415,2026-04-17,Grupo Comercial,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,474.13,474.13,Santiago,Cibao Norte
+VTA-11232,2026-04-17,Altia Telecom,María Gómez,Mobiliario,Silla Ergonómica,10,213.34,2133.4,Punta Cana,Este
+VTA-11103,2026-04-18,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet,2,3129.53,6259.06,San Cristóbal,Sur
+VTA-11316,2026-04-19,Industria Caribe,Ana Morales,Tecnología,Servidor Dell PowerEdge,2,4585.78,9171.56,Santo Domingo,Metropolitana
+VTA-10977,2026-04-19,Seguros Nacional,Luis Sánchez,Seguridad,Firewall Fortinet,1,3260.61,3260.61,Santiago,Cibao Norte
+VTA-11298,2026-04-20,Banco Capital,Carlos Díaz,Mobiliario,Silla Ergonómica,8,223.47,1787.76,Santiago,Cibao Norte
+VTA-10697,2026-04-20,Banco Capital,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,3,1141.26,3423.78,San Cristóbal,Sur
+VTA-11442,2026-04-20,Altia Telecom,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,4,1083.28,4333.12,La Romana,Este
+VTA-11183,2026-04-21,Seguros Nacional,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,4651.85,4651.85,San Cristóbal,Sur
+VTA-10135,2026-04-23,Seguros Nacional,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,3,4529.48,13588.44,Punta Cana,Este
+VTA-11320,2026-04-24,Grupo Comercial,María Gómez,Software & Cloud,Servicio Backup Dedicado,2,1120.81,2241.62,Puerto Plata,Cibao Norte
+VTA-10382,2026-04-25,Altia Telecom,Juan Pérez,Seguridad,Cámaras CCTV Kit,5,870.39,4351.95,Santo Domingo,Metropolitana
+VTA-10946,2026-04-25,Banco Capital,Juan Pérez,Seguridad,Cámaras CCTV Kit,2,827.25,1654.5,La Romana,Este
+VTA-10785,2026-04-27,Banco Capital,María Gómez,Mobiliario,Silla Ergonómica,2,221.21,442.42,Santiago,Cibao Norte
+VTA-10557,2026-04-27,Retail Dominicana,Luis Sánchez,Mobiliario,Silla Ergonómica,4,210.71,842.84,Puerto Plata,Cibao Norte
+VTA-10366,2026-04-27,Retail Dominicana,Carlos Díaz,Tecnología,Monitor 27'',2,270.73,541.46,Punta Cana,Este
+VTA-10348,2026-04-27,Grupo Comercial,María Gómez,Software & Cloud,Servicio Backup Dedicado,2,1052.19,2104.38,Santo Domingo,Metropolitana
+VTA-10740,2026-04-28,Supermercados Unidos,Juan Pérez,Mobiliario,Escritorio Ejecutivo,2,468.6,937.2,Santiago,Cibao Norte
+VTA-10636,2026-04-28,Altia Telecom,Ana Morales,Software & Cloud,Licencia ERP Cloud,2,2502.46,5004.92,Santo Domingo,Metropolitana
+VTA-10680,2026-04-28,Industria Caribe,Luis Sánchez,Seguridad,Cámaras CCTV Kit,5,875.96,4379.8,San Cristóbal,Sur
+VTA-11256,2026-04-28,Grupo Comercial,Ana Morales,Tecnología,Laptop ThinkPad,3,1259.11,3777.33,Puerto Plata,Cibao Norte
+VTA-11328,2026-04-29,Seguros Nacional,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,2,1124.09,2248.18,La Romana,Este
+VTA-10809,2026-04-29,Grupo Comercial,María Gómez,Tecnología,Monitor 27'',1,283.68,283.68,San Cristóbal,Sur
+VTA-10520,2026-04-30,Industria Caribe,Juan Pérez,Seguridad,Cámaras CCTV Kit,2,811.89,1623.78,Santo Domingo,Metropolitana
+VTA-11206,2026-04-30,Banco Capital,Ana Morales,Seguridad,Cámaras CCTV Kit,1,837.48,837.48,Santo Domingo,Metropolitana
+VTA-10955,2026-05-01,Banco Capital,Ana Morales,Seguridad,Cámaras CCTV Kit,2,856.58,1713.16,Santo Domingo,Metropolitana
+VTA-11141,2026-05-01,Banco Capital,Juan Pérez,Tecnología,Monitor 27'',1,269.27,269.27,Santo Domingo,Metropolitana
+VTA-10878,2026-05-02,Grupo Comercial,Juan Pérez,Tecnología,Monitor 27'',1,268.1,268.1,Punta Cana,Este
+VTA-10353,2026-05-02,Altia Telecom,Juan Pérez,Mobiliario,Silla Ergonómica,3,209.48,628.44,Puerto Plata,Cibao Norte
+VTA-10159,2026-05-03,Seguros Nacional,Juan Pérez,Seguridad,Cámaras CCTV Kit,2,891.26,1782.52,Santiago,Cibao Norte
+VTA-10556,2026-05-05,Seguros Nacional,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,473.93,473.93,La Romana,Este
+VTA-10602,2026-05-06,Industria Caribe,María Gómez,Tecnología,Servidor Dell PowerEdge,4,4611.51,18446.04,San Cristóbal,Sur
+VTA-11401,2026-05-07,Seguros Nacional,María Gómez,Mobiliario,Escritorio Ejecutivo,2,487.84,975.68,San Cristóbal,Sur
+VTA-10271,2026-05-08,Seguros Nacional,María Gómez,Software & Cloud,Licencia ERP Cloud,3,2480.93,7442.79,Punta Cana,Este
+VTA-10291,2026-05-08,Industria Caribe,María Gómez,Software & Cloud,Licencia ERP Cloud,5,2518.26,12591.3,San Cristóbal,Sur
+VTA-11238,2026-05-09,Grupo Comercial,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,3,4445.26,13335.78,Puerto Plata,Cibao Norte
+VTA-10542,2026-05-09,Industria Caribe,Juan Pérez,Mobiliario,Escritorio Ejecutivo,1,489.64,489.64,Santo Domingo,Metropolitana
+VTA-10324,2026-05-09,Banco Capital,María Gómez,Software & Cloud,Suscripción Antivirus Corp,4,460.17,1840.68,Santiago,Cibao Norte
+VTA-11037,2026-05-10,Industria Caribe,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,2,2546.11,5092.22,San Cristóbal,Sur
+VTA-11249,2026-05-10,Seguros Nacional,María Gómez,Mobiliario,Silla Ergonómica,4,222.49,889.96,Santo Domingo,Metropolitana
+VTA-11157,2026-05-11,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,2,4436.49,8872.98,Santiago,Cibao Norte
+VTA-10900,2026-05-12,Industria Caribe,Ana Morales,Seguridad,Firewall Fortinet,4,3160.7,12642.8,Santo Domingo,Metropolitana
+VTA-10518,2026-05-13,Seguros Nacional,María Gómez,Tecnología,Servidor Dell PowerEdge,1,4626.98,4626.98,Santo Domingo,Metropolitana
+VTA-10904,2026-05-13,Grupo Comercial,Carlos Díaz,Seguridad,Cámaras CCTV Kit,4,857.08,3428.32,Punta Cana,Este
+VTA-11474,2026-05-14,Altia Telecom,Luis Sánchez,Seguridad,Cámaras CCTV Kit,1,863.53,863.53,San Cristóbal,Sur
+VTA-10223,2026-05-14,Altia Telecom,Juan Pérez,Tecnología,Laptop ThinkPad,1,1238.94,1238.94,Santo Domingo,Metropolitana
+VTA-10069,2026-05-16,Banco Capital,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,2581.61,2581.61,Santo Domingo,Metropolitana
+VTA-10380,2026-05-16,Banco Capital,María Gómez,Tecnología,Laptop ThinkPad,1,1244.91,1244.91,Punta Cana,Este
+VTA-11438,2026-05-17,Farmacias del Sol,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,3,446.93,1340.79,San Cristóbal,Sur
+VTA-10588,2026-05-18,Seguros Nacional,Juan Pérez,Seguridad,Cámaras CCTV Kit,1,810.15,810.15,La Romana,Este
+VTA-11196,2026-05-19,Grupo Comercial,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,4,465.77,1863.08,Punta Cana,Este
+VTA-10341,2026-05-20,Altia Telecom,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2465.56,2465.56,Santo Domingo,Metropolitana
+VTA-10334,2026-05-20,Banco Capital,Ana Morales,Mobiliario,Silla Ergonómica,2,217.53,435.06,La Romana,Este
+VTA-10017,2026-05-20,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,4289.14,8578.28,Santiago,Cibao Norte
+VTA-10657,2026-05-21,Industria Caribe,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,1,471.69,471.69,Santiago,Cibao Norte
+VTA-11119,2026-05-21,Altia Telecom,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,2,4492.12,8984.24,Punta Cana,Este
+VTA-11382,2026-05-23,Grupo Comercial,Juan Pérez,Seguridad,Cámaras CCTV Kit,1,855.82,855.82,Santiago,Cibao Norte
+VTA-11058,2026-05-23,Altia Telecom,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,4,4447.52,17790.08,La Romana,Este
+VTA-10493,2026-05-25,Industria Caribe,María Gómez,Mobiliario,Silla Ergonómica,10,212.38,2123.8,La Romana,Este
+VTA-10728,2026-05-26,Retail Dominicana,Carlos Díaz,Seguridad,Cámaras CCTV Kit,1,889.4,889.4,La Romana,Este
+VTA-10420,2026-05-26,Constructora Metro,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,1,2399.83,2399.83,Punta Cana,Este
+VTA-10624,2026-05-26,Supermercados Unidos,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,2,4606.31,9212.62,San Cristóbal,Sur
+VTA-11057,2026-05-27,Grupo Comercial,María Gómez,Tecnología,Servidor Dell PowerEdge,1,4720.11,4720.11,Santo Domingo,Metropolitana
+VTA-11105,2026-05-29,Altia Telecom,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,2,477.14,954.28,La Romana,Este
+VTA-10706,2026-05-30,Supermercados Unidos,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,1,1092.2,1092.2,Santiago,Cibao Norte
+VTA-11051,2026-05-30,Banco Capital,Carlos Díaz,Seguridad,Cámaras CCTV Kit,1,814.47,814.47,Santiago,Cibao Norte
+VTA-10822,2026-05-31,Banco Capital,Juan Pérez,Seguridad,Cámaras CCTV Kit,1,875.7,875.7,Puerto Plata,Cibao Norte
+VTA-11493,2026-06-01,Constructora Metro,Ana Morales,Tecnología,Monitor 27'',2,276.4,552.8,San Cristóbal,Sur
+VTA-10225,2026-06-05,Industria Caribe,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,2,4678.3,9356.6,Puerto Plata,Cibao Norte
+VTA-10770,2026-06-05,Industria Caribe,Carlos Díaz,Seguridad,Firewall Fortinet,3,3127.25,9381.75,Santiago,Cibao Norte
+VTA-10369,2026-06-05,Banco Capital,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,8,2624.27,20994.16,Santiago,Cibao Norte
+VTA-10634,2026-06-05,Altia Telecom,María Gómez,Seguridad,Firewall Fortinet,1,3339.26,3339.26,Santo Domingo,Metropolitana
+VTA-10601,2026-06-06,Supermercados Unidos,Luis Sánchez,Software & Cloud,Suscripción Antivirus Corp,2,429.95,859.9,La Romana,Este
+VTA-10852,2026-06-06,Altia Telecom,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,1,466.77,466.77,Santo Domingo,Metropolitana
+VTA-10789,2026-06-07,Retail Dominicana,Luis Sánchez,Tecnología,Monitor 27'',4,290.81,1163.24,La Romana,Este
+VTA-11358,2026-06-08,Grupo Comercial,María Gómez,Seguridad,Cámaras CCTV Kit,1,860.82,860.82,Puerto Plata,Cibao Norte
+VTA-10840,2026-06-08,Banco Capital,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,1,4557.45,4557.45,Santiago,Cibao Norte
+VTA-11255,2026-06-08,Grupo Comercial,Ana Morales,Seguridad,Firewall Fortinet,1,3049.52,3049.52,Santiago,Cibao Norte
+VTA-11284,2026-06-08,Seguros Nacional,Juan Pérez,Tecnología,Monitor 27'',1,284.05,284.05,San Cristóbal,Sur
+VTA-10679,2026-06-09,Altia Telecom,María Gómez,Tecnología,Laptop ThinkPad,1,1223.6,1223.6,Punta Cana,Este
+VTA-10192,2026-06-09,Grupo Comercial,María Gómez,Tecnología,Laptop ThinkPad,4,1158.47,4633.88,Santiago,Cibao Norte
+VTA-11346,2026-06-09,Altia Telecom,Ana Morales,Software & Cloud,Licencia ERP Cloud,5,2525.9,12629.5,Santo Domingo,Metropolitana
+VTA-10832,2026-06-11,Banco Capital,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,8,1053.56,8428.48,Puerto Plata,Cibao Norte
+VTA-10797,2026-06-12,Banco Capital,Juan Pérez,Mobiliario,Silla Ergonómica,3,216.12,648.36,La Romana,Este
+VTA-10881,2026-06-12,Grupo Comercial,Juan Pérez,Tecnología,Monitor 27'',2,273.35,546.7,Puerto Plata,Cibao Norte
+VTA-10951,2026-06-12,Retail Dominicana,María Gómez,Software & Cloud,Licencia ERP Cloud,1,2504.69,2504.69,Santiago,Cibao Norte
+VTA-10354,2026-06-13,Grupo Comercial,Juan Pérez,Seguridad,Cámaras CCTV Kit,4,817.26,3269.04,Santo Domingo,Metropolitana
+VTA-10514,2026-06-13,Retail Dominicana,Carlos Díaz,Tecnología,Laptop ThinkPad,1,1154.64,1154.64,San Cristóbal,Sur
+VTA-11091,2026-06-13,Grupo Comercial,Ana Morales,Mobiliario,Silla Ergonómica,1,216.53,216.53,San Cristóbal,Sur
+VTA-10329,2026-06-14,Seguros Nacional,Carlos Díaz,Tecnología,Monitor 27'',3,275.95,827.85,Punta Cana,Este
+VTA-11178,2026-06-15,Banco Capital,María Gómez,Tecnología,Servidor Dell PowerEdge,2,4594.4,9188.8,Santo Domingo,Metropolitana
+VTA-10033,2026-06-15,Banco Capital,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,1,467.22,467.22,Puerto Plata,Cibao Norte
+VTA-11300,2026-06-16,Grupo Comercial,Luis Sánchez,Mobiliario,Silla Ergonómica,2,213.94,427.88,Punta Cana,Este
+VTA-10572,2026-06-17,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,4401.4,4401.4,Santiago,Cibao Norte
+VTA-10863,2026-06-17,Altia Telecom,María Gómez,Tecnología,Servidor Dell PowerEdge,2,4428.74,8857.48,La Romana,Este
+VTA-11381,2026-06-17,Banco Capital,Ana Morales,Tecnología,Monitor 27'',3,268.93,806.79,Santo Domingo,Metropolitana
+VTA-11354,2026-06-17,Altia Telecom,Juan Pérez,Mobiliario,Silla Ergonómica,2,221.5,443.0,San Cristóbal,Sur
+VTA-10838,2026-06-20,Grupo Comercial,María Gómez,Seguridad,Firewall Fortinet,8,3123.49,24987.92,Puerto Plata,Cibao Norte
+VTA-10842,2026-06-21,Retail Dominicana,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2533.91,2533.91,San Cristóbal,Sur
+VTA-10587,2026-06-21,Grupo Comercial,Luis Sánchez,Seguridad,Firewall Fortinet,3,3354.66,10063.98,La Romana,Este
+VTA-10639,2026-06-22,Grupo Comercial,Ana Morales,Seguridad,Cámaras CCTV Kit,1,824.49,824.49,Santo Domingo,Metropolitana
+VTA-11233,2026-06-23,Banco Capital,Carlos Díaz,Tecnología,Laptop ThinkPad,2,1196.6,2393.2,Punta Cana,Este
+VTA-11160,2026-06-23,Banco Capital,María Gómez,Mobiliario,Escritorio Ejecutivo,2,497.14,994.28,La Romana,Este
+VTA-11118,2026-06-24,Grupo Comercial,Carlos Díaz,Tecnología,Monitor 27'',2,287.11,574.22,Santo Domingo,Metropolitana
+VTA-10333,2026-06-24,Retail Dominicana,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,1,457.34,457.34,Santiago,Cibao Norte
+VTA-11500,2026-06-26,Banco Capital,Ana Morales,Software & Cloud,Servicio Backup Dedicado,8,1111.63,8893.04,Santiago,Cibao Norte
+VTA-11063,2026-06-28,Altia Telecom,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,3,4353.7,13061.1,Santo Domingo,Metropolitana
+VTA-10445,2026-06-28,Seguros Nacional,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,1,4510.16,4510.16,Santiago,Cibao Norte
+VTA-10632,2026-06-29,Banco Capital,María Gómez,Seguridad,Firewall Fortinet,1,3133.27,3133.27,Santiago,Cibao Norte
+VTA-11315,2026-06-30,Grupo Comercial,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,2,471.2,942.4,Santo Domingo,Metropolitana
+VTA-11264,2026-07-01,Altia Telecom,Ana Morales,Tecnología,Servidor Dell PowerEdge,1,4362.21,4362.21,Puerto Plata,Cibao Norte
+VTA-10801,2026-07-02,Supermercados Unidos,Luis Sánchez,Mobiliario,Silla Ergonómica,3,210.18,630.54,San Cristóbal,Sur
+VTA-10343,2026-07-03,Grupo Comercial,María Gómez,Software & Cloud,Suscripción Antivirus Corp,1,465.39,465.39,Punta Cana,Este
+VTA-10156,2026-07-03,Altia Telecom,Ana Morales,Tecnología,Monitor 27'',2,291.5,583.0,Santiago,Cibao Norte
+VTA-10371,2026-07-04,Farmacias del Sol,Luis Sánchez,Mobiliario,Silla Ergonómica,2,227.02,454.04,Punta Cana,Este
+VTA-10594,2026-07-05,Seguros Nacional,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,1,437.94,437.94,San Cristóbal,Sur
+VTA-10258,2026-07-05,Grupo Comercial,Luis Sánchez,Tecnología,Laptop ThinkPad,1,1168.51,1168.51,Santo Domingo,Metropolitana
+VTA-10351,2026-07-05,Banco Capital,Ana Morales,Mobiliario,Silla Ergonómica,8,219.88,1759.04,San Cristóbal,Sur
+VTA-11342,2026-07-06,Grupo Comercial,Juan Pérez,Seguridad,Firewall Fortinet,3,3201.24,9603.72,Puerto Plata,Cibao Norte
+VTA-11167,2026-07-06,Altia Telecom,Ana Morales,Mobiliario,Silla Ergonómica,5,212.91,1064.55,Santo Domingo,Metropolitana
+VTA-11485,2026-07-06,Industria Caribe,Juan Pérez,Mobiliario,Escritorio Ejecutivo,2,498.12,996.24,Santo Domingo,Metropolitana
+VTA-10097,2026-07-07,Seguros Nacional,Luis Sánchez,Tecnología,Monitor 27'',5,288.54,1442.7,San Cristóbal,Sur
+VTA-11133,2026-07-10,Banco Capital,Luis Sánchez,Tecnología,Monitor 27'',1,282.15,282.15,Santo Domingo,Metropolitana
+VTA-11019,2026-07-11,Industria Caribe,Ana Morales,Tecnología,Laptop ThinkPad,1,1195.67,1195.67,Santiago,Cibao Norte
+VTA-11213,2026-07-11,Grupo Comercial,Ana Morales,Software & Cloud,Servicio Backup Dedicado,1,1126.4,1126.4,Santo Domingo,Metropolitana
+VTA-11062,2026-07-12,Grupo Comercial,Carlos Díaz,Software & Cloud,Suscripción Antivirus Corp,1,461.54,461.54,Puerto Plata,Cibao Norte
+VTA-11240,2026-07-13,Banco Capital,Ana Morales,Software & Cloud,Licencia ERP Cloud,5,2432.03,12160.15,Puerto Plata,Cibao Norte
+VTA-10723,2026-07-13,Banco Capital,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,1,4640.61,4640.61,La Romana,Este
+VTA-10088,2026-07-13,Banco Capital,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,3,1149.48,3448.44,Puerto Plata,Cibao Norte
+VTA-10908,2026-07-14,Constructora Metro,Juan Pérez,Tecnología,Monitor 27'',2,290.16,580.32,San Cristóbal,Sur
+VTA-10313,2026-07-15,Grupo Comercial,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,1,4572.62,4572.62,La Romana,Este
+VTA-10453,2026-07-15,Grupo Comercial,María Gómez,Mobiliario,Silla Ergonómica,1,225.47,225.47,Santiago,Cibao Norte
+VTA-11035,2026-07-15,Altia Telecom,Luis Sánchez,Seguridad,Firewall Fortinet,3,3122.49,9367.47,Punta Cana,Este
+VTA-10298,2026-07-15,Industria Caribe,Juan Pérez,Mobiliario,Silla Ergonómica,1,212.13,212.13,Punta Cana,Este
+VTA-10811,2026-07-16,Logística Express,Ana Morales,Tecnología,Laptop ThinkPad,1,1146.74,1146.74,Santo Domingo,Metropolitana
+VTA-10614,2026-07-16,Banco Capital,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,1,4718.39,4718.39,La Romana,Este
+VTA-11038,2026-07-16,Banco Capital,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,4566.72,4566.72,Santo Domingo,Metropolitana
+VTA-10648,2026-07-22,Banco Capital,Juan Pérez,Seguridad,Cámaras CCTV Kit,2,836.52,1673.04,La Romana,Este
+VTA-10905,2026-07-23,Banco Capital,Ana Morales,Mobiliario,Silla Ergonómica,1,221.88,221.88,Santo Domingo,Metropolitana
+VTA-10319,2026-07-24,Altia Telecom,Juan Pérez,Seguridad,Cámaras CCTV Kit,2,844.23,1688.46,Santo Domingo,Metropolitana
+VTA-10358,2026-07-24,Banco Capital,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,3,4298.38,12895.14,Santiago,Cibao Norte
+VTA-10446,2026-07-24,Banco Capital,María Gómez,Software & Cloud,Servicio Backup Dedicado,1,1050.52,1050.52,Santiago,Cibao Norte
+VTA-11156,2026-07-27,Banco Capital,María Gómez,Mobiliario,Escritorio Ejecutivo,3,466.45,1399.35,Punta Cana,Este
+VTA-11060,2026-07-27,Grupo Comercial,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,2,471.05,942.1,Santiago,Cibao Norte
+VTA-10259,2026-07-28,Banco Capital,Carlos Díaz,Seguridad,Cámaras CCTV Kit,2,864.3,1728.6,Punta Cana,Este
+VTA-10932,2026-07-30,Banco Capital,Ana Morales,Seguridad,Firewall Fortinet,1,3319.21,3319.21,Santiago,Cibao Norte
+VTA-10260,2026-07-30,Altia Telecom,Luis Sánchez,Seguridad,Cámaras CCTV Kit,2,851.62,1703.24,Santiago,Cibao Norte
+VTA-11021,2026-08-01,Grupo Comercial,María Gómez,Software & Cloud,Suscripción Antivirus Corp,3,447.61,1342.83,Santo Domingo,Metropolitana
+VTA-10234,2026-08-04,Altia Telecom,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,2,445.3,890.6,Santiago,Cibao Norte
+VTA-10130,2026-08-04,Grupo Comercial,Carlos Díaz,Seguridad,Cámaras CCTV Kit,1,866.47,866.47,Punta Cana,Este
+VTA-11334,2026-08-04,Altia Telecom,Carlos Díaz,Seguridad,Cámaras CCTV Kit,2,816.82,1633.64,Santo Domingo,Metropolitana
+VTA-10725,2026-08-04,Grupo Comercial,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,3,453.53,1360.59,Punta Cana,Este
+VTA-11295,2026-08-05,Altia Telecom,Luis Sánchez,Mobiliario,Silla Ergonómica,2,211.86,423.72,Santo Domingo,Metropolitana
+VTA-11456,2026-08-06,Banco Capital,Ana Morales,Tecnología,Servidor Dell PowerEdge,3,4425.22,13275.66,San Cristóbal,Sur
+VTA-10984,2026-08-07,Farmacias del Sol,Juan Pérez,Tecnología,Laptop ThinkPad,1,1230.58,1230.58,Santiago,Cibao Norte
+VTA-10896,2026-08-07,Industria Caribe,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,1,471.46,471.46,Punta Cana,Este
+VTA-11467,2026-08-07,Farmacias del Sol,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,2,1045.05,2090.1,Punta Cana,Este
+VTA-11189,2026-08-07,Seguros Nacional,Ana Morales,Mobiliario,Silla Ergonómica,1,209.22,209.22,Puerto Plata,Cibao Norte
+VTA-11135,2026-08-08,Altia Telecom,Juan Pérez,Seguridad,Cámaras CCTV Kit,1,882.41,882.41,San Cristóbal,Sur
+VTA-10075,2026-08-11,Industria Caribe,Luis Sánchez,Seguridad,Firewall Fortinet,1,3176.35,3176.35,San Cristóbal,Sur
+VTA-10355,2026-08-11,Altia Telecom,Juan Pérez,Tecnología,Monitor 27'',2,268.29,536.58,Santo Domingo,Metropolitana
+VTA-10752,2026-08-12,Banco Capital,Carlos Díaz,Tecnología,Monitor 27'',2,273.41,546.82,La Romana,Este
+VTA-10008,2026-08-13,Banco Capital,Luis Sánchez,Tecnología,Laptop ThinkPad,3,1171.05,3513.15,Punta Cana,Este
+VTA-10218,2026-08-13,Banco Capital,Luis Sánchez,Tecnología,Monitor 27'',1,288.33,288.33,Puerto Plata,Cibao Norte
+VTA-10715,2026-08-14,Farmacias del Sol,Juan Pérez,Software & Cloud,Licencia ERP Cloud,2,2528.62,5057.24,Santo Domingo,Metropolitana
+VTA-10233,2026-08-14,Retail Dominicana,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,2,2501.21,5002.42,La Romana,Este
+VTA-10186,2026-08-15,Altia Telecom,Juan Pérez,Mobiliario,Silla Ergonómica,1,211.41,211.41,Puerto Plata,Cibao Norte
+VTA-11193,2026-08-16,Industria Caribe,Ana Morales,Tecnología,Servidor Dell PowerEdge,1,4619.37,4619.37,Punta Cana,Este
+VTA-10661,2026-08-16,Altia Telecom,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,494.09,494.09,San Cristóbal,Sur
+VTA-10650,2026-08-17,Grupo Comercial,Carlos Díaz,Seguridad,Cámaras CCTV Kit,3,876.98,2630.94,Punta Cana,Este
+VTA-10216,2026-08-17,Grupo Comercial,Ana Morales,Tecnología,Servidor Dell PowerEdge,2,4358.46,8716.92,Santiago,Cibao Norte
+VTA-10359,2026-08-17,Grupo Comercial,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,3,471.85,1415.55,La Romana,Este
+VTA-10292,2026-08-19,Banco Capital,Juan Pérez,Tecnología,Laptop ThinkPad,3,1212.75,3638.25,La Romana,Este
+VTA-10316,2026-08-19,Industria Caribe,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,3,2528.75,7586.25,Santo Domingo,Metropolitana
+VTA-10559,2026-08-20,Grupo Comercial,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,3,446.0,1338.0,Puerto Plata,Cibao Norte
+VTA-10390,2026-08-20,Altia Telecom,Luis Sánchez,Mobiliario,Silla Ergonómica,3,229.01,687.03,Puerto Plata,Cibao Norte
+VTA-10901,2026-08-20,Industria Caribe,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,3,4519.16,13557.48,Santiago,Cibao Norte
+VTA-10187,2026-08-21,Banco Capital,María Gómez,Software & Cloud,Suscripción Antivirus Corp,2,431.52,863.04,Puerto Plata,Cibao Norte
+VTA-11016,2026-08-22,Altia Telecom,Luis Sánchez,Tecnología,Laptop ThinkPad,1,1204.95,1204.95,San Cristóbal,Sur
+VTA-11128,2026-08-23,Banco Capital,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,1,1099.97,1099.97,Punta Cana,Este
+VTA-10231,2026-08-23,Industria Caribe,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,2,4311.69,8623.38,Santo Domingo,Metropolitana
+VTA-11127,2026-08-24,Grupo Comercial,Luis Sánchez,Tecnología,Monitor 27'',1,272.51,272.51,Puerto Plata,Cibao Norte
+VTA-10950,2026-08-27,Banco Capital,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,2,4392.32,8784.64,Punta Cana,Este
+VTA-10749,2026-08-27,Seguros Nacional,Carlos Díaz,Software & Cloud,Servicio Backup Dedicado,4,1054.47,4217.88,Santo Domingo,Metropolitana
+VTA-10966,2026-08-27,Banco Capital,María Gómez,Software & Cloud,Servicio Backup Dedicado,2,1147.14,2294.28,Santiago,Cibao Norte
+VTA-11386,2026-08-27,Grupo Comercial,Ana Morales,Tecnología,Monitor 27'',1,289.13,289.13,Punta Cana,Este
+VTA-10085,2026-08-28,Grupo Comercial,Ana Morales,Software & Cloud,Suscripción Antivirus Corp,1,439.98,439.98,La Romana,Este
+VTA-10103,2026-08-28,Banco Capital,Ana Morales,Seguridad,Cámaras CCTV Kit,4,842.49,3369.96,La Romana,Este
+VTA-10458,2026-08-29,Industria Caribe,Juan Pérez,Seguridad,Firewall Fortinet,1,3198.02,3198.02,Santiago,Cibao Norte
+VTA-11188,2026-08-30,Seguros Nacional,María Gómez,Mobiliario,Silla Ergonómica,1,219.52,219.52,Punta Cana,Este
+VTA-10768,2026-08-30,Grupo Comercial,Juan Pérez,Tecnología,Servidor Dell PowerEdge,1,4721.63,4721.63,Punta Cana,Este
+VTA-10408,2026-08-30,Banco Capital,María Gómez,Software & Cloud,Servicio Backup Dedicado,1,1057.73,1057.73,Punta Cana,Este
+VTA-10342,2026-08-30,Industria Caribe,Luis Sánchez,Tecnología,Laptop ThinkPad,3,1251.55,3754.65,San Cristóbal,Sur
+VTA-10621,2026-09-01,Altia Telecom,Luis Sánchez,Mobiliario,Silla Ergonómica,1,229.69,229.69,Santo Domingo,Metropolitana
+VTA-10411,2026-09-01,Banco Capital,Luis Sánchez,Tecnología,Laptop ThinkPad,2,1165.93,2331.86,San Cristóbal,Sur
+VTA-10757,2026-09-01,Altia Telecom,Ana Morales,Tecnología,Servidor Dell PowerEdge,1,4672.6,4672.6,San Cristóbal,Sur
+VTA-10440,2026-09-02,Seguros Nacional,Juan Pérez,Seguridad,Cámaras CCTV Kit,3,852.43,2557.29,Punta Cana,Este
+VTA-10675,2026-09-02,Grupo Comercial,María Gómez,Tecnología,Monitor 27'',3,267.21,801.63,San Cristóbal,Sur
+VTA-11171,2026-09-02,Seguros Nacional,María Gómez,Tecnología,Monitor 27'',1,282.47,282.47,Puerto Plata,Cibao Norte
+VTA-10391,2026-09-03,Banco Capital,Juan Pérez,Seguridad,Firewall Fortinet,1,3177.74,3177.74,Puerto Plata,Cibao Norte
+VTA-11047,2026-09-03,Grupo Comercial,Luis Sánchez,Tecnología,Servidor Dell PowerEdge,1,4633.59,4633.59,La Romana,Este
+VTA-11077,2026-09-04,Grupo Comercial,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,1,452.43,452.43,San Cristóbal,Sur
+VTA-10461,2026-09-05,Industria Caribe,Luis Sánchez,Tecnología,Laptop ThinkPad,8,1183.21,9465.68,Santiago,Cibao Norte
+VTA-10681,2026-09-06,Grupo Comercial,Carlos Díaz,Mobiliario,Escritorio Ejecutivo,2,457.24,914.48,Puerto Plata,Cibao Norte
+VTA-10622,2026-09-07,Altia Telecom,Juan Pérez,Software & Cloud,Servicio Backup Dedicado,1,1137.21,1137.21,La Romana,Este
+VTA-11269,2026-09-07,Banco Capital,Ana Morales,Mobiliario,Escritorio Ejecutivo,3,464.45,1393.35,Punta Cana,Este
+VTA-10166,2026-09-07,Grupo Comercial,María Gómez,Tecnología,Monitor 27'',3,270.66,811.98,San Cristóbal,Sur
+VTA-10923,2026-09-09,Grupo Comercial,Luis Sánchez,Tecnología,Laptop ThinkPad,1,1249.15,1249.15,Puerto Plata,Cibao Norte
+VTA-11452,2026-09-09,Banco Capital,Carlos Díaz,Software & Cloud,Licencia ERP Cloud,1,2620.16,2620.16,Santo Domingo,Metropolitana
+VTA-10702,2026-09-10,Altia Telecom,Luis Sánchez,Seguridad,Cámaras CCTV Kit,2,877.48,1754.96,Punta Cana,Este
+VTA-10753,2026-09-10,Altia Telecom,Ana Morales,Mobiliario,Escritorio Ejecutivo,2,493.65,987.3,San Cristóbal,Sur
+VTA-10270,2026-09-10,Grupo Comercial,Luis Sánchez,Seguridad,Cámaras CCTV Kit,2,872.95,1745.9,Santiago,Cibao Norte
+VTA-11001,2026-09-11,Seguros Nacional,Luis Sánchez,Seguridad,Firewall Fortinet,8,3252.12,26016.96,La Romana,Este
+VTA-10138,2026-09-11,Grupo Comercial,Ana Morales,Software & Cloud,Licencia ERP Cloud,3,2604.69,7814.07,Punta Cana,Este
+VTA-10320,2026-09-11,Banco Capital,Ana Morales,Software & Cloud,Licencia ERP Cloud,1,2405.38,2405.38,San Cristóbal,Sur
+VTA-11290,2026-09-11,Altia Telecom,Juan Pérez,Software & Cloud,Licencia ERP Cloud,1,2541.85,2541.85,Puerto Plata,Cibao Norte
+VTA-11451,2026-09-12,Grupo Comercial,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,1,1045.41,1045.41,La Romana,Este
+VTA-10180,2026-09-12,Industria Caribe,Ana Morales,Software & Cloud,Licencia ERP Cloud,1,2572.68,2572.68,Santo Domingo,Metropolitana
+VTA-10608,2026-09-12,Banco Capital,Ana Morales,Seguridad,Firewall Fortinet,3,3322.53,9967.59,La Romana,Este
+VTA-11247,2026-09-13,Altia Telecom,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,8,498.96,3991.68,Punta Cana,Este
+VTA-10350,2026-09-13,Grupo Comercial,María Gómez,Software & Cloud,Licencia ERP Cloud,4,2407.0,9628.0,Punta Cana,Este
+VTA-10459,2026-09-13,Retail Dominicana,María Gómez,Software & Cloud,Suscripción Antivirus Corp,1,466.9,466.9,Puerto Plata,Cibao Norte
+VTA-10491,2026-09-14,Farmacias del Sol,María Gómez,Software & Cloud,Suscripción Antivirus Corp,1,437.49,437.49,Punta Cana,Este
+VTA-10504,2026-09-15,Seguros Nacional,María Gómez,Tecnología,Servidor Dell PowerEdge,2,4507.05,9014.1,La Romana,Este
+VTA-10212,2026-09-15,Supermercados Unidos,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2474.4,2474.4,Punta Cana,Este
+VTA-10032,2026-09-16,Industria Caribe,Ana Morales,Mobiliario,Silla Ergonómica,1,220.37,220.37,Santiago,Cibao Norte
+VTA-10586,2026-09-16,Grupo Comercial,Ana Morales,Mobiliario,Escritorio Ejecutivo,3,469.37,1408.11,Puerto Plata,Cibao Norte
+VTA-10619,2026-09-17,Grupo Comercial,María Gómez,Seguridad,Cámaras CCTV Kit,1,838.42,838.42,Puerto Plata,Cibao Norte
+VTA-10454,2026-09-17,Banco Capital,Luis Sánchez,Tecnología,Monitor 27'',3,273.73,821.19,Santiago,Cibao Norte
+VTA-10472,2026-09-18,Grupo Comercial,Juan Pérez,Seguridad,Firewall Fortinet,1,3205.75,3205.75,Santo Domingo,Metropolitana
+VTA-10913,2026-09-18,Altia Telecom,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,3,478.1,1434.3,Puerto Plata,Cibao Norte
+VTA-10052,2026-09-18,Altia Telecom,Carlos Díaz,Tecnología,Monitor 27'',1,280.46,280.46,La Romana,Este
+VTA-11404,2026-09-18,Banco Capital,Carlos Díaz,Mobiliario,Silla Ergonómica,1,228.08,228.08,Santiago,Cibao Norte
+VTA-10129,2026-09-19,Banco Capital,Juan Pérez,Software & Cloud,Suscripción Antivirus Corp,2,468.29,936.58,Santiago,Cibao Norte
+VTA-11054,2026-09-19,Industria Caribe,Luis Sánchez,Tecnología,Monitor 27'',2,282.34,564.68,San Cristóbal,Sur
+VTA-11169,2026-09-20,Seguros Nacional,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,4,2433.07,9732.28,Santiago,Cibao Norte
+VTA-11040,2026-09-20,Industria Caribe,Luis Sánchez,Software & Cloud,Servicio Backup Dedicado,8,1134.96,9079.68,Santo Domingo,Metropolitana
+VTA-10503,2026-09-21,Altia Telecom,Carlos Díaz,Seguridad,Cámaras CCTV Kit,3,811.55,2434.65,Punta Cana,Este
+VTA-11008,2026-09-23,Altia Telecom,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,4,4488.54,17954.16,Puerto Plata,Cibao Norte
+VTA-10922,2026-09-24,Banco Capital,Ana Morales,Tecnología,Monitor 27'',8,274.49,2195.92,La Romana,Este
+VTA-10193,2026-09-24,Industria Caribe,Luis Sánchez,Mobiliario,Silla Ergonómica,4,228.69,914.76,Santo Domingo,Metropolitana
+VTA-11319,2026-09-25,Grupo Comercial,Luis Sánchez,Seguridad,Firewall Fortinet,4,3218.24,12872.96,Puerto Plata,Cibao Norte
+VTA-11463,2026-09-25,Supermercados Unidos,Luis Sánchez,Mobiliario,Silla Ergonómica,1,218.23,218.23,Puerto Plata,Cibao Norte
+VTA-11043,2026-09-26,Industria Caribe,María Gómez,Tecnología,Monitor 27'',1,285.51,285.51,Puerto Plata,Cibao Norte
+VTA-11465,2026-09-26,Farmacias del Sol,Luis Sánchez,Tecnología,Laptop ThinkPad,10,1257.36,12573.6,Puerto Plata,Cibao Norte
+VTA-11347,2026-09-27,Banco Capital,Juan Pérez,Seguridad,Firewall Fortinet,1,3124.31,3124.31,La Romana,Este
+VTA-10463,2026-09-27,Banco Capital,Luis Sánchez,Software & Cloud,Licencia ERP Cloud,1,2587.59,2587.59,Puerto Plata,Cibao Norte
+VTA-10361,2026-09-27,Altia Telecom,Ana Morales,Tecnología,Laptop ThinkPad,1,1143.26,1143.26,Santiago,Cibao Norte
+VTA-10290,2026-09-28,Retail Dominicana,Carlos Díaz,Mobiliario,Silla Ergonómica,1,216.1,216.1,La Romana,Este
+VTA-11078,2026-09-28,Constructora Metro,Carlos Díaz,Seguridad,Cámaras CCTV Kit,4,881.18,3524.72,La Romana,Este
+VTA-11084,2026-09-30,Industria Caribe,María Gómez,Tecnología,Monitor 27'',4,278.68,1114.72,Santo Domingo,Metropolitana
+VTA-10427,2026-09-30,Banco Capital,Carlos Díaz,Tecnología,Servidor Dell PowerEdge,2,4349.36,8698.72,La Romana,Este
+VTA-11476,2026-09-30,Altia Telecom,María Gómez,Seguridad,Firewall Fortinet,1,3305.03,3305.03,La Romana,Este
+VTA-10238,2026-10-01,Grupo Comercial,Ana Morales,Seguridad,Cámaras CCTV Kit,3,856.75,2570.25,Puerto Plata,Cibao Norte
+VTA-11099,2026-10-01,Grupo Comercial,Ana Morales,Seguridad,Cámaras CCTV Kit,2,884.51,1769.02,Santo Domingo,Metropolitana
+VTA-10844,2026-10-03,Grupo Comercial,Ana Morales,Tecnología,Laptop ThinkPad,2,1163.18,2326.36,Santo Domingo,Metropolitana
+VTA-11492,2026-10-05,Grupo Comercial,Luis Sánchez,Mobiliario,Escritorio Ejecutivo,1,466.26,466.26,Santo Domingo,Metropolitana
+VTA-11231,2026-10-05,Altia Telecom,María Gómez,Tecnología,Monitor 27'',2,273.91,547.82,Punta Cana,Este
+VTA-10254,2026-10-06,Altia Telecom,Juan Pérez,Mobiliario,Silla Ergonómica,3,230.85,692.55,Santo Domingo,Metropolitana
